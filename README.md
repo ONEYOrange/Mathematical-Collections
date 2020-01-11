@@ -54,8 +54,8 @@
 * 知乎上有关[Gelfand](https://www.zhihu.com/question/276801163)的讨论:
     * [Israel M. Gelfand](http://israelmgelfand.com/index.html)的Memorial pages
     * [Notes of talks at the I.M.Gelfand seminar](http://www.claymath.org/publications/notes-talks-imgelfand-seminar)
-    * [一些视频](http://math.mit.edu/conferences/Gelfand/program.php)
-    * [Gelfand纪念会的一些见闻](https://www.douban.com/note/299497943/)
+    * [一些来自MIT数学系[Conferences](http://math.mit.edu/news/conferences.php)的视频(youtube)](http://math.mit.edu/conferences/Gelfand/program.php)
+    * [豆瓣上Gelfand纪念会的一些见闻](https://www.douban.com/note/299497943/)
 
 
 
@@ -78,6 +78,27 @@
 
 ## 美国
 
+
+
+* [Doron Zeilberger]https://sites.math.rutgers.edu/~zeilberg/()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 土地奖
 
 
@@ -91,6 +112,7 @@
 
 
 ## 美国
+* [克雷数学研究所](http://www.claymath.org/node/1370)
 
 
 ## 国际组织
