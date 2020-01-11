@@ -57,7 +57,7 @@
 
 ## 俄罗斯
 * [朗道理论物理研究所](http://www.itp.ac.ru/en/staff-scientists/)
-    * 沃尔夫奖得主（1997）、阿贝尔奖得主（2004），研究领域是动力系统、数学物理以及遍历论[Yakov Grigorevich Sinai]https://wikipedia.tw.wjbk.site/baike-%E9%9B%85%E7%A7%91%E5%A4%AB%C2%B7%E8%A5%BF%E5%A5%88()
+    * 沃尔夫奖得主（1997）、阿贝尔奖得主（2004），研究领域是动力系统、数学物理以及遍历论[Yakov Grigorevich Sinai](https://wikipedia.tw.wjbk.site/baike-%E9%9B%85%E7%A7%91%E5%A4%AB%C2%B7%E8%A5%BF%E5%A5%88)
 ## 法国
 
 ## 美国
