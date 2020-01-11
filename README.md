@@ -64,18 +64,15 @@
     * 来自MIT数学系[Conferences](http://math.mit.edu/news/conferences.php)的Videos On YouTube
       [Gelfand Centennial Conference: A View of 21st Century Mathematics](http://math.mit.edu/conferences/Gelfand/program.php)
     * [豆瓣:Gelfand纪念会的一些见闻](https://www.douban.com/note/299497943/)
-    * [Alexandre Kirillov](https://www.math.upenn.edu/~kirillov/)Israil Moiseivich Gelfand的学生，主要工作是李群表示论
-        * [Igor Pak Home Page](https://www.math.ucla.edu/~pak/)主要研究组合数学和概率论,以随机漫步上的研究而闻名
+    * [Alexandre Kirillov](https://www.math.upenn.edu/~kirillov/): Israil Moiseivich Gelfand的学生，主要工作是李群表示论
+        * [Igor Pak Home Page](https://www.math.ucla.edu/~pak/): 主要研究组合数学和概率论,以随机漫步上的研究而闻名
 
 * [Vladimir Igorevich Arnold](https://wikipedia.tw.wjbk.site/baike-%E5%BC%97%E6%8B%89%E5%9F%BA%E7%B1%B3%E7%88%BE%C2%B7%E9%98%BF%E8%AB%BE%E7%88%BE%E5%BE%B7)
     * [Arnold's Mathematical Seminar](http://www.pdmi.ras.ru/~arnsem/)
     * [Arnold: 论数学教育](http://fdjpkc.fudan.edu.cn/_upload/article/files/3f/ef/f30f10ac487a822dbbeb697e55fd/6fd6a9c9-5219-464c-88c8-335e40d13505.pdf)
 
-* [Igor V. Dolgachev](http://www.math.lsa.umich.edu/~idolga/)是Shafarevich的学生，他主页上有很不错的关于代数几何、物理学的note
+* [Igor V. Dolgachev](http://www.math.lsa.umich.edu/~idolga/): Shafarevich的学生，他主页上有很不错的关于代数几何、物理学的note
 
-
-
-* [Igor Pak Home Page](https://www.math.ucla.edu/~pak/)主要研究组合数学和概率论
 
 
 
@@ -98,10 +95,12 @@
 ## 法国
 
 ## 美国
-
-
-
-* [Doron Zeilberger](https://sites.math.rutgers.edu/~zeilberg/)
+* [Mathematics Department of the Rutgers](https://sites.math.rutgers.edu/)
+    * [Yi-Zhi Huang](https://sites.math.rutgers.edu/~yzhuang/)老师是做数学物理的，他的
+Research Interests(from his homepage): I am mainly interested in the mathematical foundation of quantum field theory and its applications in algebra, topology, geometry, condensed matter physics and string theory. In the next few years, I will mostly work on the constructions and study of nonlinear sigma models and its applications in differential geometry and elliptic cohomology, the moduli space of two-dimensional conformal field theories and the applications of two-dimensional conformal field theories to quantum hall systems and topological quantum computation.以及Huang的两位学生：
+        * [Liang Kong's Blog](https://kongliang.wordpress.com/)
+        * [Fei Qi's homepage](https://sites.math.rutgers.edu/~fq15/)
+    * [Doron Zeilberger](https://sites.math.rutgers.edu/~zeilberg/)
 
 
 
@@ -121,11 +120,6 @@
 ## 美国
 * [克雷数学研究所](http://www.claymath.org/node/1370)
 
-* [Mathematics Department of the Rutgers](https://sites.math.rutgers.edu/)
-    * [Yi-Zhi Huang](https://sites.math.rutgers.edu/~yzhuang/)老师是做数学物理的，他的
-Research Interests(from his homepage): I am mainly interested in the mathematical foundation of quantum field theory and its applications in algebra, topology, geometry, condensed matter physics and string theory. In the next few years, I will mostly work on the constructions and study of nonlinear sigma models and its applications in differential geometry and elliptic cohomology, the moduli space of two-dimensional conformal field theories and the applications of two-dimensional conformal field theories to quantum hall systems and topological quantum computation.以及Huang的两位学生：
-        * [Liang Kong's Blog](https://kongliang.wordpress.com/)
-        * [Fei Qi's homepage](https://sites.math.rutgers.edu/~fq15/)
 
 
 
