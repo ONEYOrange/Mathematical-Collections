@@ -52,13 +52,28 @@
 
 # 个人主页
 * 知乎上有关[Gelfand](https://www.zhihu.com/question/276801163)的讨论:
-    * [Israel M. Gelfand](http://israelmgelfand.com/index.html)的个人网站
+    * [Israel M. Gelfand](http://israelmgelfand.com/index.html)的Memorial pages
+    * [Notes of talks at the I.M.Gelfand seminar](http://www.claymath.org/publications/notes-talks-imgelfand-seminar)
+    * [一些视频](http://math.mit.edu/conferences/Gelfand/program.php)
+    * [Gelfand纪念会的一些见闻](https://www.douban.com/note/299497943/)
 
 
 
 ## 俄罗斯
 * [朗道理论物理研究所](http://www.itp.ac.ru/en/staff-scientists/)
-    * 沃尔夫奖得主（1997）、阿贝尔奖得主（2004）[Yakov Grigorevich Sinai](https://wikipedia.tw.wjbk.site/baike-%E9%9B%85%E7%A7%91%E5%A4%AB%C2%B7%E8%A5%BF%E5%A5%88)，研究领域是动力系统、数学物理以及遍历论
+    * 沃尔夫奖（1997）、阿贝尔奖得主（2004）[Yakov Grigorevich Sinai](https://wikipedia.tw.wjbk.site/baike-%E9%9B%85%E7%A7%91%E5%A4%AB%C2%B7%E8%A5%BF%E5%A5%88)，研究领域是动力系统、数学物理以及遍历论
+* [Sobolev Institute of Mathematics](http://math.nsc.ru/en/map.html)里面有纪念的Memorial pages
+    * [S. L. Sobolev](http://www.math.nsc.ru/persons/sob/engl.html)
+    * [L. V. Kantorovich](http://math.nsc.ru/persons/Kanten.html)
+
+
+
+
+
+
+
+
+
 ## 法国
 
 ## 美国
