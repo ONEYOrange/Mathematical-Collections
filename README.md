@@ -54,7 +54,7 @@
 * 知乎上有关[Gelfand](https://www.zhihu.com/question/276801163)的讨论:
     * [Israel M. Gelfand](http://israelmgelfand.com/index.html)的Memorial pages
     * [Notes of talks at the I.M.Gelfand seminar](http://www.claymath.org/publications/notes-talks-imgelfand-seminar)
-    * [一些来自MIT数学系[Conferences](http://math.mit.edu/news/conferences.php)]的[视频(youtube]      (http://math.mit.edu/conferences/Gelfand/program.php)
+    * 来自MIT数学系[Conferences](http://math.mit.edu/news/conferences.php)的[videos on youtube]      (http://math.mit.edu/conferences/Gelfand/program.php)
     * [豆瓣:Gelfand纪念会的一些见闻](https://www.douban.com/note/299497943/)
 
 
@@ -80,7 +80,7 @@
 
 
 
-* [Doron Zeilberger]https://sites.math.rutgers.edu/~zeilberg/()
+* [Doron Zeilberger](https://sites.math.rutgers.edu/~zeilberg/)
 
 
 
