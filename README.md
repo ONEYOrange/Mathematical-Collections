@@ -107,6 +107,9 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         * [Fei Qi's homepage](https://sites.math.rutgers.edu/~fq15/)
     * [Doron Zeilberger](https://sites.math.rutgers.edu/~zeilberg/)
 
+* [Mathematics Department of the Upenn](https://www.math.upenn.edu/)
+    * [Robert Ghrist](https://www.math.upenn.edu/~ghrist/): 有很好的微积分视频(youtube)
+    * [Upenn Online Learning Initiative](https://repository.upenn.edu/discrete_calculus/)这个是可以下载的版本。
 
 
 
