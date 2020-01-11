@@ -34,13 +34,13 @@
 
 ##Interviews
 
-* [Arnold](#http://www.pdmi.ras.ru/~arnsem/Arnold/)
-* 一些数学家的采访[interviews](#https://www.ocf.berkeley.edu/~lekheng/interviews/)
+* [Arnold](http://www.pdmi.ras.ru/~arnsem/Arnold/)
+* [一些数学家的interviews](https://www.ocf.berkeley.edu/~lekheng/interviews/)
 
 
 ##Articles
 
-* [articles](#http://irma.math.unistra.fr/~maudin/mathematiques.html)
+* [articles](http://irma.math.unistra.fr/~maudin/mathematiques.html)
 
 
 
