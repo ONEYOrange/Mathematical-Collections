@@ -57,7 +57,7 @@
 
 ## 俄罗斯
 * [朗道理论物理研究所](http://www.itp.ac.ru/en/staff-scientists/)
-    这是朗道
+    * 这是朗道
 ## 法国
 
 ## 美国
