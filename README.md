@@ -54,9 +54,30 @@
 * 知乎上有关[Gelfand](https://www.zhihu.com/question/276801163)的讨论:
     * [Israel M. Gelfand](http://israelmgelfand.com/index.html)的Memorial pages
     * [Notes of talks at the I.M.Gelfand seminar](http://www.claymath.org/publications/notes-talks-imgelfand-seminar)
-    * 来自MIT数学系[Conferences](http://math.mit.edu/news/conferences.php)的videos on youtube
-      [Gelfand Centennial Conference:A View of 21st Century Mathematics](http://math.mit.edu/conferences/Gelfand/program.php)
+    * 来自MIT数学系[Conferences](http://math.mit.edu/news/conferences.php)的Videos On YouTube
+      [Gelfand Centennial Conference: A View of 21st Century Mathematics](http://math.mit.edu/conferences/Gelfand/program.php)
     * [豆瓣:Gelfand纪念会的一些见闻](https://www.douban.com/note/299497943/)
+
+
+* [Vladimir Igorevich Arnold](https://wikipedia.tw.wjbk.site/baike-%E5%BC%97%E6%8B%89%E5%9F%BA%E7%B1%B3%E7%88%BE%C2%B7%E9%98%BF%E8%AB%BE%E7%88%BE%E5%BE%B7)
+    * [Arnold's Mathematical Seminar](http://www.pdmi.ras.ru/~arnsem/)
+    * [Arnold: 论数学教育](http://fdjpkc.fudan.edu.cn/_upload/article/files/3f/ef/f30f10ac487a822dbbeb697e55fd/6fd6a9c9-5219-464c-88c8-335e40d13505.pdf)
+
+
+* [Igor V. Dolgachev](http://www.math.lsa.umich.edu/~idolga/)是Shafarevich的学生，他主页上有很不错的关于代数几何、物理学的note
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
