@@ -10,7 +10,12 @@
     * [Interviews](#Interviews)
     * [Articles](#Articles)
     
-    
+* [Notes](#Notes) 
+    * [分析](#分析)
+    * [代数](#代数)
+    * [几何](#几何)
+    * [代数几何](#代数几何)
+
 * [个人主页](#个人主页)
     * [俄罗斯](#俄罗斯)
     * [法国](#法国)
@@ -22,12 +27,6 @@
     * [法国](#法国)
     * [美国](#美国)
     * [国际组织](#国际组织)
-
-
-
-
-
-
 
 <!-- END_TOC -->
 
@@ -45,6 +44,25 @@
 ## Articles
 
 * [articles](http://irma.math.unistra.fr/~maudin/mathematiques.html)
+
+
+# Notes
+
+## 分析
+
+
+## 代数
+
+
+## 几何
+
+
+## 代数几何
+
+* [Math.Stackexchange](https://math.stackexchange.com/questions/tagged/soft-question)
+    * [Why study Algebraic Geometry?](https://math.stackexchange.com/questions/255063/why-study-algebraic-geometry/257528#257528)
+    * [Help understanding Algebraic Geometry](https://math.stackexchange.com/questions/269384/help-understanding-algebraic-geometry/269446#269446)
+
 
 
 
@@ -110,6 +128,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [Mathematics Department of the Upenn](https://www.math.upenn.edu/)
     * [Robert Ghrist](https://www.math.upenn.edu/~ghrist/): 有很好的微积分视频(youtube)
     * [Upenn Online Learning Initiative](https://repository.upenn.edu/discrete_calculus/)这个是可以下载的版本。
+    * [Wolfgang Ziller](https://www.math.upenn.edu/~wziller/)有很好的微分几何和黎曼几何讲义
 
 
 
