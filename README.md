@@ -130,6 +130,24 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Upenn Online Learning Initiative](https://repository.upenn.edu/discrete_calculus/)这个是可以下载的版本。
     * [Wolfgang Ziller](https://www.math.upenn.edu/~wziller/)有很好的微分几何和黎曼几何讲义
 
+* [UCB](https://math.berkeley.edu/)
+    * [Lawrence Craig Evans](https://math.berkeley.edu/~evans/): 上面有很好的PDE notes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## 土地奖
