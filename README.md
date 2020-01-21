@@ -52,6 +52,7 @@
     * [你所读的（基础）数学方向，有哪些不错的讲义（Notes）？](https://www.zhihu.com/question/38253477/answer/76064632)
     * [你所读的数学方向，有哪些短小精干的讲义或者教材？](https://www.zhihu.com/question/51099975/answer/124215584)
     * [关于概率/分析/代数/几何等领域Lecture Notes链接分享](https://zhuanlan.zhihu.com/p/46040409)
+    * [哪些数学书让你相见恨晚？](https://www.zhihu.com/question/366915371)
 
 
 ## 分析
