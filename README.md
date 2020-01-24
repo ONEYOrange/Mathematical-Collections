@@ -77,6 +77,8 @@
 
 # 个人主页
 
+* [Kai-Wen Lan's links](http://www-users.math.umn.edu/~kwlan/math_links.html)有很多数学家的个人主页链接
+
 ## 俄罗斯
 
 * [数学学术宗谱](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=17512)
