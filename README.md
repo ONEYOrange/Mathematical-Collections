@@ -131,6 +131,7 @@
     * [盛茂](http://staff.ustc.edu.cn/~msheng/teaching/)
     * [童伟华](http://staff.ustc.edu.cn/~tongwh/)
     * [刘利刚](http://staff.ustc.edu.cn/~lgliu/)
+    * [王新茂](http://staff.ustc.edu.cn/~xinmao/)
     
 
 
