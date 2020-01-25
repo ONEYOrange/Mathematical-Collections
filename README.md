@@ -79,6 +79,7 @@
 # 个人主页
 
 * [Kai-Wen Lan's links](http://www-users.math.umn.edu/~kwlan/math_links.html)有很多数学家的个人主页链接
+* [有哪些数学、物理方面（大学水平以上）的博客值得读？](https://www.zhihu.com/question/47201139)
 
 ## 俄罗斯
 
