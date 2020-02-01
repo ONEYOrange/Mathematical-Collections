@@ -161,6 +161,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [UCB](https://math.berkeley.edu/)
     * [Lawrence Craig Evans](https://math.berkeley.edu/~evans/): 上面有很好的PDE notes
 
+* [James A. Yorke](http://yorke.umd.edu/)
 
 * [Stanford](https://mathematics.stanford.edu/)
     * [Ravi Vakil](http://math.stanford.edu/~vakil/)是The Rising Sea: Foundations Of Algebraic Geometry Notes的作者，以及Great articles and books的推荐
