@@ -64,6 +64,13 @@
 
 ## 几何
 
+* [Peter Doyle](https://math.dartmouth.edu/~doyle/)：上面有很多几何方面的讲义，比如Bill Thurston, John Conway一起的Geometry and the Imagination
+
+
+
+
+
+
 
 ## 代数几何
 
