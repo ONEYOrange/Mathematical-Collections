@@ -100,6 +100,7 @@
     * 来自MIT数学系[Conferences](http://math.mit.edu/news/conferences.php)的Videos On YouTube
       [Gelfand Centennial Conference: A View of 21st Century Mathematics](http://math.mit.edu/conferences/Gelfand/program.php)
     * [豆瓣:Gelfand纪念会的一些见闻](https://www.douban.com/note/299497943/)
+    * [Bernstein, Joseph](http://www.math.tau.ac.il/~bernstei/)
     * [Alexandre Kirillov](https://www.math.upenn.edu/~kirillov/): Israil Moiseivich Gelfand的学生，主要工作是李群表示论
         * [Igor Pak Home Page](https://www.math.ucla.edu/~pak/): 主要研究组合数学和概率论,以随机漫步上的研究而闻名
 
