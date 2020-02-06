@@ -103,11 +103,16 @@
     * [Alexandre Kirillov](https://www.math.upenn.edu/~kirillov/): Israil Moiseivich Gelfand的学生，主要工作是李群表示论
         * [Igor Pak Home Page](https://www.math.ucla.edu/~pak/): 主要研究组合数学和概率论,以随机漫步上的研究而闻名
 
+
 * [Vladimir Igorevich Arnold](https://wikipedia.tw.wjbk.site/baike-%E5%BC%97%E6%8B%89%E5%9F%BA%E7%B1%B3%E7%88%BE%C2%B7%E9%98%BF%E8%AB%BE%E7%88%BE%E5%BE%B7)
     * [Arnold's Mathematical Seminar](http://www.pdmi.ras.ru/~arnsem/)
     * [Arnold: 论数学教育](http://fdjpkc.fudan.edu.cn/_upload/article/files/3f/ef/f30f10ac487a822dbbeb697e55fd/6fd6a9c9-5219-464c-88c8-335e40d13505.pdf)
 
-* [Igor V. Dolgachev](http://www.math.lsa.umich.edu/~idolga/): Shafarevich的学生，他主页上有很不错的关于代数几何、物理学的note
+
+* [Igor Rostislavovich Shafarevic](http://www.mi-ras.ru/~shafarev/)
+
+    * [Igor V. Dolgachev](http://www.math.lsa.umich.edu/~idolga/): Shafarevich的学生，他主页上有很不错的关于代数几何、物理学的note
+    * [Yuriy Drozd](https://www.imath.kiev.ua/~drozd/)
 
 
 
