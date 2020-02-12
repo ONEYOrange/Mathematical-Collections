@@ -22,6 +22,12 @@
     * [法国](#法国)
     * [美国](#美国)
     * [土地奖](#土地奖)
+    
+    
+* [Conferences](#Conferences)
+    * [Dynamical Systems](#Dynamical Systems)
+
+
 
 * [机构组织](#机构组织)
     * [俄罗斯](#俄罗斯)
@@ -195,16 +201,20 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Mihalis Dafermos](https://web.math.princeton.edu/~dafermos/)Mathematical Physics,PDE
     
 
-
-
-
-
-
-
-
-
-
 ## 土地奖
+
+
+
+
+# Conferences
+
+## Dynamical Systems
+
+* [知乎](https://www.zhihu.com/question/331909470/answer/765079269)
+    * [Stony Brook](http://www.math.stonybrook.edu/dynamical-systems)
+
+
+
 
 
 # 机构组织
