@@ -26,6 +26,7 @@
     
 * [Conferences](#Conferences)
     * [动力系统](#动力系统)
+    * [数学物理](#数学物理)
 
 
 
@@ -63,6 +64,8 @@
 
 
 ## 分析
+
+* [Curtis T McMullen](http://people.math.harvard.edu/~ctm/courses.html)超多的Notes,Dynamics and Geometry
 
 
 ## 代数
@@ -210,8 +213,41 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 ## 动力系统
 
+* [Summer School on Dynamical Systems 2009](http://num.math.uni-goettingen.de/~summer/)里面还有很多相关的 Further summer schools
+
 * [知乎](https://www.zhihu.com/question/331909470/answer/765079269)
     * [Stony Brook](http://www.math.stonybrook.edu/dynamical-systems)
+    * [Misha Lyubich](http://www.math.stonybrook.edu/~mlyubich/)
+    * [Eric Bedford](https://www.math.stonybrook.edu/~ebedford/index.html)
+    
+* [James A. Yorke](https://user.eng.umd.edu/~yorke/)
+
+* [李寒峰](http://www.nsm.buffalo.edu/~hfli/)
+
+
+* [Qiudong Wang](https://www.math.arizona.edu/~dwang/)
+
+* [DYNAMICAL SYSTEMS GROUP OF COURANT INSTITUTE](https://cims.nyu.edu/~lsy/dynamics-group.html)
+
+* [John Hamal Hubbard](http://pi.math.cornell.edu/~hubbard/)
+
+* [Yves Benoist](https://www.math.u-psud.fr/~benoist/)
+
+* [Yonatan Gutman](https://www.impan.pl/~gutman/)
+
+* [Lewis Bowen](https://web.ma.utexas.edu/users/lpbowen/)
+
+
+
+
+
+## 数学物理
+
+* [Horng-Tzer Yau(姚鸿泽)](http://people.math.harvard.edu/~htyau/)
+
+* [EDWARD WITTEN](http://www.sns.ias.edu/witten)
+* [Arthur Jaffe](https://arthurjaffe.com/)
+
 
 
 
