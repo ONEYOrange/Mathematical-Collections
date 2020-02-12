@@ -183,6 +183,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [David Mumford ](http://www.dam.brown.edu/people/mumford/)
 
 * [Anatole Katok](http://www.personal.psu.edu/axk29/)Dynamical Systems
+* [Rodolfo Gutiérrez-Romo](https://webusers.imj-prg.fr/~rodolfo.gutierrez/)geometry and dynamical systems
 
 
 * [Princeton](https://www.math.princeton.edu/)
