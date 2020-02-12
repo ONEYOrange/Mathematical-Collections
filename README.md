@@ -25,7 +25,7 @@
     
     
 * [Conferences](#Conferences)
-    * [Dynamical Systems](#Dynamical Systems)
+    * [动力系统](#动力系统)
 
 
 
@@ -208,7 +208,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 # Conferences
 
-## Dynamical Systems
+## 动力系统
 
 * [知乎](https://www.zhihu.com/question/331909470/answer/765079269)
     * [Stony Brook](http://www.math.stonybrook.edu/dynamical-systems)
