@@ -264,6 +264,8 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 * [Simon Donaldson](http://wwwf.imperial.ac.uk/~skdona/):几何分析
 
+* [Maxim Kontsevich](http://www.ihes.fr/~maxim/index.html)
+
 
 # 机构组织
 
