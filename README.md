@@ -49,7 +49,13 @@
 
 * [Arnold](http://www.pdmi.ras.ru/~arnsem/Arnold/)
 * [一些数学家的interviews](https://www.ocf.berkeley.edu/~lekheng/interviews/)
-* [Vladimir Voevodsky 1966-2017](https://www.math.columbia.edu/~woit/wordpress/?p=9591)
+* [Vladimir Voevodsky 1966-2017](https://www.math.columbia.edu/~woit/wordpress/?p=9591)主页上的Not Even Wrong还有其他的数学家的文章，以及一些数学家的博客（强烈推荐）
+
+* [Paul Erdős](http://web.cs.elte.hu/erdos/)
+
+
+* [Donald E. Knuth](https://www-cs-faculty.stanford.edu/~knuth/)
+* [Martin Gardner](http://martin-gardner.org/)
 
 ## Articles
 
@@ -265,6 +271,11 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [Arthur Jaffe](https://arthurjaffe.com/)
 
 * [David Tong](http://www.damtp.cam.ac.uk/user/tong/):物理向
+* [Richard Feynman](http://en.wikipedia.org/wiki/Richard_Feynman)
+    * [Richard Feynman – Scientist,Teacher,Raconteur,Musician](http://www.feynman.com/)
+    * [The Official Site of Richard Feynman](http://richardfeynman.com/)
+
+
 
 * [Simon Donaldson](http://wwwf.imperial.ac.uk/~skdona/):几何分析
 
