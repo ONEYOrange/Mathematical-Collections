@@ -55,6 +55,9 @@
 * [Paul Erdős](http://web.cs.elte.hu/erdos/)
 
 
+* [I Choose Math](https://ichoosemath.com/2012/08/22/bill-thurston-math-hero/):Bill Thurston, Math Hero.有关于Thurston的一些资料
+
+
 * [Donald E. Knuth](https://www-cs-faculty.stanford.edu/~knuth/)
 * [Martin Gardner](http://martin-gardner.org/)
 
@@ -84,6 +87,8 @@
 
 * [William G. Faris](https://www.math.arizona.edu/~faris/):Articles,Books,Notes
 
+* [Karen K. Uhlenbeck](https://web.ma.utexas.edu/users/uhlen/):PDE
+
 
 ## 代数
 
@@ -104,7 +109,7 @@
     * [Why study Algebraic Geometry?](https://math.stackexchange.com/questions/255063/why-study-algebraic-geometry/257528#257528)
     * [Help understanding Algebraic Geometry](https://math.stackexchange.com/questions/269384/help-understanding-algebraic-geometry/269446#269446)
 
-
+* [Caucher Birkar](https://www.dpmms.cam.ac.uk/~cb496/)Fields Medal(2016)
 
 
 
@@ -282,7 +287,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Richard Feynman – Scientist,Teacher,Raconteur,Musician](http://www.feynman.com/)
     * [The Official Site of Richard Feynman](http://richardfeynman.com/)
 
-
+* [Eugene Wigner](https://www.ysfine.com/wigner/)
 
 * [Simon Donaldson](http://wwwf.imperial.ac.uk/~skdona/):几何分析
 
