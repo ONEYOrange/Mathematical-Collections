@@ -249,6 +249,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 * [Lewis Bowen](https://web.ma.utexas.edu/users/lpbowen/)
 
+* [Stanislav Smirnov](http://www.unige.ch/~smirnov/)
 
 
 
