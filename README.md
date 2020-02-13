@@ -49,7 +49,7 @@
 
 * [Arnold](http://www.pdmi.ras.ru/~arnsem/Arnold/)
 * [一些数学家的interviews](https://www.ocf.berkeley.edu/~lekheng/interviews/)
-
+* [Vladimir Voevodsky 1966-2017](https://www.math.columbia.edu/~woit/wordpress/?p=9591)
 
 ## Articles
 
@@ -192,6 +192,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [Stanford](https://mathematics.stanford.edu/)
     * [Ravi Vakil](http://math.stanford.edu/~vakil/)是The Rising Sea: Foundations Of Algebraic Geometry Notes的作者，以及Great articles and books的推荐
     * [上面的知乎讨论：哪些数学书让你相见恨晚？](https://www.zhihu.com/question/366915371/answer/978815409)
+    * [Akshay Venkatesh](http://math.stanford.edu/~akshay/):number theory and various related topics
 
 * [David Mumford ](http://www.dam.brown.edu/people/mumford/)
 
@@ -251,6 +252,8 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 * [Stanislav Smirnov](http://www.unige.ch/~smirnov/)
 
+* [Artur Avila](http://w3.impa.br/~avila/):Fields Medal (2014)
+
 
 
 
@@ -266,6 +269,30 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [Simon Donaldson](http://wwwf.imperial.ac.uk/~skdona/):几何分析
 
 * [Maxim Kontsevich](http://www.ihes.fr/~maxim/index.html)
+* [Richard Borcherds](https://math.berkeley.edu/~reb/):quantum field theory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # 机构组织
