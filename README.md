@@ -29,6 +29,7 @@
 * [Conferences](#Conferences)
     * [动力系统](#动力系统)
     * [数学物理](#数学物理)
+    * [计算机](#计算机)
 
 
 
@@ -60,6 +61,12 @@
 ## Articles
 
 * [articles](http://irma.math.unistra.fr/~maudin/mathematiques.html)
+
+* [Reading materials](https://www.dartmouth.edu/~matc/MathDrama/reading.html)
+
+
+
+
 
 
 # Notes
@@ -280,7 +287,8 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [Simon Donaldson](http://wwwf.imperial.ac.uk/~skdona/):几何分析
 
 * [Maxim Kontsevich](http://www.ihes.fr/~maxim/index.html)
-* [Richard Borcherds](https://math.berkeley.edu/~reb/):quantum field theory
+* [Richard Borcherds](https://math.berkeley.edu/~reb/):quantum field theory)
+* [John_Von_Neumann](http://www.gravitywarpdrive.com/Philadelphia-Experiment-and-Montauk/Dr_John_Von_Neumann.htm)
 
 
 
@@ -292,6 +300,10 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 
 
+## 计算机
+
+* [Alan Turing](http://www.turingarchive.org/)
+* [Charles Babbage](http://www.charlesbabbage.net/)
 
 
 
