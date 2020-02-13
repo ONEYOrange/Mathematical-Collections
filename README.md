@@ -67,6 +67,8 @@
 
 * [Curtis T McMullen](http://people.math.harvard.edu/~ctm/courses.html)超多的Notes,Dynamics and Geometry
 
+* [William G. Faris](https://www.math.arizona.edu/~faris/):Articles,Books,Notes
+
 
 ## 代数
 
