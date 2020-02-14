@@ -81,6 +81,8 @@
     * [哪些数学书让你相见恨晚？](https://www.zhihu.com/question/366915371)
     * [数学经典教材有什么？](https://www.zhihu.com/question/22302252)
 
+* [Chicago undergraduate mathematics bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
+
 
 ## 分析
 
