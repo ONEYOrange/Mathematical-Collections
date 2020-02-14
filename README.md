@@ -79,6 +79,7 @@
     * [你所读的数学方向，有哪些短小精干的讲义或者教材？](https://www.zhihu.com/question/51099975/answer/124215584)
     * [关于概率/分析/代数/几何等领域Lecture Notes链接分享](https://zhuanlan.zhihu.com/p/46040409)
     * [哪些数学书让你相见恨晚？](https://www.zhihu.com/question/366915371)
+    * [数学经典教材有什么？](https://www.zhihu.com/question/22302252)
 
 
 ## 分析
@@ -96,6 +97,14 @@
 ## 几何
 
 * [Peter Doyle](https://math.dartmouth.edu/~doyle/)：上面有很多几何方面的讲义，比如Bill Thurston, John Conway一起的Geometry and the Imagination
+* [Nigel Hitchin](http://people.maths.ox.ac.uk/hitchin/):Differentiable Manifolds,Geometry of Surfaces
+
+* [ETHZ](https://math.ethz.ch/the-department/people.html)：有很多老师的主页上都有比较多的notes;很多老师好像是作应用的，比如数据科学、金融方面的内容也比较多。
+    * [ETHZ Dietmar A. Salamon](https://people.math.ethz.ch/~salamon/):Analysis AND Differential Geometry
+    * [Urs Lang](https://people.math.ethz.ch/~lang/): Analysis and Geometry
+
+
+
 
 
 ## 拓扑
