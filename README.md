@@ -58,7 +58,7 @@
 * [I Choose Math](https://ichoosemath.com/2012/08/22/bill-thurston-math-hero/):Bill Thurston, Math Hero.有关于Thurston的一些资料
 
 
-* [Donald E. Knuth](https://www-cs-faculty.stanford.edu/~knuth/)
+
 * [Martin Gardner](http://martin-gardner.org/)
 
 ## Articles
@@ -320,6 +320,8 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 * [Alan Turing](http://www.turingarchive.org/)
 * [Charles Babbage](http://www.charlesbabbage.net/)
+* [Donald E. Knuth](https://www-cs-faculty.stanford.edu/~knuth/)
+* [Peter J. Denning](http://denninginstitute.com/denning/)
 
 
 
