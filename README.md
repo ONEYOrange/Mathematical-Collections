@@ -324,14 +324,19 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [Peter J. Denning](http://denninginstitute.com/denning/)
 
 
+* [Mooc](https://github.com/prakhar1989/awesome-courses)
+
+    * [邓俊辉](https://dsa.cs.tsinghua.edu.cn/~deng/)
 
 
+* [知乎](https://www.zhihu.com/)
+    * [你所读的计算机科学方向，有哪些不错的讲义（Notes）？](https://www.zhihu.com/question/38300204)
+    * [计算机专业有哪些不错的公开课资源？](https://www.zhihu.com/question/38335108/answer/813624703)
+    * [YouTube 上有哪些计算机方面的值得推荐的公开课？](https://www.zhihu.com/question/49071324)
+    * [在哪里能够找到国外优秀大学的计算机公开课？](https://www.zhihu.com/question/32044961)
+    * [计算机公开课推荐 2019.8](https://zhuanlan.zhihu.com/p/87900113)
 
-
-
-
-
-
+* [飞龙](https://github.com/wizardforcel)
 
 
 
