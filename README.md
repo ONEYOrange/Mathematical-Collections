@@ -328,6 +328,78 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [Dennis M. Ritchie](https://www.bell-labs.com/usr/dmr/www/):He created the C programming languag
 * [Bjarne Stroustrup](http://stroustrup.com/):most notable for the creation and development of the C++ programming language.
 
+
+
+* [Turing Award](https://awards.acm.org/)
+    * [Marvin Minsky](http://web.media.mit.edu/~minsky/)
+    * [John McCarthy](http://www-formal.stanford.edu/jmc/index.html)
+    * [Edsger Wybe Dijkstra])(http://www.cs.utexas.edu/users/EWD/):程序设计语言的科学与艺术
+    * [Herbert A. Simon(司马贺)](http://www.hetwebsite.net/het/profiles/simon.htm)：认知心理学、诺奖（经济学），第一个分析复杂性架构（architecture of complexity）的人
+        * [Herbert A. Simon and the Science of Decision Making](http://scihi.org/herbert-a-simon-decision-making/)
+        * [Allen Newell](http://diva.library.cmu.edu/Newell/):信息处理语言（IPL）发明者之一,司马贺的学生，1975年得主
+        * [Edward Albert Feigenbaum](http://ksl-web.stanford.edu/people/eaf/):常被人称为专家系统之父。为1994年图灵奖得主。
+    * [Michael Oser Rabin](https://wikimili.com/en/Michael_O._Rabin#References):计算复杂度理论,非确定性自动机
+    * [Dana Stewart Scott](http://www.cs.cmu.edu/~scott/):与迈克尔·拉宾一起师从阿隆索·邱奇(Alonzo Church);拉宾和达纳·斯科特共同发表了“有限自动机与其判定性问题”为题的论文。
+    * [John Warner Backus](https://military.wikia.org/wiki/John_Backus)：发明了函数层次编程概念及实践该概念的FP语言。
+    * [Robert W. Floyd](https://dl.acm.org/profile/81452611368):设计高效可靠软件的方法学
+    * [Kenneth Eugene Iverson](http://keiapl.org/):程序设计语言和数学符号
+    * [Tony Hoare](https://www.cs.ox.ac.uk/people/tony.hoare/):程序设计语言的定义与设计
+    * [Edgar Frank Codd](http://scihi.org/codd-relational-database-model/):关系型数据库理论
+    * [Stephen A. Cook](http://www.cs.toronto.edu/~sacook/):计算复杂度
+    * [Kenneth Lane Thompson](https://wikipedia.tw.wjbk.site/baike-%E8%82%AF%C2%B7%E6%B1%A4%E6%99%AE%E9%80%8A):UNIX操作系统
+    * [Dennis MacAlistair Ritchie](https://www.bell-labs.com/usr/dmr/www/):C语言的创造者
+    * [Niklaus Emil Wirth](https://inf.ethz.ch/personal/wirth/):程序设计语言设计、程序设计;他的文章Program Development by Stepwise Refinement视为软件工程中的经典之作。他写的一本书的书名Algorithms + Data Structures = Programs（算法+数据结构=程序）是计算机科学的名句。
+    * [John Edward Hopcroft](http://www.cs.cornell.edu/jeh):算法和数据结构的设计与分析
+    * [Robert Endre Tarjan](https://www.cs.princeton.edu/~ret/):算法和数据结构的设计与分析
+    * [Ivan Edward Sutherland](https://arc.cecs.pdx.edu//):计算机图形学
+    * [William Kahan](https://people.eecs.berkeley.edu/~wkahan/):浮点数之父,数值分析
+    * [Fernando J. Corbató](http://larch-www.lcs.mit.edu:8001/~corbato/)：发展了分时操作系统
+    * [Robin Milner](https://www.cl.cam.ac.uk/archive/rm135/):他开发了其中一个最早的自动定理证明工具——LCF。他另一项主要工作是并发理论（concurrency theory），他提出了许多被广泛研究的并发计算模型：CCS、pi演算。
+        * [In memoriam of Prof. Dr. Robin Milner](http://eatcs.org/index.php/component/content/article/1-news/632-in-memoriam-of-prof-dr-robin-milner-19342010)  
+    * [Richard Edwin Stearns](http://www.cs.albany.edu/~res/):计算复杂度理论
+    * [Butler W. Lampson](http://bwlampson.site/):分布式，个人计算环境;首次提出个人电脑设计概念——"在计算机科学中的任何问题，都可以用加上另一层间接参照来解决。（Any problem in computer science can be solved with another level of indirection）"
+    * [Raj Reddy](http://www.rr.cs.cmu.edu/):大规模人工智能系统
+    * [Manuel Blum](https://www.cs.cmu.edu/~mblum/):计算复杂度理论，及其在密码学和程序校验上的应用
+    * [Amir Pnueli](https://cs.nyu.edu/faculty/pnueli/):将时序逻辑引入计算机科学和对程序和系统验证领域
+    * [Douglas Carl Engelbart](https://www.dougengelbart.org/):互动计算,人机交互
+    * [Jim Gray](http://jimgray.azurewebsites.net/)：数据库与事务处理
+    * [Frederick P. Brooks, Jr.](http://www.cs.unc.edu/~brooks/):计算机体系结构，操作系统，软件工程;出版《人月神话》。1986年，发表《没有银弹》
+    * [Kristen Nygaard](http://kristennygaard.org/):面向对象技术的先驱
+        * [Kristen Nygaard](http://heim.ifi.uio.no/~kristen/)
+        * [In memoriam kristen/](http://heim.ifi.uio.no/gisle/in_memoriam_kristen/index.html)
+    * [Ronald L. Rivest](http://people.csail.mit.edu/rivest/):密码学
+    * [Adi Shamir](http://www.wisdom.weizmann.ac.il/profile/scientists/shamir-profile.html):密码学
+    * [Leonard Max Adleman](https://adleman.usc.edu/):密码学
+    * [Alan Curtis Kay](https://lemelson.mit.edu/resources/alan-kay):在面向对象编程和窗口式图形用户界面方面作出了先驱性贡献
+    * [Vinton Gray Cerf](http://research.google.com/pubs/author32412.html):“互联网之父”之一,TCP/IP
+    * [Robert Elliot Kahn](https://en.wikipedia.org/wiki/Bob_Kahn):“互联网之父”之一,TCP/IP
+    * [Peter Naur](http://www.naur.com/):开发了BNF范式，改进了编程语言。
+    * [Frances Elizabeth Allen](https://www.ibm.com/ibm/history/witexhibit/wit_hall_allen.html):编译器优化领域的先驱,包括编译器的基本原理、代码优化和并行编译等
+    * [Edmund M. Clarke](http://www.cs.cmu.edu/~emc/):开发自动化方法检测计算机硬件和软件中的设计错误
+    * [Ernest Allen Emerson](http://www.cs.utexas.edu/~emerson/):开发自动化方法检测计算机硬件和软件中的设计错误
+    * [Joseph Sifakis](http://www-verimag.imag.fr/~sifakis/):开发自动化方法检测计算机硬件和软件中的设计错误
+    * [Barbara Liskov](http://www.pmg.csail.mit.edu/~liskov/):编程语言和系统设计的实践与理论;从这些实际项目中提炼出来的数据抽象思想，已经成为软件工程中最重要的精髓之一。
+        * [编程方法学群组](http://www.pmg.csail.mit.edu/)
+    * [Leslie Gabriel Valiant](https://people.seas.harvard.edu/~valiant/):对众多计算理论所做的变革性的贡献
+    * [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html):因其人工智能概率方法的杰出成绩和贝氏网络的研发而知名
+    * [Shafrira Goldwasser](http://people.csail.mit.edu/shafi/):在密码科学领域里，于复杂理论的基础之上，做出变革性工作；并领先发展出新的具有数学可证明性的有效验证机制
+    * [Silvio Micali](http://people.csail.mit.edu/silvio/):在密码科学领域里，于复杂理论的基础之上，做出变革性工作；并领先发展出新的具有数学可证明性的有效验证机制
+    * [Leslie Lamport](http://lamport.org/):对于分布式及并形系统的理论与实践具有基础性贡献，尤其是诸如因果逻辑时序（causality and logical clocks）、安全性与存活度（safety and liveness）、复制状态机（replicated state machines）及循序一致性（sequential consistency）等理论概念的发明
+    * [Michael Stonebraker](http://csail.mit.edu/user/1547):关系数据库
+    * [Bailey Whitfield Diffie](https://cisac.fsi.stanford.edu/people/whitfield_diffie):公开密钥加密技术
+    * [Martin Edward Hellman](https://ee.stanford.edu/~hellman/):公开密钥加密技术
+
+
+
+
+
+
+
+* [LITERATURE ON PROGRAMMING LANGUAGES](http://users.csc.calpoly.edu/~akeen/languages/papers.html)：与编程语言有关的文章
+
+
+
+
 * [Mooc](https://github.com/prakhar1989/awesome-courses)
 
     * [邓俊辉](https://dsa.cs.tsinghua.edu.cn/~deng/)
@@ -341,6 +413,28 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [计算机公开课推荐 2019.8](https://zhuanlan.zhihu.com/p/87900113)
 
 * [飞龙](https://github.com/wizardforcel)
+
+
+
+
+
+
+
+## 经济学
+
+* [HET](http://www.hetwebsite.net/het/introd.htm):THE HISTORY OF ECONOMIC THOUGHT WEBSITE
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
