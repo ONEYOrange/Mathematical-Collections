@@ -388,6 +388,13 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Michael Stonebraker](http://csail.mit.edu/user/1547):关系数据库
     * [Bailey Whitfield Diffie](https://cisac.fsi.stanford.edu/people/whitfield_diffie):公开密钥加密技术
     * [Martin Edward Hellman](https://ee.stanford.edu/~hellman/):公开密钥加密技术
+    * [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/):他成功利用互联网实现了超文本传输协议客户端与服务器的第一次通讯
+    * [John LeRoy Hennessy](http://www.stanford.edu/~hennessy):开创了一种系统的、定量的方法来设计和评价计算机体系结构，并对微处理器行业产生了持久的影响。
+    * [David Andrew Patterson](https://www2.eecs.berkeley.edu/Faculty/Homepages/patterson.html):开创了一种系统的、定量的方法来设计和评价计算机体系结构，并对微处理器行业产生了持久的影响。
+    * [Yoshua Bengio](https://yoshuabengio.org/):因人工神经网络和深度学习领域的研究而闻名。
+    * [Geoffrey Everest Hinton](http://www.cs.toronto.edu/~hinton/):类神经网络,反向传播算法和对比散度算法的发明人之一,“深度学习之父”
+    * [Yann LeCun](https://wikipedia.tw.wjbk.site/baike-%E6%9D%A8%E7%AB%8B%E6%98%86):光学字符识别和计算机视觉上使用卷积神经网络 (CNN)，他也被称为卷积网络之父。
+        * [Yann Le Cun](http://yann.lecun.com/)
 
 
 
