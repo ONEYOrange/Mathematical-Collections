@@ -323,6 +323,10 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [Donald E. Knuth](https://www-cs-faculty.stanford.edu/~knuth/)
 * [Peter J. Denning](http://denninginstitute.com/denning/)
 
+* [Douglas Engelbart](https://www.dougengelbart.org/):He is best known for his work on founding the field of human–computer interaction
+* [Guido van Rossum](https://gvanrossum.github.io//):the author of the Python programming language. 
+* [Dennis M. Ritchie](https://www.bell-labs.com/usr/dmr/www/):He created the C programming languag
+* [Bjarne Stroustrup](http://stroustrup.com/):most notable for the creation and development of the C++ programming language.
 
 * [Mooc](https://github.com/prakhar1989/awesome-courses)
 
