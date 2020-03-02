@@ -399,7 +399,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 
 
-
+* [the history of computing](http://ei.cs.vt.edu/~history/)
 
 
 
