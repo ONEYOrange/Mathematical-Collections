@@ -452,6 +452,29 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         * [Sebastian Thrun](http://robots.stanford.edu/):概率机器人,自动驾驶
 
 
+
+
+
+
+* [计算机图形学](http://en.wikipedia.org/wiki/Computer_graphics)
+    * [Alvy Ray Smith](http://alvyray.com/):计算机图形学的先驱
+    * [Jim Blinn](http://alvyray.com/):计算机图形学的先驱
+    * [Alvy Ray Smith](http://www.jimblinn.com/)
+    * [Pat Hanrahan](https://graphics.stanford.edu/~hanrahan/): His research focuses on rendering algorithms, graphics processing units, as well as scientific illustration and visualization.
+    * [Andries van Dam]http://cs.brown.edu/people/avandam/():the first hypertext system, Hypertext Editing System.He also co-founded the precursor of today's ACM SIGGRAPH conference.
+    * [Marc Levoy](https://graphics.stanford.edu/~levoy/): He is noted for pioneering work in volume rendering, light fields, and computational photography.
+    * [Ron Fedkiw](http://physbam.stanford.edu/~fedkiw/):
+    * [Ming C. Lin](http://www.cs.unc.edu/~lin/):
+
+    
+* [Per Brinch Hansen](http://brinch-hansen.net/):在并行计算（Concurrent computing）理论及操作系统核心的发展上，有重要地位。
+
+
+
+
+
+
+
 * [the history of computing](http://ei.cs.vt.edu/~history/)
 
 
