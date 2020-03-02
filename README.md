@@ -435,6 +435,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 * [杨强](http://www.cse.ust.hk/~qyang/)：“迁移学习”（transfer learning），“联邦学习”
 * [邢波](http://www.cs.cmu.edu/~epxing/):机器学习、计算生物学和统计方法;其三位博士生导师理查德·卡普（计算机学家,偏重理论），迈克尔·乔丹(计算机学家,偏重概率统计)，Stuart J. Russell（很好的计算机学家、哲学家）
+* [朱松纯](http://www.stat.ucla.edu/~sczhu/):Computer Vision, Statistical Modeling & Computing, Machine Learning, Cognition, Natural Language and Dialogue, AI, Robot Autonomy.师从著名数学家戴维·芒福德。
 
 
 * [机构](https://wikipedia.tw.wjbk.site/baike-Category:%E5%90%84%E9%A2%86%E5%9F%9F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6)
