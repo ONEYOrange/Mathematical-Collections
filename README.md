@@ -463,10 +463,94 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         * [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/):指出了机器学习与统计学之间的联系，并推动机器学习界广泛认识到贝叶斯网络的重要性。他还以近似推断变分方法的形式化、最大期望算法在机器学习的普及方面
         * [Sebastian Thrun](http://robots.stanford.edu/):概率机器人,自动驾驶
 
-
-
-
-
+    * [ACM Fellow](https://awards.acm.org/fellows)
+        * [Jin-Yi Cai（蔡进一）](http://pages.cs.wisc.edu/~jyc/)
+        * [Andrew A. Chien](http://people.cs.uchicago.edu/~aachien/)
+        * [Jiawei Han(韩家炜)](https://hanj.cs.illinois.edu/)
+        * [Simon S. Lam (林善成)](http://www.cs.utexas.edu/~lam/)
+        * [D.T. Lee（李德财](https://www.iis.sinica.edu.tw/~dtlee/)
+        * [Ruby B. Lee（李佩露）](https://www.princeton.edu/~rblee/)
+        * [Kai Li（李凯）](https://www.cs.princeton.edu/~li/)
+        * [Wen-Mei Hwu（胡文美）](http://impact.crhc.illinois.edu/People/Hwu/hwu-teaching.aspx)
+        * [Yi-Bing Lin（林一平）](http://liny.csie.nctu.edu.tw/)
+        * [C.L. Liu（刘炯朗）](http://blog.udn.com/liucl):姚期智的老师
+        * [Chung-Jen Tan（譚祟仁）](http://www.hkaes.org/?page_id=940)
+        * [Benjamin W. Wah（华云生）](https://wah.cse.cuhk.edu.hk/)
+        * [Jeannette M. Wing（周以真）](https://www.cs.columbia.edu/~wing/)
+        * [Philip S. Yu俞士纶 ](https://www.cs.uic.edu/~psyu/)
+        * [Ming-Syan Chen(陈铭宪)](http://arbor.ee.ntu.edu.tw/~mschen/)
+        * [Peter Pin-Shan Chen (陈品山)](https://www.csc.lsu.edu/~chen/)
+        * [Wenfei Fan（樊文飞）](http://homepages.inf.ed.ac.uk/wenfei/)
+        * [Tei-Wei Kuo（郭大维）](https://www.csie.ntu.edu.tw/~ktw/)
+        * [Yang, Qiang	杨强](http://www.cs.ust.hk/~qyang/)
+        * [Lin, Chih-Jen	林智仁](https://www.csie.ntu.edu.tw/~cjlin/)
+        * [Liu, Yunhao	刘云浩](http://home.cse.ust.hk/~liu/)
+        * [Rung-Tsong Lyu, Michael	吕荣聪](http://www.cse.cuhk.edu.hk/lyu/)
+        * [Wong, Limsoon	黄任祥](https://www.comp.nus.edu.sg/~wongls/)
+        * [Lui, John Chi-Shing	吕自成](http://www.cse.cuhk.edu.hk/~cslui/)
+        * [Deng, Xiaotie	邓小铁](https://simons.berkeley.edu/people/xiaotie-deng)
+        * [Gao, Guang	高光荣](http://www.capsl.udel.edu/~ggao/)
+        * [Zhang, HongJiang	张宏江](https://www.itu.int/en/ITU-T/AI/Pages/zhang.hongjiang.aspx)
+        * [Tao Jiang 姜涛](http://www.cs.ucr.edu/~jiang/)        
+        * [Ming Li 李明 ](https://cs.uwaterloo.ca/~mli/)
+        * [Hui Zhang 张辉](http://www.cs.cmu.edu/~hzhang/)
+        * [Yi Ma 马毅](http://people.eecs.berkeley.edu/~yima/)
+        * [张世富（Shih-Fu Chang）](https://www.ee.columbia.edu/~sfchang/)           
+        * [翟成祥（ChengXiang Zhai）](http://czhai.cs.illinois.edu/)
+        * [Li Erran Li](http://www.cs.columbia.edu/~lierranli/):设计和分析无线网络做出贡献，改进架构，吞吐量和分析
+        * [张爱东（Aidong Zhang）](https://cse.buffalo.edu/faculty/azhang/)
+        * [Jingsheng Jason Cong(丛京生)](http://vast.cs.ucla.edu/professor-congs-vita)        
+        * [Jian Pei裴健](http://www.cs.sfu.ca/~jpei/)
+        * [Huan Liu](http://www.public.asu.edu/~huanliu/)
+        * [Jiebo Luo罗杰波](https://www.cs.rochester.edu/u/jluo/)
+        * [Bing Liu刘兵](https://www.cs.uic.edu/~liub/)          
+        * [Lei CHEN](https://www.cse.ust.hk/~leichen/)
+        * [Jingdong Wang 王井东](https://jingdongwang2017.github.io/)
+        * [Yi Chang（常毅）](http://yichang-cs.com/)
+        * [Xiaohua Jia](http://www.cs.cityu.edu.hk/~jia/)        
+        * [Yizhou Yu](https://i.cs.hku.hk/~yzyu/)
+        * [Chen Li](https://chenli.ics.uci.edu/)
+        * [Yuanyuan Zhou周源源](https://cseweb.ucsd.edu/~yyzhou/)
+        * [Xiaodong Zhang (张晓东) ](http://web.cse.ohio-state.edu/~zhang.574/)           
+        * [Lixia Zhang 张丽霞](http://web.cs.ucla.edu/~lixia/)
+        * [Xiang-Yang Li](http://www.cs.iit.edu/~xli/)
+        * [Lili Qiu](https://www.cs.utexas.edu/~lili/)
+        * [Tian He（何田）](https://www-users.cs.umn.edu/~tianhe/)        
+        * [Lillian Lee](http://www.cs.cornell.edu/home/llee/)
+        * [Sun, Xian-He 孙贤和](http://www.cs.iit.edu/~scs/sun/)
+        * [曹建农](http://www4.comp.polyu.edu.hk/~csjcao/)
+        * [Zidong Wang（王子栋）](http://people.brunel.ac.uk/~csstzzw/)          
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
 
 * [计算机图形学](http://en.wikipedia.org/wiki/Computer_graphics)
     * [Alvy Ray Smith](http://alvyray.com/):计算机图形学的先驱
