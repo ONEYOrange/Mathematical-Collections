@@ -446,6 +446,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [熊辉](http://datamining.rutgers.edu/):数据挖掘
 * [滕尚华](https://viterbi-web.usc.edu/~shanghua/):算法的平滑分析
 * [韦思岸](http://weigend.com/):社交数据
+* [Randy Pausch](http://www.cs.cmu.edu/~pausch/):人机交互
 
 
 
