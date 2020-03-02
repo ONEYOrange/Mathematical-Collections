@@ -200,7 +200,22 @@
 * [A website devoted to the life and works of Alexandre Grothendieck](http://www.grothendieckcircle.org/)
 
 
-
+* [IHÉS](https://www.ihes.fr/)
+    * [Alain Connes](http://www.alainconnes.org/fr/)
+    * [Jürg Martin Fröhlich](https://itp.phys.ethz.ch/research/mathphys/froehlich.html)
+    * [Laurent Lafforgue](https://www.laurentlafforgue.org/)
+    * [Mikhaïl Leonidovitch Gromov](https://www.ihes.fr/~gromov/)
+    * [Hugo Duminil-Copin](http://www.ihes.fr/~duminil/)
+    * [Fanny Kassel](http://www.ihes.fr/~kassel/english.html)
+    * [Ahmed Abbes ](http://www.ihes.fr/~abbes/)
+    * [David Ruelle](http://www.ihes.fr/~ruelle/)
+    * [Christophe SOULÉ](http://www.ihes.fr/~soule/)
+    * [Nikita NEKRASOV](http://www.ihes.fr/~nikita/)
+    * [Thierry Coquand](http://www.cse.chalmers.se/~coquand/):Logic in Computer Science
+    * [Dennis Gaitsgory](http://people.math.harvard.edu/~gaitsgde/)
+    * [Olivia Caramello](https://www.oliviacaramello.com/)
+ 
+    
 ## 美国
 * [Mathematics Department of the Rutgers](https://sites.math.rutgers.edu/)
     * [Yi-Zhi Huang](https://sites.math.rutgers.edu/~yzhuang/)老师是做数学物理的，他的
@@ -240,14 +255,35 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     
     
 * [IAS](https://www.math.ias.edu/)
-    * [Trailblazer Jacob Lurie](https://www.math.ias.edu/~lurie/)Constructing foundations and building bridges between fields
+    * [Trailblazer Jacob Lurie](https://www.math.ias.edu/~lurie/)Constructing foundations and building bridges between fields;在高阶范畴论和导出代数几何领域中基础性的工作，以及对全扩展拓扑量子场论的分类和证明了椭圆上同调的参模理论解释
 
+* [Yale](https://math.yale.edu/)
+    * [ Alexander Goncharov](https://users.math.yale.edu/users/goncharov/)
 
     
+* [Harvard](http://people.math.harvard.edu/)
+
     
    
 
 ## 土地奖
+
+* [突破奖](https://breakthroughprize.org/)
+    * [Larry Guth](http://math.mit.edu/~lguth/):辛几何、黎曼几何、调和分析以及组合几何
+    * [](https://www.math.ias.edu/~lurie/):高阶范畴论和导出代数几何;全扩展拓扑量子场论的分类
+    * [Ian Agol](https://math.berkeley.edu/~ianagol/):几何拓扑学(低维拓扑)和几何群论
+    * [André Arroja Neves](http://math.uchicago.edu/~aneves/):纯量曲率、几何流及Willmore猜想
+    * [Vincent Lafforgue](http://vlafforg.perso.math.cnrs.fr/)：函数域中对朗兰兹纲领的贡献
+    * [Christopher Hacon](http://www.math.utah.edu/~hacon/):代数几何:生物化代数几何的转换贡献，特别是对所有维度的最小模型程序。
+    * [James McKernan](http://www.math.ucsd.edu/~jmckerna/):代数几何
+    * [Alex Eskin](http://math.uchicago.edu/~eskin/):阿贝尔微分模空间的动力学和几何学
+
+
+* [Maryam Mirzakhani](https://www.agnesscott.edu/lriddle/women/mirzakhani.htm):连结拓朴、几何和动力系统
+
+
+
+
 
 
 
@@ -397,6 +433,22 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Yann LeCun](https://wikipedia.tw.wjbk.site/baike-%E6%9D%A8%E7%AB%8B%E6%98%86):光学字符识别和计算机视觉上使用卷积神经网络 (CNN)，他也被称为卷积网络之父。
         * [Yann Le Cun](http://yann.lecun.com/)
 
+* [杨强](http://www.cse.ust.hk/~qyang/)：“迁移学习”（transfer learning），“联邦学习”
+* [邢波](http://www.cs.cmu.edu/~epxing/):机器学习、计算生物学和统计方法;其三位博士生导师理查德·卡普（计算机学家,偏重理论），迈克尔·乔丹(计算机学家,偏重概率统计)，Stuart J. Russell（很好的计算机学家、哲学家）
+
+
+* [机构](https://wikipedia.tw.wjbk.site/baike-Category:%E5%90%84%E9%A2%86%E5%9F%9F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6)
+    * [MIT media](https://www.media.mit.edu/)
+        * [DAN ARIELY](http://danariely.com/)
+        * [伊藤穰一](https://joi.ito.com/)
+        * [Nicholas Negroponte](http://web.media.mit.edu/~nicholas/)
+        * [Rosalind Wright Picard](http://web.media.mit.edu/~picard/personal/50thTribute.php):情感计算
+        * [Mitchel Resnick](http://web.media.mit.edu/~mres/): 教育工具
+
+    * [AAAI](http://www.aaai.org/)
+        * [Daphne Koller](http://ai.stanford.edu/~koller/):电脑视觉和计算生物学
+        * [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/):指出了机器学习与统计学之间的联系，并推动机器学习界广泛认识到贝叶斯网络的重要性。他还以近似推断变分方法的形式化、最大期望算法在机器学习的普及方面
+        * [Sebastian Thrun](http://robots.stanford.edu/):概率机器人,自动驾驶
 
 
 * [the history of computing](http://ei.cs.vt.edu/~history/)
