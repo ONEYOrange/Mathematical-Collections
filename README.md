@@ -369,6 +369,11 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [Edsger W. Dijkstra](http://www.cs.utexas.edu/users/EWD/):“结构程序设计之父”和“先知先觉”（Oracle），他一生致力于把程序设计发展成一门科学。
 * [Andrew S.Tanenbaum](https://www.cs.vu.nl/~ast/):专长于操作系统。他最早以Minix(一个免费用于教学目的的类Unix操作系统)作者的身份以及所编写的计算机科学教科书而为人熟知。他把教学视作自己最重要的一项工作。
 
+
+* [当今理论计算机领域有哪些牛人？](https://www.zhihu.com/question/31563284)
+    * [Timothy M. Chan](http://tmc.web.engr.illinois.edu/):计算几何
+    * [Manuel Blum](http://www.cs.cmu.edu/~mblum/):密码系统和程序检验先驱，计算复杂性理论的主要奠基人之一
+
 * [Turing Award](https://awards.acm.org/)
     * [Marvin Minsky](http://web.media.mit.edu/~minsky/)
     * [John McCarthy](http://www-formal.stanford.edu/jmc/index.html)
