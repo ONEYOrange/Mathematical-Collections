@@ -622,6 +622,9 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [YouTube 上有哪些计算机方面的值得推荐的公开课？](https://www.zhihu.com/question/49071324)
     * [在哪里能够找到国外优秀大学的计算机公开课？](https://www.zhihu.com/question/32044961)
     * [计算机公开课推荐 2019.8](https://zhuanlan.zhihu.com/p/87900113)
+    * [计算机科学与技术（CS）专业学生该如何系统地自学？](https://www.zhihu.com/question/37321190)
+    * [计算机专业大学生应该在大学四年踏实学哪些东西?](https://www.zhihu.com/question/27368268)
+    * [计算机专业学生在大学四年内可以做些什么来丰富简历？](https://www.zhihu.com/question/64244262)
 
 * [飞龙](https://github.com/wizardforcel)
 
