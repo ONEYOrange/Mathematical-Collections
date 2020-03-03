@@ -449,6 +449,13 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [Randy Pausch](http://www.cs.cmu.edu/~pausch/):人机交互
 
 
+* [Tomaso A.Poggio](http://poggio-lab.mit.edu/people/tomaso-poggio):数学统计学习理论和不适定问题、工程应用包括计算机视觉、计算机图形学、生物信息学、智能搜索引擎，以及神经科学学习。他的目标是打造能达到人脑水平的智能机器。
+    * [Amnon Shashua](https://www.cs.huji.ac.il/~shashua/):Mobileye 创始人,是其学生
+    * [Demis Hassabis](http://demishassabis.com/):DeepMind 创始人
+
+
+
+
 
 * [机构](https://wikipedia.tw.wjbk.site/baike-Category:%E5%90%84%E9%A2%86%E5%9F%9F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6)
     * [MIT media](https://www.media.mit.edu/)
@@ -519,10 +526,26 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         * [Lillian Lee](http://www.cs.cornell.edu/home/llee/)
         * [Sun, Xian-He 孙贤和](http://www.cs.iit.edu/~scs/sun/)
         * [曹建农](http://www4.comp.polyu.edu.hk/~csjcao/)
-        * [Zidong Wang（王子栋）](http://people.brunel.ac.uk/~csstzzw/)          
-        
-        
-        
+        * [Zidong Wang（王子栋）](http://people.brunel.ac.uk/~csstzzw/)
+        * [Ninghui Li 李宁辉](https://www.cs.purdue.edu/people/faculty/ninghui/)
+        * [Y. Charlie Hu 胡禹](https://engineering.purdue.edu/~ychu/)
+        * [Eric A. Brewer](https://people.eecs.berkeley.edu/~brewer/):分布式网络应用,WiLDNet无线网络项目的主要发明者
+        * [Leonard Kleinrock](https://www.lk.cs.ucla.edu/index.html):在计算机网络领域里做出许多杰出贡献，特别是在计算机网络的理论方面。在UCLA的ARPANET研发中他也起到了重要的角色，他是互联网的开创者。
+        * []()
+        * []()
+        * []()      
+        * []()
+        * []()
+        * []()
+        * []()          
+        * []()
+        * []()
+        * []()
+        * []()      
+        * []()
+        * []()
+        * []()
+        * []()         
         
         
         
