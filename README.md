@@ -198,6 +198,7 @@
 
 * [Alexandre Grothendieck](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/)
 * [A website devoted to the life and works of Alexandre Grothendieck](http://www.grothendieckcircle.org/)
+* [Archives de l'Association des Collaborateurs de Nicolas Bourbaki](http://sites.mathdoc.fr/archives-bourbaki/)
 
 
 * [IHÉS](https://www.ihes.fr/)
@@ -365,7 +366,8 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [Dennis M. Ritchie](https://www.bell-labs.com/usr/dmr/www/):He created the C programming languag
 * [Bjarne Stroustrup](http://stroustrup.com/):most notable for the creation and development of the C++ programming language.
 
-
+* [Edsger W. Dijkstra](http://www.cs.utexas.edu/users/EWD/):“结构程序设计之父”和“先知先觉”（Oracle），他一生致力于把程序设计发展成一门科学。
+* [Andrew S.Tanenbaum](https://www.cs.vu.nl/~ast/):专长于操作系统。他最早以Minix(一个免费用于教学目的的类Unix操作系统)作者的身份以及所编写的计算机科学教科书而为人熟知。他把教学视作自己最重要的一项工作。
 
 * [Turing Award](https://awards.acm.org/)
     * [Marvin Minsky](http://web.media.mit.edu/~minsky/)
@@ -381,7 +383,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Robert W. Floyd](https://dl.acm.org/profile/81452611368):设计高效可靠软件的方法学
     * [Kenneth Eugene Iverson](http://keiapl.org/):程序设计语言和数学符号
     * [Tony Hoare](https://www.cs.ox.ac.uk/people/tony.hoare/):程序设计语言的定义与设计
-    * [Edgar Frank Codd](http://scihi.org/codd-relational-database-model/):关系型数据库理论
+    * [Edgar Frank Codd](http://scihi.org/codd-relational-database-model/):关系型数据库理论;关系数据库之父
     * [Stephen A. Cook](http://www.cs.toronto.edu/~sacook/):计算复杂度
     * [Kenneth Lane Thompson](https://wikipedia.tw.wjbk.site/baike-%E8%82%AF%C2%B7%E6%B1%A4%E6%99%AE%E9%80%8A):UNIX操作系统
     * [Dennis MacAlistair Ritchie](https://www.bell-labs.com/usr/dmr/www/):C语言的创造者
@@ -595,6 +597,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 
 * [the history of computing](http://ei.cs.vt.edu/~history/)
+* [History of Computers](https://history-computer.com/)
 
 
 
