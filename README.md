@@ -466,7 +466,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Amnon Shashua](https://www.cs.huji.ac.il/~shashua/):Mobileye 创始人,是其学生
     * [Demis Hassabis](http://demishassabis.com/):DeepMind 创始人
 
-
+* [Stuart Russell](http://people.eecs.berkeley.edu/~russell/):Researcher of Artificial Intelligence
 
 
 
@@ -476,19 +476,17 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         * [John L. Hennessy](http://www.stanford.edu/~hennessy):体系结构
         * [John Hennessy和David Patterson获2017年ACM图灵奖，对业界有什么影响？](https://www.zhihu.com/question/269386662)
             * [Yale N. Patt](http://users.ece.utexas.edu/~patt/)
-        * []()  
-        * []()
-        * []()
-        * []()
-        * []()      
-        * []()
-        * []()
-        * []()
-        * []()  
-        * []()
-        * []()
-        * []()
-        * []()     
+            * [David A. Patterson](https://people.eecs.berkeley.edu/~pattrsn/):计算机体系架构
+            * [Mark D. Hill](http://pages.cs.wisc.edu/~markhill/)
+            * [David A. Wood](http://pages.cs.wisc.edu/~david/)
+            * [Karu Sankaralingam](http://pages.cs.wisc.edu/~karu/wiki/)
+            * [Mikko H. Lipasti ](https://pharm.ece.wisc.edu/mikko/)
+            * [William J. Dally](http://cva.stanford.edu/billd_webpage_new.html)
+            * [Eckert-Mauchly Award](https://www.computer.org/volunteering/awards/eckert-mauchly):计算机体系结构奖项；得主包括Gene Amdahl、Seymour Cray、Gordon Bell
+            * [Garth Gibson](http://www.cs.cmu.edu/~./garth/)
+            * [Randy H. Katz](http://bnrg.cs.berkeley.edu/~randy/)
+            * [John Ousterhout](https://web.stanford.edu/~ouster/cgi-bin/home.php): designed the experimental Sprite operating system and the first log-structured file system.
+  
     
     
     * [MIT media](https://www.media.mit.edu/)
@@ -497,7 +495,22 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         * [Nicholas Negroponte](http://web.media.mit.edu/~nicholas/)
         * [Rosalind Wright Picard](http://web.media.mit.edu/~picard/personal/50thTribute.php):情感计算
         * [Mitchel Resnick](http://web.media.mit.edu/~mres/): 教育工具
-
+        
+    * [AAAS](https://www.aaas.org/)
+        * [郁彬](https://www.stat.berkeley.edu/~binyu/Site/Welcome.html)  统计、机器学习、信息论、信号处理、遥感、神经科学和网络研究等领域
+        * [陈繁昌（ony F Chan)](https://www.math.ucla.edu/~chan/)数学造影处理及计算机视像、大规模整合物理设计(VLSI physical design optimization)，以及运算大脑制图(computational brain mapping)。
+        * [Hal Abelson](http://groups.csail.mit.edu/mac/users/hal/)与杰拉德·杰伊·萨斯曼和杰拉德·杰伊·萨斯曼的妻子朱莉·萨斯曼合写了一本关于计算机程序设计的总体性观念的基础教科书《计算机程序的构造和解释》（Structure and Interpretation of Computer Programs）
+        * [Jürgen Schmidhuber](http://people.idsia.ch/~juergen/)被称为“（现代）AI之父”或“深度学习之父”
+        * []()      
+        * []()
+        * []()
+        * []()
+        * []()  
+        * []()
+        * []()
+        * []()
+        * []()  
+        
     * [AAAI](http://www.aaai.org/)
         * [Daphne Koller](http://ai.stanford.edu/~koller/):电脑视觉和计算生物学
         * [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/):指出了机器学习与统计学之间的联系，并推动机器学习界广泛认识到贝叶斯网络的重要性。他还以近似推断变分方法的形式化、最大期望算法在机器学习的普及方面
@@ -634,6 +647,51 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 * [LITERATURE ON PROGRAMMING LANGUAGES](http://users.csc.calpoly.edu/~akeen/languages/papers.html)：与编程语言有关的文章
 
+* [James Aspnes ](https://www.cs.yale.edu/homes/aspnes/)
+* [不同领域的圣经级书籍有哪些？](https://www.zhihu.com/question/28438145)
+    * [Shriram Krishnamurthi](http://cs.brown.edu/~sk/):Programming Language: Application and Interpretation(PLAI)
+    * [EOPL官方网站](http://www.eopl3.com/)：可以直接找到使用这本书的大学课程
+    * [Mitchell Wand](http://www.ccs.neu.edu/home/wand/):EOPL
+    * [Daniel P. Friedman](https://legacy.cs.indiana.edu/dfried_celebration.html):EOPL
+    * [Harold Abelson](https://ocw.mit.edu/faculty/harold-abelson/):Structure and Interpretation of Computer Programs(SICP)
+    * [Gerald Jay Sussman](http://groups.csail.mit.edu/mac/users/gjs/):SICP
+    * [Compiler Design从书](https://www.zhihu.com/question/28438145)
+        * [Richard Wilhelm](http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html)
+        * [Helmet Shields](https://helmetshields.com/)
+        * [Sebastian Hack](http://compilers.cs.uni-saarland.de/people/hack/)
+    * [深入理解计算机系统Computer Systems: A Programmer's Perspective](https://book.douban.com/subject/1230413/)：CSAPP
+        * [Randy Bryant](https://www.cs.cmu.edu/~bryant/)
+        * [David R. O'Hallaron](http://www.cs.cmu.edu/~droh/)
+    * [W. Richard Stevens](http://www.kohala.com/start/)：UNIX和网络专家；《TCP/IP详解》三卷本
+    * [Programming Language领域的经典教材](https://www.zhihu.com/question/28438145/answer/41327895)
+        * [John C. Mitchell](https://theory.stanford.edu/people/jcm/)
+        * [John C. Reynolds](http://www.cs.cmu.edu/~jcr/)
+        * [Robert Harper](http://www.cs.cmu.edu/~rwh/)：Practical Foundations for Programming Language（圣经）
+        * [Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/tapl/)
+        * [Daniel P. Friedman](https://legacy.cs.indiana.edu/dfried_celebration.html)
+    * [有哪些讲编程范式的好书或好文？](https://www.zhihu.com/question/50556311)
+    * [Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/)圣经四件套：Software FoundationsTypes and Programming LanguageAdvanced Topics of Types and Programming Language（多人撰写）Basic Category Theory for Computer Scientists
+    * [Erik Demaine](http://erikdemaine.org/):天才式人物
+    * [Scott Meyers](http://www.aristeia.com/):Effective C++
+    * [Concrete Mathematics](https://www-cs-faculty.stanford.edu/~knuth/gkp.html):具体数学
+        * [Ron Graham](http://math.ucsd.edu/~fan/ron/)
+    * [算法导论Introduction to Algorithms](https://book.douban.com/subject/1885170/)
+        * [Charles E. Leiserson](https://people.csail.mit.edu/cel/)
+        * [Thomas H.Cormen ](http://www.cs.dartmouth.edu/~thc/)
+        * [Ronald L. Rivest](http://people.csail.mit.edu/rivest/)
+        * [Clifford Stein](http://www.columbia.edu/~cs2035/)
+    * [Brian Kernighan ](https://www.cs.princeton.edu/~bwk/)《The C Programming Language》；另一位作者是Dennis M. Ritchie 
+    * [大家在计算机学习路上，都看过哪些圣经级别的书？](https://www.zhihu.com/question/58905568)
+        * [Andrew S. Tanenbaum](https://www.cs.vu.nl/~ast/):Operating Systems Design and Implementation;Computer Networks 
+        * [Albert S. Woodhull ](http://minix1.woodhull.com/asw/):Operating Systems Design and Implementation
+        * [Abraham Silberschatz ](https://codex.cs.yale.edu/avi/):Operating System Concepts 
+        * [Peter Baer Galvin](https://galvin.info/):Operating System Concepts
+        * [Robert W. Sebesta](http://cs.uccs.edu/~rsebesta/):Concepts of Programming Languages
+        * [Compilers: Principles, Techniques, and Tools:dragonbook](https://suif.stanford.edu/dragonbook/)
+            * [Alfred V. Aho](http://www.cs.columbia.edu/~aho/)
+            * [Monica S. Lam 林倩玲 ](https://suif.stanford.edu/~lam/)
+            * [Ravi Sethi](http://www2.cs.arizona.edu/~rsethi/)
+            * [Jeffrey D. Ullman](http://infolab.stanford.edu/~ullman/)
 
 
 
@@ -695,14 +753,50 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 ## 美国
 * [克雷数学研究所](http://www.claymath.org/node/1370)
 
-
-
-
-
-
-
-
-
+* [AMS](https://www.ams.org/home/page)
+    * [杨同海](http://www.math.wisc.edu/~thyang/math.html):数论和算术几何
+    * [许进超](http://www.personal.psu.edu/jxx1/)多层网格法和区域分解法
+    * [伍鸿熙](https://math.berkeley.edu/~wu/)
+    * [王慕道](http://www.math.columbia.edu/~mtwang/)
+    * [金芳蓉](http://www.math.ucsd.edu/~fan/)
+    * [李文卿](http://wwwarchive.math.psu.edu/wli/)数论、编码理论、自守形式及谱图论。
+    * [林节玄](https://math.berkeley.edu/~lam/)环论和二次型。
+    * [刘秋菊](http://www.math.columbia.edu/~ccliu/)代数几何和辛几何
+    * [James Greig Arthur](http://www.math.toronto.edu/arthur/)
+    * [Sheldon Axler](http://www.axler.net/)
+    * [Michael George Aschbacher](http://www.math.caltech.edu/people/asch.html)有限群
+    * [Ingrid Daubechies](http://fds.duke.edu/db/aas/math/ingrid)图像压缩和信号处理的小波变换
+    * [Richard Elman](https://www.math.ucla.edu/~rse/)导师为林节玄
+    * [James Glimm ](http://www.ams.sunysb.edu/~glimm/)
+    * [Harald Andrés Helfgott](https://webusers.imj-prg.fr/~harald.helfgott/anglais/)数论
+    * [William Fulton](http://www.math.lsa.umich.edu/~wfulton/)代数几何
+    * [Nigel Hitchin](http://people.maths.ox.ac.uk/hitchin/)微分几何，代数几何和数学物理。
+    * [Jürg Martin Fröhlich](https://itp.phys.ethz.ch/research/mathphys/froehlich.html)数学家和理论物理学家
+    * [Arthur Michael Jaffe](http://www.arthurjaffe.net/)数学物理
+    * [Vaughan Frederick Randal Jones](https://math.berkeley.edu/~vfr/)琼斯多项式;1990 – 获得菲尔茨奖。
+    * [Anatole Borisovich Katok](https://math.psu.edu/dynsys/)动力系统
+    * [Sergiu Klainerman](https://web.math.princeton.edu/~seri/homepage/seri.htm)双曲型偏微分方程和广义相对论
+    * [Elliott H. Lieb ](https://web.math.princeton.edu/~lieb/)统计力学，凝聚态理论和泛函分析。
+    * [JÁNOS KOLLÁR](https://web.math.princeton.edu/~kollar/)代数几何。
+    * [George Lusztig](http://www-math.mit.edu/~gyuri/)表示论，特别是与代数群相关的对象方面，比如有限约化群、黑克代数、P进数群、量子群和魏尔群等方面。这些研究提出了新的基础概念，包括矩阵等价、德利涅-卢斯蒂格定理和卡日丹-卢斯蒂格多项式
+    * [Ciprian Manolescu](https://web.stanford.edu/~cm5/)拓扑学
+    * [Sorin Popa](https://www.math.ucla.edu/~popa/)算子代数
+    * [Richard Melvin Schoen](http://math.stanford.edu/~schoen/)微分几何
+    * [Dana S. Scott   ](http://www.cs.cmu.edu/~scott/)计算机科学、数学和哲学，1976年图灵奖得主。
+    * [William Gilbert Strang](http://www-math.mit.edu/~gs/)
+    * [Steven Strogatz](http://www.stevenstrogatz.com/)非线性系统
+    * [Daniel Tataru](https://math.berkeley.edu/~tataru/)
+    * [Luis Angel Caffarelli](https://web.ma.utexas.edu/users/caffarel/)偏微分方程及其应用
+    * [Arnaud Beauville](https://math.unice.fr/~beauvill/indexeng.html)代数几何
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()    
+    
 ## 国际组织
 
 
