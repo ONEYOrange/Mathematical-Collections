@@ -538,16 +538,16 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         * [Y. Charlie Hu 胡禹](https://engineering.purdue.edu/~ychu/)
         * [Eric A. Brewer](https://people.eecs.berkeley.edu/~brewer/):分布式网络应用,WiLDNet无线网络项目的主要发明者
         * [Leonard Kleinrock](https://www.lk.cs.ucla.edu/index.html):在计算机网络领域里做出许多杰出贡献，特别是在计算机网络的理论方面。在UCLA的ARPANET研发中他也起到了重要的角色，他是互联网的开创者。
-        * []()
-        * []()
-        * []()      
-        * []()
-        * []()
-        * []()
-        * []()          
-        * []()
-        * []()
-        * []()
+        * [Peter Norvig](http://www.norvig.com/):文章《十年自学编程》，作为GOOGLE的研究部主任，主页上还有许多编程的建议
+        * [Robert Sedgewick](https://www.cs.princeton.edu/~rs/):老师是高德纳，是普林斯顿大学计算机科学系的建立者，在数学算法分析领域的杰出工作和前沿探索。出版了多本著作
+        * [Amit Singhal](http://singhal.info/home/)：   Google的荣誉工程师， 信息检索及其相关的网页搜索、网络图形分析及搜索用户界面等应用。 
+        * [Gerard Salton](http://www.cs.cornell.edu/Info/Department/Annual95/Faculty/Salton.html)：信息检索领域创始人萨尔顿Gerard Salton研究信息截取检索技术。Amit Singhal的老师。
+        * [Moshe Y. Vardi](https://www.cs.rice.edu/~vardi/):His interests focus on applications of logic to computer science, including database theory, finite-model theory, knowledge in multi-agent systems, computer-aided verification and reasoning, and teaching logic across the curriculum. He is an expert in model checking, constraint satisfaction and database theory, common knowledge, and theoretical computer science.
+        * [Karen Spärck Jones](https://www.cl.cam.ac.uk/misc/obituaries/sparck-jones/): the concept of inverse document frequency, a technology that underlies most modern search engines. "a pioneer of computer science for work combining statistics and linguistics, and an advocate for women in the field."
+        * [Jeffrey D. Ullman](http://infolab.stanford.edu/~ullman/):龙书作者（经典），数据库大师;          
+        * [Bernard Chazellz](https://www.cs.princeton.edu/~chazelle/):Much of his work is in computational geometry, where he is known for his study of algorithms, such as linear-time triangulation of a simple polygon, as well as major complexity results, such as lower bound techniques based on discrepancy theory. He is also known for his invention of the soft heap data structure and the most asymptotically efficient known algorithm for finding minimum spanning trees.
+        * [Terry Winograd](http://hci.stanford.edu/winograd/):主要从事人工智能与心灵哲学领域的研究。开发了知名的自然语言理解程序SHRDLU
+        * [Seymour Aubrey Papert](http://papert.org/):人工智能发展的其中一位先驱。他对智力的观点主要来自让·皮亚杰的影响。他在1968年从LISP语言的基础里创立Logo编程语言。
         * []()      
         * []()
         * []()
@@ -618,7 +618,11 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 * [知乎](https://www.zhihu.com/)
     * [你所读的计算机科学方向，有哪些不错的讲义（Notes）？](https://www.zhihu.com/question/38300204)
+    * [计算机专业必读哪些经典书籍？](https://www.zhihu.com/question/273973062)
+    * [有没有计算机专业真的很经典的书或者教材？](https://www.zhihu.com/question/281970626)
+    * [有关计算机编程有哪些好的书籍？](https://www.zhihu.com/question/303745422)
     * [计算机专业有哪些不错的公开课资源？](https://www.zhihu.com/question/38335108/answer/813624703)
+    * [你会如何设计大学计算机课程？](https://www.zhihu.com/question/25397768)
     * [YouTube 上有哪些计算机方面的值得推荐的公开课？](https://www.zhihu.com/question/49071324)
     * [在哪里能够找到国外优秀大学的计算机公开课？](https://www.zhihu.com/question/32044961)
     * [计算机公开课推荐 2019.8](https://zhuanlan.zhihu.com/p/87900113)
