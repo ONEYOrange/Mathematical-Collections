@@ -364,12 +364,16 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [Douglas Engelbart](https://www.dougengelbart.org/):He is best known for his work on founding the field of human–computer interaction
 * [Guido van Rossum](https://gvanrossum.github.io//):the author of the Python programming language. 
 * [Dennis M. Ritchie](https://www.bell-labs.com/usr/dmr/www/):He created the C programming languag
-* [Bjarne Stroustrup](http://stroustrup.com/):most notable for the creation and development of the C++ programming language.
+* [Bjarne Stroustrup](http://stroustrup.com/):most notable for the creation and development of the C++ programming language.C++之父
+* [Guido van Rossum](https://gvanrossum.github.io//):python之父
 
 * [Edsger W. Dijkstra](http://www.cs.utexas.edu/users/EWD/):“结构程序设计之父”和“先知先觉”（Oracle），他一生致力于把程序设计发展成一门科学。
 * [Andrew S.Tanenbaum](https://www.cs.vu.nl/~ast/):专长于操作系统。他最早以Minix(一个免费用于教学目的的类Unix操作系统)作者的身份以及所编写的计算机科学教科书而为人熟知。他把教学视作自己最重要的一项工作。
-
-
+* [Isaac Asimov](http://www.asimovonline.com/asimov_home_page.html)
+* [Noam Chomsky](https://linguistics.arizona.edu/user/noam-chomsky): Sometimes called "the father of modern linguistics"
+* [Brian Kernighan ](https://www.cs.princeton.edu/~bwk/):《C语言程序设计》,作者:Brian W. Kernighan/Dennis M. Ritchie
+* [Anders Hejlsberg](https://github.com/ahejlsberg):C#和TypeScript
+ 
 * [当今理论计算机领域有哪些牛人？](https://www.zhihu.com/question/31563284)
     * [Timothy M. Chan](http://tmc.web.engr.illinois.edu/):计算几何
     * [Manuel Blum](http://www.cs.cmu.edu/~mblum/):密码系统和程序检验先驱，计算复杂性理论的主要奠基人之一
@@ -377,6 +381,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [Turing Award](https://awards.acm.org/)
     * [Marvin Minsky](http://web.media.mit.edu/~minsky/)
     * [John McCarthy](http://www-formal.stanford.edu/jmc/index.html)
+    * [John McCarthy](http://www-formal.stanford.edu/jmc//)
     * [Edsger Wybe Dijkstra])(http://www.cs.utexas.edu/users/EWD/):程序设计语言的科学与艺术
     * [Herbert A. Simon(司马贺)](http://www.hetwebsite.net/het/profiles/simon.htm)：认知心理学、诺奖（经济学），第一个分析复杂性架构（architecture of complexity）的人
         * [Herbert A. Simon and the Science of Decision Making](http://scihi.org/herbert-a-simon-decision-making/)
@@ -454,6 +459,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [滕尚华](https://viterbi-web.usc.edu/~shanghua/):算法的平滑分析
 * [韦思岸](http://weigend.com/):社交数据
 * [Randy Pausch](http://www.cs.cmu.edu/~pausch/):人机交互
+* [Andrew Ng吴恩达](https://www.andrewng.org/)
 
 
 * [Tomaso A.Poggio](http://poggio-lab.mit.edu/people/tomaso-poggio):数学统计学习理论和不适定问题、工程应用包括计算机视觉、计算机图形学、生物信息学、智能搜索引擎，以及神经科学学习。他的目标是打造能达到人脑水平的智能机器。
@@ -465,6 +471,26 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 
 * [机构](https://wikipedia.tw.wjbk.site/baike-Category:%E5%90%84%E9%A2%86%E5%9F%9F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6)
+    * [IEEE Medal of Honor](https://www.ieee.org/about/awards/medals/medal-of-honor.html)      
+        * [Thomas Kailath](https://web.stanford.edu/~tkailath/cgi-bin/index.php):自动控制
+        * [John L. Hennessy](http://www.stanford.edu/~hennessy):体系结构
+        * [John Hennessy和David Patterson获2017年ACM图灵奖，对业界有什么影响？](https://www.zhihu.com/question/269386662)
+            * [Yale N. Patt](http://users.ece.utexas.edu/~patt/)
+        * []()  
+        * []()
+        * []()
+        * []()
+        * []()      
+        * []()
+        * []()
+        * []()
+        * []()  
+        * []()
+        * []()
+        * []()
+        * []()     
+    
+    
     * [MIT media](https://www.media.mit.edu/)
         * [DAN ARIELY](http://danariely.com/)
         * [伊藤穰一](https://joi.ito.com/)
