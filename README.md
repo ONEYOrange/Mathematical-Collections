@@ -68,7 +68,7 @@
 
 * [Reading materials](https://www.dartmouth.edu/~matc/MathDrama/reading.html)
 
-
+* [IAS](https://www.math.ias.edu/):可以说是最优质的一个学术网站了
 
 
 
@@ -89,7 +89,8 @@
 
 * [Curtis T McMullen](http://people.math.harvard.edu/~ctm/courses.html)超多的Notes,Dynamics and Geometry
 
-* [William G. Faris](https://www.math.arizona.edu/~faris/):Articles,Books,Notes
+* [William G. Faris](https://www.math.arizona.edu/~faris/):Articles,Books,Notes。其中Book Reviews非常值得一看。
+    * [Southwest Center for Arithmetic Geometry](http://swc.math.arizona.edu/aws/2002/):关于算术几何的短期课程，上面有一些包括Pierre Deligne: “Periods for the Fundamental Group”的资料
 
 * [Karen K. Uhlenbeck](https://web.ma.utexas.edu/users/uhlen/):PDE
 
