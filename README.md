@@ -189,6 +189,10 @@
     * [童伟华](http://staff.ustc.edu.cn/~tongwh/)
     * [刘利刚](http://staff.ustc.edu.cn/~lgliu/)
     * [王新茂](http://staff.ustc.edu.cn/~xinmao/)
+
+* [科大杰出校友](http://math.ustc.edu.cn/2018/1221/c18822a401154/page.htm)
+    *[]()
+
     
 
 
