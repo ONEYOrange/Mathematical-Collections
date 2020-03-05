@@ -487,7 +487,11 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
             * [Randy H. Katz](http://bnrg.cs.berkeley.edu/~randy/)
             * [John Ousterhout](https://web.stanford.edu/~ouster/cgi-bin/home.php): designed the experimental Sprite operating system and the first log-structured file system.
   
-    
+    * [Google](https://research.google/people/)
+        * [Jeff Dean](http://research.google.com/people/jeff)
+        * [Sanjay Ghemawat](https://research.google/people/SanjayGhemawat/)
+        * []()
+        * []()
     
     * [MIT media](https://www.media.mit.edu/)
         * [DAN ARIELY](http://danariely.com/)
@@ -643,7 +647,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [the history of computing](http://ei.cs.vt.edu/~history/)
 * [History of Computers](https://history-computer.com/)
 
-
+* [Kevin Duh](http://cs.jhu.edu/~kevinduh/teaching.html):Research Career Tips很值得一看
 
 * [LITERATURE ON PROGRAMMING LANGUAGES](http://users.csc.calpoly.edu/~akeen/languages/papers.html)：与编程语言有关的文章
 
