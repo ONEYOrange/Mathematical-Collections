@@ -143,7 +143,8 @@
 
 ## 论坛
 
-* [数学视频 来自mathoverflow的问答 by Mosbic](https://www.douban.com/note/329585693/)
+* [Mobing](https://www.douban.com/people/mantun/)
+    * [数学视频 来自mathoverflow的问答 by Mosbic](https://www.douban.com/note/329585693/)
     * [有趣的数学家主页](https://www.douban.com/note/325037004/)
 
 
