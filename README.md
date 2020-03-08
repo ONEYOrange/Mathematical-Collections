@@ -557,7 +557,45 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
             * [Garth Gibson](http://www.cs.cmu.edu/~./garth/)
             * [Randy H. Katz](http://bnrg.cs.berkeley.edu/~randy/)
             * [John Ousterhout](https://web.stanford.edu/~ouster/cgi-bin/home.php): designed the experimental Sprite operating system and the first log-structured file system.
-  
+    * [IEEE计算机先驱奖](https://www.computer.org/volunteering/awards/pioneer): Charter Recipients 与 Past Recipients    
+        * [Demetri Terzopoulos(2020)](https://www.cs.ucla.edu/~dt)For a leading role in developing computer vision, computer graphics, and medical imaging through pioneering research that has helped unify these fields and has impacted related disciplines within and beyond computer science.      
+        * [	Jack Dongarra (2020)](https://www.eecs.utk.edu/people/faculty/dongarra/):For leadership in the area of high-performance mathematical software.
+        * [Jitendra Malik(2019)](https://people.eecs.berkeley.edu/~malik/):(2019) IEEE Fellow、ACM Fellow,Jitendra Malik 也是李飞飞的良师益友，李飞飞曾表示 Jitendra Malik 是对她影响最大的三位学者之一。;计算机视觉、生物视觉计算建模、计算机图形学和机器学习
+        * [Barbara Liskov(2018)](http://www.pmg.csail.mit.edu/~liskov/):For pioneering data abstraction, polymorphism, and support for fault tolerance and distributed computing in the programming languages CLU and Argus.
+        * [Bjarne Stroustrup(2018)](http://stroustrup.com/):  For bringing object-oriented programming and generic programming to the mainstream with his design and implementation of the C++ programming language.
+        * [	E. Grady Booch(2016) ](https://researcher.watson.ibm.com/researcher/view.php?person=us-gbooch):For pioneering work in Object Modeling that led to the creation of the Unified Modeling Language (UML).
+        * [	Michael J. Flynn(2015) ](http://arith.stanford.edu/~flynn/):For more than 50 years of leadership, which includes the creation of TCCA and SIGARCH, basic contributions to computer arithmetic, microarchitecture and multiprocessing, and quantitative analysis of microarchitectures.
+        * [	Peter M. Kogge(2015) ](https://www3.nd.edu/~kogge/):For the pioneering of three areas of computer architecture development of parallel algorithms for recurrence embodied in the Kogge-Stone adder, development of the multi-core microprocessor chip and the formalization of methods for designing the control of a computer pipeline.
+        * [Linus Torvalds(2014) ](https://torvalds-family.blogspot.com/):For pioneering development of the Linux kernel using the open-source approach.    
+        * [	Edward Feigenbaum(2013) ](http://ksl-web.stanford.edu/people/eaf/):For pioneering work in Artificial Intelligence, including development of the basic principles and methods of knowledge-based systems and their practical applications.
+        * [Edward J. McCluskey(2008)](http://www-crc.stanford.edu/users/ejm/McCluskey_Edward.html):For seminal contributions to the design and synthesis of digital systems over five decades, including the first algorithm for logic synthesis (the Quine-McCluskey method).
+        * [Jeffrey Chuan Chu 朱傳榘(1981)](http://jeffreychuanchu.com/):For his early work in electronic computer logic design.
+        * []():      
+        * []():
+        * []():
+        * []():
+        * []():    
+        * []():
+        * []():
+        * []():
+        * []():     
+        * []():
+        * []():
+        * []():
+        * []():    
+        * []():
+        * []():
+        * []():
+        * []():      
+        * []():
+        * []():
+        * []():
+        * []():    
+        * []():
+        * []():
+        * []():
+        * []():     
+    
     * [Google](https://research.google/people/)
         * [Jeff Dean](http://research.google.com/people/jeff)
         * [Sanjay Ghemawat](https://research.google/people/SanjayGhemawat/)
@@ -576,15 +614,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         * [陈繁昌（ony F Chan)](https://www.math.ucla.edu/~chan/)数学造影处理及计算机视像、大规模整合物理设计(VLSI physical design optimization)，以及运算大脑制图(computational brain mapping)。
         * [Hal Abelson](http://groups.csail.mit.edu/mac/users/hal/)与杰拉德·杰伊·萨斯曼和杰拉德·杰伊·萨斯曼的妻子朱莉·萨斯曼合写了一本关于计算机程序设计的总体性观念的基础教科书《计算机程序的构造和解释》（Structure and Interpretation of Computer Programs）
         * [Jürgen Schmidhuber](http://people.idsia.ch/~juergen/)被称为“（现代）AI之父”或“深度学习之父”
-        * []()      
-        * []()
-        * []()
-        * []()
-        * []()  
-        * []()
-        * []()
-        * []()
-        * []()  
+
         
     * [AAAI](http://www.aaai.org/)
         * [Daphne Koller](http://ai.stanford.edu/~koller/):电脑视觉和计算生物学
@@ -714,7 +744,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 
 
-
+* [unsung heroes in Dutch computing history.](http://www-set.win.tue.nl/UnsungHeroes/home.html): Many text books and websites provide a short coverage of mainstream computer history. 强烈推荐 
 * [the history of computing](http://ei.cs.vt.edu/~history/)
 * [History of Computers](https://history-computer.com/)
 
