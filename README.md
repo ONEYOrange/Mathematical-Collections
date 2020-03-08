@@ -458,6 +458,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         * [Herbert A. Simon and the Science of Decision Making](http://scihi.org/herbert-a-simon-decision-making/)
         * [Allen Newell](http://diva.library.cmu.edu/Newell/):信息处理语言（IPL）发明者之一,司马贺的学生，1975年得主
         * [Edward Albert Feigenbaum](http://ksl-web.stanford.edu/people/eaf/):常被人称为专家系统之父。为1994年图灵奖得主。
+        * [Direct links to the Edward A. Feigenbaum documents](https://web.stanford.edu/~eaf/)
     * [Michael Oser Rabin](https://wikimili.com/en/Michael_O._Rabin#References):计算复杂度理论,非确定性自动机
     * [Dana Stewart Scott](http://www.cs.cmu.edu/~scott/):与迈克尔·拉宾一起师从阿隆索·邱奇(Alonzo Church);拉宾和达纳·斯科特共同发表了“有限自动机与其判定性问题”为题的论文。
     * [John Warner Backus](https://military.wikia.org/wiki/John_Backus)：发明了函数层次编程概念及实践该概念的FP语言。
@@ -747,6 +748,11 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [unsung heroes in Dutch computing history.](http://www-set.win.tue.nl/UnsungHeroes/home.html): Many text books and websites provide a short coverage of mainstream computer history. 强烈推荐 
 * [the history of computing](http://ei.cs.vt.edu/~history/)
 * [History of Computers](https://history-computer.com/)
+* [Oral History of Computer Scientist](https://cn.bing.com/search?q=Oral%20History%20of%20pdf%20archive.computerhistory.org%2Fresources%2F&qs=n&form=QBRE&sp=-1&pq=oral%20history%20of%20pdf%20archive.computerhistory.org%2Fresources%2F&sc=0-58&sk=&cvid=94A31FCB026646CAAF21BC7E26D28B6E):有关计算机学家的访谈、传记
+
+
+
+
 
 * [Kevin Duh](http://cs.jhu.edu/~kevinduh/teaching.html):Research Career Tips很值得一看
 
