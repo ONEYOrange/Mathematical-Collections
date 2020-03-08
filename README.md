@@ -459,6 +459,8 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         * [Allen Newell](http://diva.library.cmu.edu/Newell/):信息处理语言（IPL）发明者之一,司马贺的学生，1975年得主
         * [Edward Albert Feigenbaum](http://ksl-web.stanford.edu/people/eaf/):常被人称为专家系统之父。为1994年图灵奖得主。
         * [Direct links to the Edward A. Feigenbaum documents](https://web.stanford.edu/~eaf/)
+        * [Edward Albert Feigenbaum of ACM Digital Library](https://dl.acm.org/profile/81100346299):
+        * [A Companion Site to the Edward A. Feigenbaum Collection](https://cs.stanford.edu/people/eaf/wordpress/online-feigenbaum-resources/)
     * [Michael Oser Rabin](https://wikimili.com/en/Michael_O._Rabin#References):计算复杂度理论,非确定性自动机
     * [Dana Stewart Scott](http://www.cs.cmu.edu/~scott/):与迈克尔·拉宾一起师从阿隆索·邱奇(Alonzo Church);拉宾和达纳·斯科特共同发表了“有限自动机与其判定性问题”为题的论文。
     * [John Warner Backus](https://military.wikia.org/wiki/John_Backus)：发明了函数层次编程概念及实践该概念的FP语言。
