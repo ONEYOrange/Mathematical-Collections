@@ -319,13 +319,21 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [Rodolfo Gutiérrez-Romo](https://webusers.imj-prg.fr/~rodolfo.gutierrez/)geometry and dynamical systems
 
 
-* [Princeton](https://www.math.princeton.edu/)
+* [Princeton](https://www.math.princeton.edu/):通过“site:web.math.princeton.edu/~”可搜索
     * [Sergiu Klainerman](https://web.math.princeton.edu/~seri/homepage/serilectures.htm)PDE
     * [Nicholas Katz](http://web.math.princeton.edu/~nmk/)
     * [János Kollár](https://web.math.princeton.edu/~kollar/)Algebraic Geometry
     * [Allan Sly](https://web.math.princeton.edu/~asly/)Probability
     * [Peter Sarnak](http://publications.ias.edu/sarnak)Number Theory
     * [Mihalis Dafermos](https://web.math.princeton.edu/~dafermos/)Mathematical Physics,PDE
+    * [Elliott H. Lieb ](http://web.math.princeton.edu/~lieb/):
+    * [Weinan E](http://web.math.princeton.edu/~weinan/):Machine Learning
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
     
     
 * [IAS](https://www.math.ias.edu/)
