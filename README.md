@@ -570,6 +570,8 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
             * [Garth Gibson](http://www.cs.cmu.edu/~./garth/)
             * [Randy H. Katz](http://bnrg.cs.berkeley.edu/~randy/)
             * [John Ousterhout](https://web.stanford.edu/~ouster/cgi-bin/home.php): designed the experimental Sprite operating system and the first log-structured file system.
+    
+    * [Full list of IEEE Computer Society Award Recipients](https://www.computer.org/volunteering/awards/award-recipients)
     * [IEEE计算机先驱奖](https://www.computer.org/volunteering/awards/pioneer): Charter Recipients 与 Past Recipients    
         * [Demetri Terzopoulos(2020)](https://www.cs.ucla.edu/~dt)For a leading role in developing computer vision, computer graphics, and medical imaging through pioneering research that has helped unify these fields and has impacted related disciplines within and beyond computer science.      
         * [	Jack Dongarra (2020)](https://www.eecs.utk.edu/people/faculty/dongarra/):For leadership in the area of high-performance mathematical software.
