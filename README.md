@@ -104,6 +104,7 @@
 
 ## 几何
 
+
 * [Peter Doyle](https://math.dartmouth.edu/~doyle/)：上面有很多几何方面的讲义，比如Bill Thurston, John Conway一起的Geometry and the Imagination
 * [Nigel Hitchin](http://people.maths.ox.ac.uk/hitchin/):Differentiable Manifolds,Geometry of Surfaces
 
@@ -111,13 +112,26 @@
     * [ETHZ Dietmar A. Salamon](https://people.math.ethz.ch/~salamon/):Analysis AND Differential Geometry
     * [Urs Lang](https://people.math.ethz.ch/~lang/): Analysis and Geometry
 
+* [Differential topology versus differential geometry](https://math.stackexchange.com/questions/1350670/differential-topology-versus-differential-geometry)
+    * [Teaching myself differential topology and differential geometry](https://math.stackexchange.com/questions/13575/teaching-myself-differential-topology-and-differential-geometry/22583?r=SearchResults#22583)
+    * [Recommending books for introductory differential geometry (duplicate)(https://math.stackexchange.com/questions/264331/recommending-books-for-introductory-differential-geometry?noredirect=1)
+    * [Introductory texts on manifolds](https://math.stackexchange.com/questions/46482/introductory-texts-on-manifolds?noredirect=1)
 
+* [有哪些好的微分流形教材？](https://www.zhihu.com/question/302652605/answer/1068666995)
+    * [KO HONDA](https://www.math.ucla.edu/~honda/)
+    * [John M. (Jack) Lee](https://sites.math.washington.edu/~lee/)
+    * [Some lecture notes based on do Carmo's textbook.](https://www.math.wisc.edu/~robbin/Do_Carmo/Do_Carmo.html)
+    * [Victor Guillemin](http://math.mit.edu/~vwg/):Differential Topology by Victor Guillemin and Alan Pollack
+    * [Ciprian Manolescu:Math 225A: Differential Topology](https://www.math.ucla.edu/~cm/225a.1.12f/index.html)
+    * [John Baez](http://www.math.ucr.edu/home/baez/):Gauge Fields, Knots And Gravity
+    * [Loring W. Tu杜武亮](https://ltu.pages.tufts.edu/):《An Introduction to Manifolds》
 
 
 
 ## 拓扑
 
 * [John W. Milnor](http://www.math.stonybrook.edu/~jack/)
+    * [Differential Topology,Video Lecture](https://www.simonsfoundation.org/2011/04/28/john-w-milnor/)
 
 
 ## 代数几何
@@ -128,7 +142,9 @@
 
 * [Caucher Birkar](https://www.dpmms.cam.ac.uk/~cb496/)Fields Medal(2016)
 
-
+* [目前世界上研究代数拓扑方向的一流数学家都有哪些？都在哪里？](https://www.zhihu.com/question/46648873/answer/362821964)
+    * [J. Peter May](http://math.uchicago.edu/~may/)AT
+* [Akhil Mathew](http://math.uchicago.edu/~amathew/notes.html)
 
 # 网路资源
 
