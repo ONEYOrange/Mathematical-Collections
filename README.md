@@ -374,7 +374,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 * [突破奖](https://breakthroughprize.org/)
     * [Larry Guth](http://math.mit.edu/~lguth/):辛几何、黎曼几何、调和分析以及组合几何
-    * [](https://www.math.ias.edu/~lurie/):高阶范畴论和导出代数几何;全扩展拓扑量子场论的分类
+    * [Trailblazer Jacob Lurie](https://www.math.ias.edu/~lurie/):高阶范畴论和导出代数几何;全扩展拓扑量子场论的分类
     * [Ian Agol](https://math.berkeley.edu/~ianagol/):几何拓扑学(低维拓扑)和几何群论
     * [André Arroja Neves](http://math.uchicago.edu/~aneves/):纯量曲率、几何流及Willmore猜想
     * [Vincent Lafforgue](http://vlafforg.perso.math.cnrs.fr/)：函数域中对朗兰兹纲领的贡献
@@ -433,6 +433,8 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 * [EDWARD WITTEN](http://www.sns.ias.edu/witten)
 * [Arthur Jaffe](https://arthurjaffe.com/)
+
+* [Lenhard Lee Ng](https://math.duke.edu/people/lenhard-lee-ng):曾与terence tao 齐名的天才少年;symplectic geometry, contact geometry;topological string theory;low-dimensional topology, knot theory
 
 * [David Tong](http://www.damtp.cam.ac.uk/user/tong/):物理向
 * [Richard Feynman](http://en.wikipedia.org/wiki/Richard_Feynman)
