@@ -117,6 +117,12 @@
     * [Recommending books for introductory differential geometry (duplicate)(https://math.stackexchange.com/questions/264331/recommending-books-for-introductory-differential-geometry?noredirect=1)
     * [Introductory texts on manifolds](https://math.stackexchange.com/questions/46482/introductory-texts-on-manifolds?noredirect=1)
 
+* [请推荐黎曼几何的教材?](https://www.zhihu.com/question/39735772)
+    * [Peter Petersen](https://www.math.ucla.edu/~petersen/)
+    * [Bernard Shiffman](http://www.math.jhu.edu/~shiffman/)
+    * [Toshiyuki KOBAYASHI](https://www.ms.u-tokyo.ac.jp/~toshi/):Katsumi Nomizu
+    * [Hung-Hsi Wu 伍鸿熙](https://math.berkeley.edu/~wu/)
+    
 * [有哪些好的微分流形教材？](https://www.zhihu.com/question/302652605/answer/1068666995)
     * [KO HONDA](https://www.math.ucla.edu/~honda/)
     * [John M. (Jack) Lee](https://sites.math.washington.edu/~lee/)
