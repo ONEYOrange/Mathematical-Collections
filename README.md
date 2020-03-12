@@ -98,6 +98,47 @@
 
 * [Karen K. Uhlenbeck](https://web.ma.utexas.edu/users/uhlen/):PDE
 
+* [求推荐一本事无巨细（就像菲书那样）的实变函数教材或是参考书？](https://www.zhihu.com/question/377375572)
+    * [James J. Yeh](https://www.math.uci.edu/people/james-yeh):Real analysis: Theory of measure and integration
+
+* [求各位数学系大佬推荐基本国外的实变函数的书？](https://www.zhihu.com/question/357627090)
+    * [William P. Ziemer ](https://www.math.purdue.edu/~torresm/pubs/Modern-real-analysis.pdf):Modern Real Analysis
+    * [Gerald B. Folland](https://math.washington.edu/people/gerald-b-folland):Real Analysis: Modern Techniques and Their Applications
+    * [ Avner Friedman](https://people.math.osu.edu/friedman.158/):Foundations of Modern Analysis
+    * [Lawrence Craig Evans](https://math.berkeley.edu/~evans/):Measure_Theory_and_Fine_Properties_of_Functions
+    * [Sheldon Axler](http://measure.axler.net/):Measure, Integration & Real Analysis MIRA
+    * []():
+    * []():
+    * []():
+    * []():    
+
+* [有哪些精悍的复变教材和经典的泛函分析？](https://www.zhihu.com/question/21596674)
+
+
+
+
+
+* [泛函分析有什么好的教材？](https://www.zhihu.com/question/24465191/answer/27889350)
+    * [Andrew Pinchuck](https://www.ru.ac.za/mathematics/people/staff/andrewpinchuck/):
+    * [Haim Brezis](https://sites.math.rutgers.edu/~brezis/):Functional Analysis, Sobolev Spaces and Partial Differential Equaitons 也是一本很好的书，1-6章是常规泛函分析教材中的内容，涉及Lp Spaces, Hilbert Spaces, Weak Topologies, Compact Operators 等等。后面则是方程的内容
+    * [Piotr Mikusinski](https://sciences.ucf.edu/math/mikusinski/):Hilbert Spaces with Applications, Lokenath Debnath and Piotr Mikusinski, 这是一本599页的书，比较侧重于希尔伯特空间及其应用。包含了的方程，量子物理，小波变换等课题。Basic Classes of Linear Operators, Israel Gohberg, Seymour Goldberg, Marinus A. Kaashoek, 非常好的泛函分析的书。虽然标题是算子，但是内容还是比较循序渐进地从一些基础的问题开始。这本书相对于1,2都要深入很多（后面包含Poincare Operators, Fredholm Operators, Toeplitz Operators等课题）。但是可读性依然很强。
+    * [Patrick Fitzpatrick](http://www.math.umd.edu/~pmf/):Real Analysis, H.L. Royden and P.M. Fitzpatrick. 
+    * [Bryan P. Rynne](http://www.macs.hw.ac.uk/~bryan/):Linear Functional Analysis, Bryan P. Rynne and Martin A. Youngson. 
+    * [Dietmar A. Salamon](https://people.math.ethz.ch/~salamon/):Theo Bühler and Dietmar A. Salamon Functional Analysis;Measure and Integration
+Book by Dietmar A. Salamon
+    * [Dirk Werner](http://page.mi.fu-berlin.de/werner99/):Funktionalanalysis
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+
+
+
 
 ## 代数
 
