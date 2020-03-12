@@ -312,35 +312,7 @@ Book by Dietmar A. Salamon
     * [杨同海](https://www.math.wisc.edu/~thyang/)国际知名数论学家
     * [叶如钢](http://web.math.ucsb.edu/~yer/)微分几何、几何分析和数学物理
     * [Chi-Wang Shu (舒其望) ](http://www.dam.brown.edu/people/shu/)
-    * []() 
-    * []()
-    * []()
-    * []()
-    * []() 
-    * []()
-    * []()
-    * []()
-    * []() 
-    * []()
-    * []()
-    * []()
-    * []() 
-    * []()
-    * []()
-    * []()
-    * []() 
-    * []()
-    * []()
-    * []()
-    * []() 
-    * []()
-    * []()
-    * []()
-    * []() 
-    * []()
-    * []()
-    * []()
-    * []() 
+
 
 
     
@@ -637,6 +609,50 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Demis Hassabis](http://demishassabis.com/):DeepMind 创始人
 
 * [Stuart Russell](http://people.eecs.berkeley.edu/~russell/):Researcher of Artificial Intelligence
+
+
+* [书单](https://www.douban.com/doulist/37472347/)
+    * [Baron Schwartz](https://www.xaprb.com/):高性能MySQL(High Performance MySQL: Optimization, Backups, and Replication); 施瓦茨 (Baron Schwartz) / 扎伊采夫 (Peter Zaitsev) / 特卡琴科 (Vadim Tkachenko) 
+    * [Peter Zaitsev](https://www.peterzaitsev.com/):
+    * [Vadim Tkachenko](https://www.percona.com/about-percona/team/vadim-tkachenko):
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+    * []():
+
+
+
+
+
+
+
+
+
+
 
 
 
