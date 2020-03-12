@@ -98,6 +98,12 @@
 
 * [Karen K. Uhlenbeck](https://web.ma.utexas.edu/users/uhlen/):PDE
 
+
+* [Maria Terrell](http://pi.math.cornell.edu/~maria/):Calculus with Applications by Peter Lax and Maria Terrell;中译版微积分及其应用
+
+
+
+
 * [求推荐一本事无巨细（就像菲书那样）的实变函数教材或是参考书？](https://www.zhihu.com/question/377375572)
     * [James J. Yeh](https://www.math.uci.edu/people/james-yeh):Real analysis: Theory of measure and integration
 
@@ -127,20 +133,31 @@
     * [Dietmar A. Salamon](https://people.math.ethz.ch/~salamon/):Theo Bühler and Dietmar A. Salamon Functional Analysis;Measure and Integration
 Book by Dietmar A. Salamon
     * [Dirk Werner](http://page.mi.fu-berlin.de/werner99/):Funktionalanalysis
-    * []():
-    * []():
-    * []():
-    * []():
-    * []():
-    * []():
-    * []():
-    * []():
-    * []():
 
 
+* [Bob Devaney](http://math.bu.edu/people/bob/):微分方程、动力系统与混沌导论
+    * [Errata:Differential Equations, Dynamical Systems, and an Introduction to Chaos ](http://math.bu.edu/hsd/)
+    * [Steve Smale](https://math.berkeley.edu/~smale/):
+    * [Stephen Smale Papers](https://ttic.uchicago.edu/~smale/papers.html):
+    * []():
 
 
 ## 代数
+* [Sigurdur Helgason](http://www-math.mit.edu/~helgason/):Groups and Geometric Analysis，Differential Geometry and Symmetric Spaces
+
+* [Joseph Rotman](https://faculty.math.illinois.edu/~rotman/):
+    * []():
+    * []():
+    * []():
+    * []():
+
+
+
+
+
+
+
+
 
 
 ## 几何
@@ -186,6 +203,9 @@ Book by Dietmar A. Salamon
 * [Math.Stackexchange](https://math.stackexchange.com/questions/tagged/soft-question)
     * [Why study Algebraic Geometry?](https://math.stackexchange.com/questions/255063/why-study-algebraic-geometry/257528#257528)
     * [Help understanding Algebraic Geometry](https://math.stackexchange.com/questions/269384/help-understanding-algebraic-geometry/269446#269446)
+
+* [Robin Hartshorne](https://math.berkeley.edu/people/faculty/robin-c-hartshorne)
+
 
 * [Caucher Birkar](https://www.dpmms.cam.ac.uk/~cb496/)Fields Medal(2016)
 
@@ -365,6 +385,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Robert Ghrist](https://www.math.upenn.edu/~ghrist/): 有很好的微积分视频(youtube)
     * [Upenn Online Learning Initiative](https://repository.upenn.edu/discrete_calculus/)这个是可以下载的版本。
     * [Wolfgang Ziller](https://www.math.upenn.edu/~wziller/)有很好的微分几何和黎曼几何讲义
+    * [CHING-LI CHAI](https://www.math.upenn.edu/~chai/)Algebra
 
 * [UCB](https://math.berkeley.edu/)
     * [Lawrence Craig Evans](https://math.berkeley.edu/~evans/): 上面有很好的PDE notes
