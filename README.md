@@ -521,7 +521,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Marvin Minsky](http://web.media.mit.edu/~minsky/)
     * [John McCarthy](http://www-formal.stanford.edu/jmc/index.html)
     * [John McCarthy](http://www-formal.stanford.edu/jmc//)
-    * [Edsger Wybe Dijkstra])(http://www.cs.utexas.edu/users/EWD/):程序设计语言的科学与艺术
+    * [Edsger Wybe Dijkstra](http://www.cs.utexas.edu/users/EWD/):程序设计语言的科学与艺术
     * [Herbert A. Simon(司马贺)](http://www.hetwebsite.net/het/profiles/simon.htm)：认知心理学、诺奖（经济学），第一个分析复杂性架构（architecture of complexity）的人
         * [Herbert A. Simon and the Science of Decision Making](http://scihi.org/herbert-a-simon-decision-making/)
         * [Allen Newell](http://diva.library.cmu.edu/Newell/):信息处理语言（IPL）发明者之一,司马贺的学生，1975年得主
