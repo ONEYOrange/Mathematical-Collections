@@ -85,6 +85,7 @@
     * [关于概率/分析/代数/几何等领域Lecture Notes链接分享](https://zhuanlan.zhihu.com/p/46040409)
     * [哪些数学书让你相见恨晚？](https://www.zhihu.com/question/366915371)
     * [数学经典教材有什么？](https://www.zhihu.com/question/22302252)
+    * [你所读的（基础）物理方向，有哪些不错的讲义（Notes）？](https://www.zhihu.com/question/54232458/answer/890818375)
 
 * [Chicago undergraduate mathematics bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
 
