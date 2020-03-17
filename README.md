@@ -63,6 +63,7 @@
 * [I Choose Math](https://ichoosemath.com/2012/08/22/bill-thurston-math-hero/):Bill Thurston, Math Hero.有关于Thurston的一些资料
     * [GEOMETRY AND THE IMAGINATION](http://web.math.princeton.edu/conference/Thurston60th/):A conference in honor of Bill Thurston's 60th Birthday
     * [Bill Thurston Conference 2014 - Cornell University](http://pi.math.cornell.edu/~thurston/)
+    * [thurston.notes](https://www.math.unl.edu/~mbrittenham2/classwk/990s08/public/thurston.notes.pdf/)
 
 
 * [Martin Gardner](http://martin-gardner.org/)
