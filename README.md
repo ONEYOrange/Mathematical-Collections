@@ -61,7 +61,7 @@
 
 
 * [I Choose Math](https://ichoosemath.com/2012/08/22/bill-thurston-math-hero/):Bill Thurston, Math Hero.有关于Thurston的一些资料
-
+    * [GEOMETRY AND THE IMAGINATION](http://web.math.princeton.edu/conference/Thurston60th/):A conference in honor of Bill Thurston's 60th Birthday
 
 
 * [Martin Gardner](http://martin-gardner.org/)
@@ -488,7 +488,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 
 
-
+* [UPenn:String-Math](https://www.math.upenn.edu/StringMath2011/)
 
 
 
