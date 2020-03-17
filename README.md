@@ -66,6 +66,7 @@
     * [thurston.notes](https://www.math.unl.edu/~mbrittenham2/classwk/990s08/public/thurston.notes.pdf/)
     * [Geometry and topology of three-manifolds By William Thurston](http://library.msri.org/books/gt3m/)
     * [Bill Thurston on MathOverflow](https://mathoverflow.net/users/9062/bill-thurston)
+    * [Terry Tao on MathOverflow](https://mathoverflow.net/users/766/terry-tao)
 
 
 * [Martin Gardner](http://martin-gardner.org/)
