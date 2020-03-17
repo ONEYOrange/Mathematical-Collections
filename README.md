@@ -64,6 +64,8 @@
     * [GEOMETRY AND THE IMAGINATION](http://web.math.princeton.edu/conference/Thurston60th/):A conference in honor of Bill Thurston's 60th Birthday
     * [Bill Thurston Conference 2014 - Cornell University](http://pi.math.cornell.edu/~thurston/)
     * [thurston.notes](https://www.math.unl.edu/~mbrittenham2/classwk/990s08/public/thurston.notes.pdf/)
+    * [Geometry and topology of three-manifolds By William Thurston](http://library.msri.org/books/gt3m/)
+    * [Bill Thurston on MathOverflow](https://mathoverflow.net/users/9062/bill-thurston)
 
 
 * [Martin Gardner](http://martin-gardner.org/)
@@ -404,7 +406,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     
 * [Harvard](http://people.math.harvard.edu/)
 
-    
+* [Cornell Math Club](http://pi.math.cornell.edu/~mathclub/index.html)    
    
 
 ## 土地奖
@@ -815,7 +817,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         * [Bernard Chazellz](https://www.cs.princeton.edu/~chazelle/):Much of his work is in computational geometry, where he is known for his study of algorithms, such as linear-time triangulation of a simple polygon, as well as major complexity results, such as lower bound techniques based on discrepancy theory. He is also known for his invention of the soft heap data structure and the most asymptotically efficient known algorithm for finding minimum spanning trees.
         * [Terry Winograd](http://hci.stanford.edu/winograd/):主要从事人工智能与心灵哲学领域的研究。开发了知名的自然语言理解程序SHRDLU
         * [Seymour Aubrey Papert](http://papert.org/):人工智能发展的其中一位先驱。他对智力的观点主要来自让·皮亚杰的影响。他在1968年从LISP语言的基础里创立Logo编程语言。
-        * []()      
+        * [Michael J. Freedman](https://www.cs.princeton.edu/~mfreed/):Research interests:   distributed systems, networking, security   
         * []()
         * []()
         * []()
