@@ -65,8 +65,8 @@
     * [Bill Thurston Conference 2014 - Cornell University](http://pi.math.cornell.edu/~thurston/)
     * [thurston.notes](https://www.math.unl.edu/~mbrittenham2/classwk/990s08/public/thurston.notes.pdf/)
     * [Geometry and topology of three-manifolds By William Thurston](http://library.msri.org/books/gt3m/)
-    * [Bill Thurston on MathOverflow](https://mathoverflow.net/users/9062/bill-thurston)
-    * [Terry Tao on MathOverflow](https://mathoverflow.net/users/766/terry-tao)
+    
+
 
 
 * [Martin Gardner](http://martin-gardner.org/)
@@ -236,6 +236,14 @@ Book by Dietmar A. Salamon
     * [数学视频 来自mathoverflow的问答 by Mosbic](https://www.douban.com/note/329585693/)
     * [有趣的数学家主页](https://www.douban.com/note/325037004/)
 
+    * [Mathemaicans on MathOverflow](https://stackexchange.com/leagues/504/alltime/mathoverflow)
+        * [Bill Thurston on MathOverflow](https://mathoverflow.net/users/9062/bill-thurston)
+        * [Terry Tao on MathOverflow](https://mathoverflow.net/users/766/terry-tao)
+        * [Minhyong Kim](https://mathoverflow.net/users/1826/minhyong-kim):
+        * [gowers](https://mathoverflow.net/users/1459/gowers):
+        * []():
+        * []():
+        * []():
 
 
 
@@ -634,24 +642,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * []():
     * []():
     * []():
-    * []():
-    * []():
-    * []():
-    * []():
-    * []():
-    * []():
-    * []():
-    * []():
-    * []():
-    * []():
-    * []():
-    * []():
-    * []():
-    * []():
-    * []():
-    * []():
-    * []():
-    * []():
+
 
 
 
