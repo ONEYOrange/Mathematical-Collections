@@ -239,9 +239,7 @@ Book by Dietmar A. Salamon
     * [Mathemaicans on MathOverflow](https://stackexchange.com/leagues/504/alltime/mathoverflow)
         * [Bill Thurston on MathOverflow](https://mathoverflow.net/users/9062/bill-thurston)
         * [Terry Tao on MathOverflow](https://mathoverflow.net/users/766/terry-tao)
-        * [Minhyong Kim](https://mathoverflow.net/users/1826/minhyong-kim):
         * [gowers](https://mathoverflow.net/users/1459/gowers):
-        * []():
         * []():
         * []():
 
