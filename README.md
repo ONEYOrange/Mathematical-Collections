@@ -91,6 +91,7 @@
     * [哪些数学书让你相见恨晚？](https://www.zhihu.com/question/366915371)
     * [数学经典教材有什么？](https://www.zhihu.com/question/22302252)
     * [你所读的（基础）物理方向，有哪些不错的讲义（Notes）？](https://www.zhihu.com/question/54232458/answer/890818375)
+    * [有哪些像小说一样的专业数学读物？](https://www.zhihu.com/question/62158566)
 
 * [Chicago undergraduate mathematics bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
 
@@ -241,7 +242,7 @@ Book by Dietmar A. Salamon
         * [Terry Tao on MathOverflow](https://mathoverflow.net/users/766/terry-tao)
         * [gowers](https://mathoverflow.net/users/1459/gowers):
         * [你在 MathOverflow 上看到过哪些令人惊叹的回答？](https://www.zhihu.com/question/27231607/answer/35789338):
-        * []():
+        * [有哪些数学、物理方面（大学水平以上）的博客值得读？](https://www.zhihu.com/question/47201139/answer/105112579):
 
 
 
