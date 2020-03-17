@@ -62,6 +62,7 @@
 
 * [I Choose Math](https://ichoosemath.com/2012/08/22/bill-thurston-math-hero/):Bill Thurston, Math Hero.有关于Thurston的一些资料
     * [GEOMETRY AND THE IMAGINATION](http://web.math.princeton.edu/conference/Thurston60th/):A conference in honor of Bill Thurston's 60th Birthday
+    * [Bill Thurston Conference 2014 - Cornell University](http://pi.math.cornell.edu/~thurston/)
 
 
 * [Martin Gardner](http://martin-gardner.org/)
@@ -428,6 +429,9 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 
 # Conferences
+
+* [Conferences future, present, and past.](https://homepages.warwick.ac.uk/~masgar/conferences.html)
+
 
 ## 动力系统
 
