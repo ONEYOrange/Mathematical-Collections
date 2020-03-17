@@ -926,6 +926,17 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [Mooc](https://github.com/prakhar1989/awesome-courses)
 
     * [邓俊辉](https://dsa.cs.tsinghua.edu.cn/~deng/)
+    
+    * [Aho/Ullman Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html):cs109a/b of stanford
+        * [Alfred V. Aho](http://www.cs.columbia.edu/~aho/cs3261/Lectures/L1-Intro_to_CS_Theory.html)
+        * [CS109a Class Page:Introduction to Computer Science](https://web.stanford.edu/group/sutacs/sampleweb.html)
+        * [Computer Science 126 princeton](https://www.cs.princeton.edu/courses/archive/spr01/cs126/texts.html)
+        * [University of Cambridge:Foundations of Computer Science](https://www.cl.cam.ac.uk/teaching/0910/FoundsCS/)    
+    
+    
+    
+    
+    
 
 
 * [知乎](https://www.zhihu.com/)
