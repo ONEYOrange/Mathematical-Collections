@@ -240,7 +240,7 @@ Book by Dietmar A. Salamon
         * [Bill Thurston on MathOverflow](https://mathoverflow.net/users/9062/bill-thurston)
         * [Terry Tao on MathOverflow](https://mathoverflow.net/users/766/terry-tao)
         * [gowers](https://mathoverflow.net/users/1459/gowers):
-        * []():
+        * [你在 MathOverflow 上看到过哪些令人惊叹的回答？](https://www.zhihu.com/question/27231607/answer/35789338):
         * []():
 
 
