@@ -379,6 +379,31 @@ Recoltes et Semailles (Grothendieck autobiography) ,Esquisse (English Translatio
      * [Barbara Schapira ](https://perso.univ-rennes1.fr/barbara.schapira/enseignement/enseignement.html)：代数，微分几何
      * [Étienne Matheron](http://matheron.perso.math.cnrs.fr/enseignement.htm) ：积分，泛函分析 
     
+* [Pierre Colmez](https://webusers.imj-prg.fr/~pierre.colmez/)
+    * [Matthew Morrow](https://webusers.imj-prg.fr/~matthew.morrow/)
+    * [Vincent Minerbe](https://webusers.imj-prg.fr/uploads//vincent.minerbe/Geodiff/m2dg.pdf):AN INTRODUCTION TO
+DIFFERENTIAL GEOMETRY
+    * [EMMANUEL FERRAND](https://webusers.imj-prg.fr/~emmanuel.ferrand/publi/Monade.pdf):EXPERIMENTAL FACTS ABOUT A LINEAR MAPPING
+    * [Benjamin Texier ](https://webusers.imj-prg.fr/~benjamin.texier/)
+    * [Daniel Bertrand](https://webusers.imj-prg.fr/~daniel.bertrand/Enseignement/enseignement.html):代数，群
+    * [Michel Waldschmidt](https://webusers.imj-prg.fr/~michel.waldschmidt/)：代数 Galois Theory.Diophantine equations,数论
+    * [patrick.polo](https://webusers.imj-prg.fr/~patrick.polo/):Cours M1 Algèbre et th. Galois
+    * [Alberto Arabia](https://webusers.imj-prg.fr/~alberto.arabia/):cohomologie de de Rham
+    * [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/):Cours d'algèbre et de géométrie
+    * [Christophe Lacave ](https://www-fourier.ujf-grenoble.fr/~lacavec/):the algebra and analysis courses
+    * [Ziyang GAO](https://webusers.imj-prg.fr/~ziyang.gao/ziyang_gao_en.html) :代数拓扑     
+    * []()
+    * []()
+    * []()
+    * []()    
+    * []()
+    * []()
+    * []()
+    * []()     
+    
+    
+    
+    
 ## 美国
 * [Mathematics Department of the Rutgers](https://sites.math.rutgers.edu/)
     * [Yi-Zhi Huang](https://sites.math.rutgers.edu/~yzhuang/)老师是做数学物理的，他的
