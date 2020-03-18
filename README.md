@@ -474,6 +474,31 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Igor V. Dolgachev](http://www.math.lsa.umich.edu/~idolga/)
 
 
+* [MIT](https://math.mit.edu/)
+    * [Larry Guth](http://math.mit.edu/~lguth/):分析
+    * [PRIMES: Program for Research in Mathematics, Engineering and Science for High School Students](https://math.mit.edu/research/highschool/primes/index.php)
+    * [GILBERT STRANG](http://math.mit.edu/~gs/)
+    * [Andrew V. Sutherland  ](http://math.mit.edu/~drew/)：数论，算术几何
+    * [Steven G. Johnson](http://math.mit.edu/~stevenj/)：Some Brief Mathematical Notes
+    * [Peter Shor](http://math.mit.edu/~shor/):Poetry;Quantum computing 
+    * [Haynes R. Miller](http://math.mit.edu/~hrm/):Algebraic Topology 
+    * [Richard P. Stanley](http://math.mit.edu/~rstan/):Miscellaneous
+    * [Pavel Etingof](http://math.mit.edu/~etingof/)
+    * [Scott Sheffield](http://math.mit.edu/~sheffield/)概率论
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+
+
+
+
+
+
+
 
 * [Cornell Math Club](http://pi.math.cornell.edu/~mathclub/index.html)    
    
