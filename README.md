@@ -392,13 +392,13 @@ DIFFERENTIAL GEOMETRY
     * [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/):Cours d'algèbre et de géométrie
     * [Christophe Lacave ](https://www-fourier.ujf-grenoble.fr/~lacavec/):the algebra and analysis courses
     * [Ziyang GAO](https://webusers.imj-prg.fr/~ziyang.gao/ziyang_gao_en.html) :代数拓扑     
-    * []()
-    * []()
-    * []()
-    * []()    
-    * []()
-    * []()
-    * []()
+    * [Pierre Schapira](https://webusers.imj-prg.fr/~pierre.schapira/):拓扑，同调代数，强烈推荐
+    * [Jan Nekovář](https://webusers.imj-prg.fr/~jan.nekovar/)：代数数论，代数几何
+    * [Nicolas LERNER](https://webusers.imj-prg.fr/~nicolas.lerner/index.lecturenotes.html)：分析，PDE
+    * [bernard.maurey](https://webusers.imj-prg.fr/~bernard.maurey/ts012/poly/):  Analyse fonctionnelle  泛函分析
+    * [Adrien SAUVAGET](http://www.staff.science.uu.nl/~sauva002/)
+    * [Jacques Faraut](https://webusers.imj-prg.fr/~jacques.faraut/)：分析，无穷维，傅里叶
+    * [Alessandro Chiodo](https://webusers.imj-prg.fr/~alessandro.chiodo/teaching.html)
     * []()     
     
     
