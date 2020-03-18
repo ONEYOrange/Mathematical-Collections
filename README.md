@@ -357,6 +357,13 @@ Recoltes et Semailles (Grothendieck autobiography) ,Esquisse (English Translatio
     * [Dennis Gaitsgory](http://people.math.harvard.edu/~gaitsgde/)
     * [Olivia Caramello](https://www.oliviacaramello.com/)
  
+ * [ENS](http://www.math.ens.fr/-People-)
+     * [Zoé Chatzidakis](http://www.math.ens.fr/~chatzidakis/)
+ 
+ 
+ 
+ 
+ 
     
 ## 美国
 * [Mathematics Department of the Rutgers](https://sites.math.rutgers.edu/)
@@ -416,6 +423,18 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [site:people.math.harvard.edu/~](https://www.baidu.com/s?wd=site%3Apeople.math.harvard.edu%2F%7E&rsv_spt=1&rsv_iqid=0x8b65d03c00126770&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&rqlang=&tn=baiduhome_pg&ch=&rsv_enter=1&rsv_dl=ib&inputT=13176)
     * [site:http://people.math.harvard.edu/](https://cn.bing.com/search?q=site%3Ahttp%3A%2F%2Fpeople.math.harvard.edu%2F&qs=n&form=QBRE&sp=-1&pq=&sc=0-0&sk=&cvid=8DA6C2ECD3DA4CE1A02446B8B25F8169)
     * [Dennis Gaitsgory](http://people.math.harvard.edu/~gaitsgde/):Geometric Representation；Linear Algebraic Groups
+
+* [NYU Courant](https://www.math.nyu.edu/dynamic/)
+    * [Jonathan Goodman](https://www.math.nyu.edu/faculty/goodman/index.html)
+
+* [uchicago](https://mathematics.uchicago.edu/)
+    * [J.P. May](http://www.math.uchicago.edu/~may/)
+    * [Everyday Mathematics ](http://everydaymath.uchicago.edu/)
+
+* [Michigan Math](https://lsa.umich.edu/math/people.html)
+    * [Igor V. Dolgachev](http://www.math.lsa.umich.edu/~idolga/)
+
+
 
 * [Cornell Math Club](http://pi.math.cornell.edu/~mathclub/index.html)    
    
