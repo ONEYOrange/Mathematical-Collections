@@ -377,7 +377,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 * [James A. Yorke](http://yorke.umd.edu/)
 
-* [Stanford](https://mathematics.stanford.edu/)
+* [Stanford](https://mathematics.stanford.edu/)：site:math.stanford.edu/~
     * [Ravi Vakil](http://math.stanford.edu/~vakil/)是The Rising Sea: Foundations Of Algebraic Geometry Notes的作者，以及Great articles and books的推荐
     * [上面的知乎讨论：哪些数学书让你相见恨晚？](https://www.zhihu.com/question/366915371/answer/978815409)
     * [Akshay Venkatesh](http://math.stanford.edu/~akshay/):number theory and various related topics
@@ -413,6 +413,9 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
     
 * [Harvard](http://people.math.harvard.edu/)
+    * [site:people.math.harvard.edu/~](https://www.baidu.com/s?wd=site%3Apeople.math.harvard.edu%2F%7E&rsv_spt=1&rsv_iqid=0x8b65d03c00126770&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&rqlang=&tn=baiduhome_pg&ch=&rsv_enter=1&rsv_dl=ib&inputT=13176)
+    * [site:http://people.math.harvard.edu/](https://cn.bing.com/search?q=site%3Ahttp%3A%2F%2Fpeople.math.harvard.edu%2F&qs=n&form=QBRE&sp=-1&pq=&sc=0-0&sk=&cvid=8DA6C2ECD3DA4CE1A02446B8B25F8169)
+    * [Dennis Gaitsgory](http://people.math.harvard.edu/~gaitsgde/):Geometric Representation；Linear Algebraic Groups
 
 * [Cornell Math Club](http://pi.math.cornell.edu/~mathclub/index.html)    
    
