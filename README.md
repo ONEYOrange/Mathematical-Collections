@@ -359,11 +359,25 @@ Recoltes et Semailles (Grothendieck autobiography) ,Esquisse (English Translatio
  
  * [ENS](http://www.math.ens.fr/-People-)
      * [Zoé Chatzidakis](http://www.math.ens.fr/~chatzidakis/)
+     * [Chenlin GU (顾陈琳)](http://www.math.ens.fr/~gu/)
  
- 
- 
- 
- 
+ * [Shengquan XIANG](https://www.ljll.math.upmc.fr/xiangs/):sorbonne-universite http://sma.epfl.ch/~sxiang/
+     * [Laboratoire Jacques-Louis Lions ](https://www.ljll.math.upmc.fr/membres/)
+     * [Jean-Michel Coron  ](https://www.ljll.math.upmc.fr/~coron/indexEnglish.php)
+     * [Ahmed KEBAIER](https://www.math.univ-paris13.fr/~kebaier/)univ-paris13
+     * [Shen LIN 林棽](https://www.lpsm.paris/pageperso/lin/)
+     * [Philippe LeFloch](https://philippelefloch.org/)Mathematical General Relativity
+     * [Mitia Duerinckx Personal Homepage](http://homepages.ulb.ac.be/~mduerinc/)	Measure theory 
+     * [François Bolley](https://www.lpsm.paris/pageperso/bolley/)：线性代数，积分，微分
+     * [Luis Paris](http://lparis.perso.math.cnrs.fr/) 代数
+     * [Rémi Coulon](http://rcoulon.perso.math.cnrs.fr/illustration/)Illustrating Mathematics
+     * [Pascal Lefèvre](http://lefevre.perso.math.cnrs.fr/indexE.html)：分析 拓扑
+     * [Michel Raibaut ](https://raibautm.perso.math.cnrs.fr/site/Enseignement.html)：代数，分析
+     * [ Jacques Martinet](http://jamartin.perso.math.cnrs.fr/)：Links to WEB pages of some mathematicians working on lattices and/or coding theory.
+     * [María Cumplido Cabello](http://maria.perso.math.cnrs.fr/teaching.html)：代数
+     * [Current Topics in the Theory of Algebraic Groups](http://school-tlag2017.math.cnrs.fr/index.html)
+     * [Barbara Schapira ](https://perso.univ-rennes1.fr/barbara.schapira/enseignement/enseignement.html)：代数，微分几何
+     * [Étienne Matheron](http://matheron.perso.math.cnrs.fr/enseignement.htm) ：积分，泛函分析 
     
 ## 美国
 * [Mathematics Department of the Rutgers](https://sites.math.rutgers.edu/)
