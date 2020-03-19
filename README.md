@@ -369,7 +369,7 @@ Recoltes et Semailles (Grothendieck autobiography) ,Esquisse (English Translatio
      * [Chenlin GU (顾陈琳)](http://www.math.ens.fr/~gu/)
      * [Kelvin Shuangjian Zhang](http://zhang.kelvin.shuangjian.info/):https://kelvinzz.github.io/
      * [Isabelle Gallagher](http://www.math.ens.fr/~gallagher/):实分析，数学物理，Navier-Stokes
-     * []()
+     * [AMIROU Yanis](http://www.math.ens.fr/~amirou/)：分析，群论
      * []()
      * []()
      * []()
