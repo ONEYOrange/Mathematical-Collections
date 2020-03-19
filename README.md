@@ -509,7 +509,9 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     
 * [IAS](https://www.math.ias.edu/)
     * [Trailblazer Jacob Lurie](https://www.math.ias.edu/~lurie/)Constructing foundations and building bridges between fields;在高阶范畴论和导出代数几何领域中基础性的工作，以及对全扩展拓扑量子场论的分类和证明了椭圆上同调的参模理论解释
-
+    * [June Huh](https://web.math.princeton.edu/~huh/)
+    
+    
 * [Yale](https://math.yale.edu/)
     * [ Alexander Goncharov](https://users.math.yale.edu/users/goncharov/)
 
@@ -619,6 +621,8 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 
 ## 数学物理
+
+* [欧洲的数学物理有哪些做得比较好的教授？](https://www.zhihu.com/question/48046671)
 
 * [Horng-Tzer Yau(姚鸿泽)](http://people.math.harvard.edu/~htyau/)
 
