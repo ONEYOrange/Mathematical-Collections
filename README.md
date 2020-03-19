@@ -402,9 +402,32 @@ DIFFERENTIAL GEOMETRY
     * [Adrien SAUVAGET](http://www.staff.science.uu.nl/~sauva002/)
     * [Jacques Faraut](https://webusers.imj-prg.fr/~jacques.faraut/)：分析，无穷维，傅里叶
     * [Alessandro Chiodo](https://webusers.imj-prg.fr/~alessandro.chiodo/teaching.html)
-    * []()     
+    * []()  
     
     
+* [Joël MERKER](https://www.imo.universite-paris-saclay.fr/~merker/):大量资料，几何，复分析 ，傅里叶，代数 ；强烈推荐  
+* [François Le Gall ](https://www.imo.universite-paris-saclay.fr/~jflegall/):概率论，布朗运动
+    * [Stéphane Nonnenmacher ](https://www.imo.universite-paris-saclay.fr/~nonnenma/)：分析
+    * [ELISABETH   GASSIAT](https://www.imo.universite-paris-saclay.fr/~gassiat/):概率论
+    * [Joël Riou](https://www.imo.universite-paris-saclay.fr/~riou/)：几何，代数几何
+    * [Christian Gérard](https://www.imo.universite-paris-saclay.fr/~cgerard/)：数学物理
+    * [Daniel PERRIN](https://www.imo.universite-paris-saclay.fr/~perrin/)：积分
+    * [Pierre Pansu](https://www.imo.universite-paris-saclay.fr/~pansu/enseignement.html)：微分几何，动力系统
+    * [Stéphane FISCHLER](https://www.imo.universite-paris-saclay.fr/~fischler/enseignement.html)：代数，微分方程
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+
+
+
+
+
     
     
 ## 美国
