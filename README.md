@@ -414,11 +414,11 @@ DIFFERENTIAL GEOMETRY
     * [Daniel PERRIN](https://www.imo.universite-paris-saclay.fr/~perrin/)：积分
     * [Pierre Pansu](https://www.imo.universite-paris-saclay.fr/~pansu/enseignement.html)：微分几何，动力系统
     * [Stéphane FISCHLER](https://www.imo.universite-paris-saclay.fr/~fischler/enseignement.html)：代数，微分方程
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
+    * [Sophie Lemaire ](https://www.imo.universite-paris-saclay.fr/~lemaire/enseig.php)：概率与统计，计算
+    * [Bernard HELFFER](https://www.imo.universite-paris-saclay.fr/~helffer/)：分析，谱分析
+    * [Michel Rumin](https://www.imo.universite-paris-saclay.fr/~rumin/enseignement/enseignement.html)：积分，微分方程
+    * [	Olivier Fouquet ](https://www.imo.universite-paris-saclay.fr/~fouquet/)：离散数学
+    * [Sylvie Ruette](https://www.imo.universite-paris-saclay.fr/~ruette/enseignement.html)：微分方程，离散数学
     * []()
     * []()
     * []()
