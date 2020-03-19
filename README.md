@@ -59,6 +59,9 @@
 
 * [Paul Erdős](http://web.cs.elte.hu/erdos/)
 
+* [Remembering Richard Guy](https://science.ucalgary.ca/mathematics-statistics/about/richard-guy):Richard Guy 于2020年3月9日去世，享年103岁
+
+
 
 * [I Choose Math](https://ichoosemath.com/2012/08/22/bill-thurston-math-hero/):Bill Thurston, Math Hero.有关于Thurston的一些资料
     * [GEOMETRY AND THE IMAGINATION](http://web.math.princeton.edu/conference/Thurston60th/):A conference in honor of Bill Thurston's 60th Birthday
