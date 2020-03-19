@@ -449,7 +449,7 @@ DIFFERENTIAL GEOMETRY
     * [Michel Rumin](https://www.imo.universite-paris-saclay.fr/~rumin/enseignement/enseignement.html)：积分，微分方程
     * [	Olivier Fouquet ](https://www.imo.universite-paris-saclay.fr/~fouquet/)：离散数学
     * [Sylvie Ruette](https://www.imo.universite-paris-saclay.fr/~ruette/enseignement.html)：微分方程，离散数学
-    * []()
+    * [Frédéric Bourgeois](https://www.imo.universite-paris-saclay.fr/~bourgeois/index.html)
     * []()
     * []()
     * []()
@@ -1139,10 +1139,22 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 * 波恩：[Mathematik in Bonn](https://www.mathematics.uni-bonn.de/)
     * 波恩[Max Planck Institute](https://www.mpim-bonn.mpg.de/)
+        * [Don Zagier](http://people.mpim-bonn.mpg.de/zagier/)
+        * [Daniel Huybrechts](http://www.math.uni-bonn.de/~huybrech/)
+        * [Werner Müller](http://www.hcm.uni-bonn.de/people/profile/werner-mueller/)
+        * [Yuri Manin](https://www.mpim-bonn.mpg.de/node/99)
+        * [Gerd Faltings](http://www.hcm.uni-bonn.de/people/profile/gerd-faltings/)
+        * [Michael Rapoport](http://www.hcm.uni-bonn.de/people/profile/michael-rapoport/)
+        * [Wolfgang Lück](http://www.him.uni-bonn.de/lueck/):非交换几何
+        * [Christoph Thiele](http://www.hcm.uni-bonn.de/people/profile/christoph-thiele/)
+        * [Catharina Stroppel](http://www.math.uni-bonn.de/ag/stroppel/):表示论
+        * [Peter Scholze](http://www.hcm.uni-bonn.de/de/people/profile/peter-scholze/)
+        * [Stefan Müller](http://www.hcm.uni-bonn.de/people/profile/stefan-mueller/):应数
+        * [Michael Griebel](http://www.hcm.uni-bonn.de/people/profile/michael-griebel/)
     * 莱比锡大学马普数学所[Max Planck Institute](https://www.mis.mpg.de/)
 * 苏黎世联邦理工学院ETH Zürich[Department of Mathematics | ETH Zurich](https://math.ethz.ch/)
 * 莱比锡[Math: Startseite - uni-leipzig.de](https://www.mathematik.uni-leipzig.de/cms/de/startseite/)
-
+* 柏林洪堡[Department of Mathematics - hu-berlin.de](https://www.mathematik.hu-berlin.de/en)
 
 
 
