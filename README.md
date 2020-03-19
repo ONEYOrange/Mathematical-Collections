@@ -346,9 +346,10 @@ Recoltes et Semailles (Grothendieck autobiography) ,Esquisse (English Translatio
 
 * [Cours de Master Paris-Saclay](https://bibliotheque.math.u-psud.fr/liens-externes/cours-videos-et-blogs/cours-de-master-paris-saclay/):有很多的资料，包括法文原版的书籍、Blogs、Vidéos et cours en ligne等等，强烈推荐
 
-
-
-
+巴黎综合理工大学[École Polytechnique](https://portail.polytechnique.edu/mathematiques/fr)
+巴黎六大：也称皮埃尔和玛丽居里大学，（法语：Université Paris VI，或Université Pierre et Marie Curie)，简称[UPMC](http://ufrmath.sorbonne-universite.fr/en/research/laboratories.html)
+巴黎七大：[Université Paris Diderot-Paris 7](http://www.math.univ-paris-diderot.fr/)
+巴黎十一大：[Département de Mathématiques d’OrsayParis-Saclay ](https://www.imo.universite-paris-saclay.fr/?lang=fr)
 * [IHÉS](https://www.ihes.fr/)
     * [Alain Connes](http://www.alainconnes.org/fr/)
     * [Jürg Martin Fröhlich](https://itp.phys.ethz.ch/research/mathphys/froehlich.html)
@@ -372,7 +373,9 @@ Recoltes et Semailles (Grothendieck autobiography) ,Esquisse (English Translatio
      * [AMIROU Yanis](http://www.math.ens.fr/~amirou/)：分析，群论
      * []()
      * []()
-     * []()
+     
+* [ENS de Lyon.](http://mathematiques.ens-lyon.fr/)     
+     * [MILA NIKOLOVA](http://mnikolova.perso.math.cnrs.fr/)：最优化
      * []()
      * []()
      * []()
