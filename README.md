@@ -25,7 +25,7 @@
 * [个人主页](#个人主页)
     * [俄罗斯](#俄罗斯)
     * [国内](#国内)
-    * [法国](#法国)
+    * [法德](#法德)
     * [美国](#美国)
     * [土地奖](#土地奖)
     
@@ -40,7 +40,7 @@
 
 * [机构组织](#机构组织)
     * [俄罗斯](#俄罗斯)
-    * [法国](#法国)
+    * [欧洲](#欧洲)
     * [美国](#美国)
     * [国际组织](#国际组织)
 
@@ -336,7 +336,7 @@ Book by Dietmar A. Salamon
 
 
 
-## 法国
+## 法德
 
 * [Alexandre Grothendieck](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/)
     * [Grothendieck](http://www.landsburg.com/grothendieck/):Biographies,Clef de Songes ,
@@ -346,10 +346,14 @@ Recoltes et Semailles (Grothendieck autobiography) ,Esquisse (English Translatio
 
 * [Cours de Master Paris-Saclay](https://bibliotheque.math.u-psud.fr/liens-externes/cours-videos-et-blogs/cours-de-master-paris-saclay/):有很多的资料，包括法文原版的书籍、Blogs、Vidéos et cours en ligne等等，强烈推荐
 
-巴黎综合理工大学[École Polytechnique](https://portail.polytechnique.edu/mathematiques/fr)
-巴黎六大：也称皮埃尔和玛丽居里大学，（法语：Université Paris VI，或Université Pierre et Marie Curie)，简称[UPMC](http://ufrmath.sorbonne-universite.fr/en/research/laboratories.html)
-巴黎七大：[Université Paris Diderot-Paris 7](http://www.math.univ-paris-diderot.fr/)
-巴黎十一大：[Département de Mathématiques d’OrsayParis-Saclay ](https://www.imo.universite-paris-saclay.fr/?lang=fr)
+
+
+
+
+
+
+
+
 * [IHÉS](https://www.ihes.fr/)
     * [Alain Connes](http://www.alainconnes.org/fr/)
     * [Jürg Martin Fröhlich](https://itp.phys.ethz.ch/research/mathphys/froehlich.html)
@@ -548,8 +552,6 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * []()
     * []()
     * []()
-
-
 
 
 
@@ -1123,7 +1125,36 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [朗道理论物理研究所](http://www.itp.ac.ru/en/staff-scientists/)
     
     
-## 法国
+## 欧洲
+
+* 索邦大学：[Sorbonne Université](http://ufrmath.sorbonne-universite.fr/fr/index.html):
+    * 亨利·庞加莱研究所(Henri Poincare Insti-tute/Institut Henri Poincare)[L’INSTITUT HENRI POINCARE](http://www.ihp.fr/fr)
+* 巴黎综合理工大学:[École Polytechnique](https://portail.polytechnique.edu/mathematiques/fr)
+* 巴黎六大：也称皮埃尔和玛丽居里大学，（法语：Université Paris VI，或Université Pierre et Marie Curie)，简称[UPMC](http://ufrmath.sorbonne-universite.fr/en/research/laboratories.html)
+* 巴黎七大：[Université Paris Diderot-Paris 7](http://www.math.univ-paris-diderot.fr/)
+* 巴黎十一大：[Département de Mathématiques d’OrsayParis-Saclay ](https://www.imo.universite-paris-saclay.fr/?lang=fr)
+* 洛桑联邦理工学院[École Polytechnique Fédérale de Lausanne,EPFL](https://www.epfl.ch/schools/sb/research/math/fr/)
+* 日内瓦大学[de Genève mathématiques ](https://www.unige.ch/math/en/)
+
+
+* 波恩：[Mathematik in Bonn](https://www.mathematics.uni-bonn.de/)
+    * 波恩[Max Planck Institute](https://www.mpim-bonn.mpg.de/)
+    * 莱比锡大学马普数学所[Max Planck Institute](https://www.mis.mpg.de/)
+* 苏黎世联邦理工学院ETH Zürich[Department of Mathematics | ETH Zurich](https://math.ethz.ch/)
+
+
+
+
+
+
+
+* [Cambridge Mathematics](https://www.dpmms.cam.ac.uk/people/academic)
+* [Imperial College London](https://www.imperial.ac.uk/mathematics/about-us/people/)
+* [University of Warwick Mathematics Department](https://warwick.ac.uk/fac/sci/maths/)
+* [Mathematics | University of Oxford](https://www.maths.ox.ac.uk/)
+
+
+
 
 
 ## 美国
