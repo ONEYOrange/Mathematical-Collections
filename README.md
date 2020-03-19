@@ -1128,7 +1128,11 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 ## 俄罗斯
 * [朗道理论物理研究所](http://www.itp.ac.ru/en/staff-scientists/)
     
-    
+
+* [俄罗斯数学近况如何？](https://www.zhihu.com/question/37816766)
+
+
+
 ## 欧洲
 
 * 索邦大学：[Sorbonne Université](http://ufrmath.sorbonne-universite.fr/fr/index.html):
