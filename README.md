@@ -367,7 +367,26 @@ Recoltes et Semailles (Grothendieck autobiography) ,Esquisse (English Translatio
  * [ENS](http://www.math.ens.fr/-People-)
      * [Zoé Chatzidakis](http://www.math.ens.fr/~chatzidakis/)
      * [Chenlin GU (顾陈琳)](http://www.math.ens.fr/~gu/)
- 
+     * [Kelvin Shuangjian Zhang](http://zhang.kelvin.shuangjian.info/):https://kelvinzz.github.io/
+     * [Isabelle Gallagher](http://www.math.ens.fr/~gallagher/):实分析，数学物理，Navier-Stokes
+     * []()
+     * []()
+     * []()
+     * []()
+     * []()
+     * []()
+     * []()
+     * []()
+     * []()
+     * []()
+     * []()
+     * []()
+     * []()
+     * []()     
+     
+     
+     
+     
  * [Shengquan XIANG](https://www.ljll.math.upmc.fr/xiangs/):sorbonne-universite http://sma.epfl.ch/~sxiang/
      * [Laboratoire Jacques-Louis Lions ](https://www.ljll.math.upmc.fr/membres/)
      * [Jean-Michel Coron  ](https://www.ljll.math.upmc.fr/~coron/indexEnglish.php)
