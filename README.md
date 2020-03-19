@@ -39,9 +39,9 @@
 
 
 * [机构组织](#机构组织)
-    * [俄罗斯](#俄罗斯)
+    * [苏联](#苏联)
     * [欧洲](#欧洲)
-    * [美国](#美国)
+    * [US](#US)
     * [国际组织](#国际组织)
 
 <!-- END_TOC -->
@@ -1125,7 +1125,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 # 机构组织
 
-## 俄罗斯
+## 苏联
 * [朗道理论物理研究所](http://www.itp.ac.ru/en/staff-scientists/)
     
 
@@ -1186,7 +1186,8 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 
 
-## 美国
+## US
+
 * [克雷数学研究所](http://www.claymath.org/node/1370)
 
 * [AMS](https://www.ams.org/home/page)
