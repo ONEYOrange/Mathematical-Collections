@@ -438,7 +438,7 @@ DIFFERENTIAL GEOMETRY
     * [Hélène Eynard-Bontemps](https://webusers.imj-prg.fr/~helene.eynard-bontemps/):分析与拓扑
     * [Julien Marché](https://webusers.imj-prg.fr/~julien.marche/enseignement_L1.html):推荐，L1,L2,L3,M1,M2
     * [M2 "Mathématiques fondamentales"](http://mathfond.math.upmc.fr/home.html):M2，强烈推荐
-    * []()
+    * [Laboratoire de Probabilités, Statistique et Modélisation (LPSM, UMR 8001)](http://isidore.lpma.math.upmc.fr/):强烈推荐
     * []()
     * []()
     * []()
