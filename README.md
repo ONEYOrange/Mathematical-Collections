@@ -520,7 +520,41 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [site:people.math.harvard.edu/~](https://www.baidu.com/s?wd=site%3Apeople.math.harvard.edu%2F%7E&rsv_spt=1&rsv_iqid=0x8b65d03c00126770&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&rqlang=&tn=baiduhome_pg&ch=&rsv_enter=1&rsv_dl=ib&inputT=13176)
     * [site:http://people.math.harvard.edu/](https://cn.bing.com/search?q=site%3Ahttp%3A%2F%2Fpeople.math.harvard.edu%2F&qs=n&form=QBRE&sp=-1&pq=&sc=0-0&sk=&cvid=8DA6C2ECD3DA4CE1A02446B8B25F8169)
     * [Dennis Gaitsgory](http://people.math.harvard.edu/~gaitsgde/):Geometric Representation；Linear Algebraic Groups
-
+    * [Barry Mazur](http://people.math.harvard.edu/~mazur/):解析数论
+    * [Oliver Knill](http://people.math.harvard.edu/~knill/):高等数学
+    * [Curtis T McMullen	](http://people.math.harvard.edu/~ctm/)：强烈推荐
+    * [Noam D. Elkies](http://people.math.harvard.edu/~elkies/):Chess and Mathematics, Mathematical Problem Solving ，解析数论，高等数学
+    * [Sebastien Vasey](http://people.math.harvard.edu/~sebv/):代数，范畴论，模型论
+    * [Shlomo Sternberg](http://people.math.harvard.edu/~shlomo/)
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()    
+    
+    
+    
 * [NYU Courant](https://www.math.nyu.edu/dynamic/)
     * [Jonathan Goodman](https://www.math.nyu.edu/faculty/goodman/index.html)
 
