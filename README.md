@@ -541,7 +541,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Peter Shor](http://math.mit.edu/~shor/):Poetry;Quantum computing 
     * [Haynes R. Miller](http://math.mit.edu/~hrm/):Algebraic Topology 
     * [Richard P. Stanley](http://math.mit.edu/~rstan/):Miscellaneous
-    * [Pavel Etingof](http://math.mit.edu/~etingof/)
+    * [Pavel Etingof](http://math.mit.edu/~etingof/):群和表示论的notes很值得一看
     * [Scott Sheffield](http://math.mit.edu/~sheffield/)概率论
 
 
