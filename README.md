@@ -378,39 +378,40 @@ Recoltes et Semailles (Grothendieck autobiography) ,Esquisse (English Translatio
      * []()
      * []()
      
-* [ENS de Lyon.](http://mathematiques.ens-lyon.fr/)     
+ * [ENS de Lyon.](http://mathematiques.ens-lyon.fr/)     
      * [MILA NIKOLOVA](http://mnikolova.perso.math.cnrs.fr/)：最优化
-     * []()
-     * []()
-     * []()
-     * []()
-     * []()
-     * []()
-     * []()
-     * []()
-     * []()
-     * []()     
+     * [Marco Mazzucchelli](http://perso.ens-lyon.fr/marco.mazzucchelli/):微分几何
+  
      
      
      
      
- * [Shengquan XIANG](https://www.ljll.math.upmc.fr/xiangs/):sorbonne-universite http://sma.epfl.ch/~sxiang/
-     * [Laboratoire Jacques-Louis Lions ](https://www.ljll.math.upmc.fr/membres/)
-     * [Jean-Michel Coron  ](https://www.ljll.math.upmc.fr/~coron/indexEnglish.php)
-     * [Ahmed KEBAIER](https://www.math.univ-paris13.fr/~kebaier/)univ-paris13
-     * [Shen LIN 林棽](https://www.lpsm.paris/pageperso/lin/)
-     * [Philippe LeFloch](https://philippelefloch.org/)Mathematical General Relativity
-     * [Mitia Duerinckx Personal Homepage](http://homepages.ulb.ac.be/~mduerinc/)	Measure theory 
-     * [François Bolley](https://www.lpsm.paris/pageperso/bolley/)：线性代数，积分，微分
-     * [Luis Paris](http://lparis.perso.math.cnrs.fr/) 代数
-     * [Rémi Coulon](http://rcoulon.perso.math.cnrs.fr/illustration/)Illustrating Mathematics
-     * [Pascal Lefèvre](http://lefevre.perso.math.cnrs.fr/indexE.html)：分析 拓扑
-     * [Michel Raibaut ](https://raibautm.perso.math.cnrs.fr/site/Enseignement.html)：代数，分析
-     * [ Jacques Martinet](http://jamartin.perso.math.cnrs.fr/)：Links to WEB pages of some mathematicians working on lattices and/or coding theory.
-     * [María Cumplido Cabello](http://maria.perso.math.cnrs.fr/teaching.html)：代数
-     * [Current Topics in the Theory of Algebraic Groups](http://school-tlag2017.math.cnrs.fr/index.html)
-     * [Barbara Schapira ](https://perso.univ-rennes1.fr/barbara.schapira/enseignement/enseignement.html)：代数，微分几何
-     * [Étienne Matheron](http://matheron.perso.math.cnrs.fr/enseignement.htm) ：积分，泛函分析 
+* [Shengquan XIANG](https://www.ljll.math.upmc.fr/xiangs/):sorbonne-universite http://sma.epfl.ch/~sxiang/
+    * [Laboratoire Jacques-Louis Lions ](https://www.ljll.math.upmc.fr/membres/)
+    * [Jean-Michel Coron  ](https://www.ljll.math.upmc.fr/~coron/indexEnglish.php)
+    * [Ahmed KEBAIER](https://www.math.univ-paris13.fr/~kebaier/)univ-paris13
+    * [Shen LIN 林棽](https://www.lpsm.paris/pageperso/lin/)
+    * [Philippe LeFloch](https://philippelefloch.org/)Mathematical General Relativity
+    * [Mitia Duerinckx Personal Homepage](http://homepages.ulb.ac.be/~mduerinc/)	Measure theory 
+    * [François Bolley](https://www.lpsm.paris/pageperso/bolley/)：线性代数，积分，微分
+    * [Luis Paris](http://lparis.perso.math.cnrs.fr/) 代数
+    * [Rémi Coulon](http://rcoulon.perso.math.cnrs.fr/illustration/)Illustrating Mathematics
+    * [Pascal Lefèvre](http://lefevre.perso.math.cnrs.fr/indexE.html)：分析 拓扑
+    * [Michel Raibaut ](https://raibautm.perso.math.cnrs.fr/site/Enseignement.html)：代数，分析
+    * [ Jacques Martinet](http://jamartin.perso.math.cnrs.fr/)：Links to WEB pages of some mathematicians working on lattices and/or coding theory.
+    * [María Cumplido Cabello](http://maria.perso.math.cnrs.fr/teaching.html)：代数
+    * [Current Topics in the Theory of Algebraic Groups](http://school-tlag2017.math.cnrs.fr/index.html)
+    * [Barbara Schapira ](https://perso.univ-rennes1.fr/barbara.schapira/enseignement/enseignement.html)：代数，微分几何
+    * [Étienne Matheron](http://matheron.perso.math.cnrs.fr/enseignement.htm) ：积分，泛函分析 
+    * [Julie Déserti](http://deserti.perso.math.cnrs.fr/cours.html):L1,M1,M2
+    * []()
+    * []()
+    
+    
+    
+    
+    
+    
     
 * [Pierre Colmez](https://webusers.imj-prg.fr/~pierre.colmez/)
     * [Matthew Morrow](https://webusers.imj-prg.fr/~matthew.morrow/)
@@ -432,8 +433,16 @@ DIFFERENTIAL GEOMETRY
     * [Adrien SAUVAGET](http://www.staff.science.uu.nl/~sauva002/)
     * [Jacques Faraut](https://webusers.imj-prg.fr/~jacques.faraut/)：分析，无穷维，傅里叶
     * [Alessandro Chiodo](https://webusers.imj-prg.fr/~alessandro.chiodo/teaching.html)
-    * []()  
-    
+    * [Marie-Claude Arnaud](https://mcarnaudblog.wordpress.com/) :动力系统 
+    * [Jacques Féjoz](https://www.ceremade.dauphine.fr/~fejoz/):推荐，L1,L2,L3,M1,M2
+    * [Hélène Eynard-Bontemps](https://webusers.imj-prg.fr/~helene.eynard-bontemps/):分析与拓扑
+    * [Julien Marché](https://webusers.imj-prg.fr/~julien.marche/enseignement_L1.html):推荐，L1,L2,L3,M1,M2
+    * [M2 "Mathématiques fondamentales"](http://mathfond.math.upmc.fr/home.html):M2，强烈推荐
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()       
     
 * [Joël MERKER](https://www.imo.universite-paris-saclay.fr/~merker/):大量资料，几何，复分析 ，傅里叶，代数 ；强烈推荐  
 * [François Le Gall ](https://www.imo.universite-paris-saclay.fr/~jflegall/):概率论，布朗运动
