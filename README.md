@@ -509,7 +509,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Mihalis Dafermos](https://web.math.princeton.edu/~dafermos/)Mathematical Physics,PDE
     * [Elliott H. Lieb ](http://web.math.princeton.edu/~lieb/):
     * [Weinan E](http://web.math.princeton.edu/~weinan/):Machine Learning
-    * []():
+    * [Edward Nelson](https://web.math.princeton.edu/~nelson/papers/tokyo.pdf):
     * []():
     * []():
     * []():
