@@ -528,7 +528,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Matilde Marcolli](http://www.its.caltech.edu/~matilde/):非交换几何、分形几何
 
 
-
+* [Alexandru Buium](https://www.math.unm.edu/~buium/)
 
 
 
