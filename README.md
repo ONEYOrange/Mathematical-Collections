@@ -464,7 +464,7 @@ DIFFERENTIAL GEOMETRY
     * []()
 
 
-
+* [Alexei Pantchichkine](https://www-fourier.ujf-grenoble.fr/~panchish/GDL16/):Institut Fourier,  Université de Grenoble I
 
 
     
