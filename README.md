@@ -531,7 +531,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 * [Alexandru Buium](https://www.math.unm.edu/~buium/)
 
-
+* [John Baez](http://math.ucr.edu/home/baez/alg_top/alg_top_web.pdf)
 
 
     
