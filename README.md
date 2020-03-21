@@ -1121,6 +1121,12 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 * [Mooc](https://github.com/prakhar1989/awesome-courses)
     * [美国计算机名校例如MIT ，CMU ，有哪些公认的好课并且有课程讲义的，适合国内学生自学的？](https://www.zhihu.com/question/57532048)
+    * [计算机专业有哪些不错的公开课资源？](https://www.zhihu.com/question/38335108)
+    * [你所读的计算机科学方向，有哪些不错的讲义（Notes）？](https://www.zhihu.com/question/38300204)
+    * [在线教育平台上有哪些让你相见恨晚的计算机或互联网课程？](https://www.zhihu.com/question/29224038)
+    * [计算机科学与技术本科专业有哪些核心课程？应该如何安排学习顺序？各个课程推荐哪些经典教材？](https://www.zhihu.com/question/21405835)
+    * [值得留给子孙后代的计算机课程](https://zhuanlan.zhihu.com/p/39030715)
+    * [CMU 计算机选课上有什么特别好的课程推荐？](https://www.zhihu.com/question/28249230)
     * [github:Open Source Society University](https://github.com/ossu/computer-science)
     * [邓俊辉](https://dsa.cs.tsinghua.edu.cn/~deng/)
     
