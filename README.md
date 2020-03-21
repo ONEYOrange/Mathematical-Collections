@@ -1141,6 +1141,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         * [John DeNero](http://denero.org/):CS 61A: Structure and Interpretation of Computer Programs,Berkeley的经典CS入门课
         * [Jonathan Shewchuk](https://people.eecs.berkeley.edu/~jrs/61b/)	CS 61BData Structures
         * [CS61B: Data Structures(2017)](http://datastructur.es/sp17/)
+        * [CS 61C: Great Ideas in Computer Architecture (Machine Structures)](https://inst.eecs.berkeley.edu/~cs61c/sp19/)
         * [Robert Sedgewick](https://www.cs.princeton.edu/~rs/)
         * [Kevin Wayne](https://www.cs.princeton.edu/~wayne/teaching/)
         * [CMU 计算机选课上有什么特别好的课程推荐？](https://www.zhihu.com/question/28249230/answer/131257766)
