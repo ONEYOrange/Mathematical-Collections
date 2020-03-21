@@ -1120,7 +1120,8 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 
 * [Mooc](https://github.com/prakhar1989/awesome-courses)
-
+    * [美国计算机名校例如MIT ，CMU ，有哪些公认的好课并且有课程讲义的，适合国内学生自学的？](https://www.zhihu.com/question/57532048)
+    * [github:Open Source Society University](https://github.com/ossu/computer-science)
     * [邓俊辉](https://dsa.cs.tsinghua.edu.cn/~deng/)
     
     * [Aho/Ullman Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html):cs109a/b of stanford
@@ -1130,7 +1131,25 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         * [University of Cambridge:Foundations of Computer Science](https://www.cl.cam.ac.uk/teaching/0910/FoundsCS/)    
     
     
-    
+    * [五门CS基础课推荐](https://zhuanlan.zhihu.com/p/24774857)
+        * [John DeNero](http://denero.org/):CS 61A: Structure and Interpretation of Computer Programs,Berkeley的经典CS入门课
+        * [Jonathan Shewchuk](https://people.eecs.berkeley.edu/~jrs/61b/)	CS 61BData Structures
+        * [CS61B: Data Structures(2017)](http://datastructur.es/sp17/)
+        * [Robert Sedgewick](https://www.cs.princeton.edu/~rs/)
+        * [Kevin Wayne](https://www.cs.princeton.edu/~wayne/teaching/)
+        * [CMU 计算机选课上有什么特别好的课程推荐？](https://www.zhihu.com/question/28249230/answer/131257766)
+        * [CMU:15-213/18-213/15-513/18-613: Introduction to Computer Systems (ICS)](http://www.cs.cmu.edu/~213/)
+        * [CMU 15213 CSAPP](http://www.csapp.cs.cmu.edu/)
+        * [CMU:15-441/641: Computer Networks (Fall 2017)](https://www.cs.cmu.edu/~prs/15-441-F17/index.html)
+        * [每个程序员都应该阅读的 10 篇论文](https://zhuanlan.zhihu.com/p/25465581)
+        
+    * [全美最好的五门计算机课程](https://zhuanlan.zhihu.com/p/20071073)
+        * [CMU 15-112: Fundamentals of Programming and Computer Science Summer 2019 ](https://www.cs.cmu.edu/~112-n19/index.html)
+            * [David Kosbie](http://www.kosbie.net/cmu/)
+        * [MIT - 6.034 Artificial Intelligence](https://ai6034.mit.edu/wiki/index.php?title=Main_Page)
+        * [CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp19/)
+        * [CS 106A: Programming Methodology- Stanford University](https://web.stanford.edu/class/cs106a/)
+        * [Harvard’s CS50 Intro to Computer Science 2019](https://cs50.harvard.edu/college/2019/fall/)
     
     
 
