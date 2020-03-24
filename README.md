@@ -83,6 +83,7 @@
 * [Reading materials](https://www.dartmouth.edu/~matc/MathDrama/reading.html)
 
 * [IAS](https://www.math.ias.edu/):可以说是最优质的一个学术网站了
+    * [School of Mathematics 75th Anniversary Celebration](https://www.math.ias.edu/75/):featured some of the world's leading mathematicians, all of whom have been Members or Visitors of the Institute.强烈推荐
 
 
 
