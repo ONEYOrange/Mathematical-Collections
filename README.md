@@ -20,6 +20,7 @@
     
 * [网路资源](#网路资源)
     * [网站](#网站)
+    * [Videos](#Videos)
     * [微盘](#微盘)
     * [论坛](#论坛)
 
@@ -228,7 +229,31 @@ Book by Dietmar A. Salamon
 
 ## 网站
 
+* [DML: Digital Mathematics Library](https://www.math.uni-bielefeld.de/~rehmann/DML/dml_links.html):宝藏，强烈推荐
 
+
+##Videos
+
+* [Stony Brook Mathematics Video Archive](http://www.math.stonybrook.edu/Videos/)
+* [Mathematical Sciences Research Institute(MSRI)](https://www.msri.org/videos/dashboard)
+* [Institute for Advanced Study Video Lectures](https://video.ias.edu/sm)
+* [UCCS:Department of Mathematics Video Course Archive](https://www.uccs.edu/math/vidarchive)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
 ## 微盘
