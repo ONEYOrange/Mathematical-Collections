@@ -232,7 +232,7 @@ Book by Dietmar A. Salamon
 * [DML: Digital Mathematics Library](https://www.math.uni-bielefeld.de/~rehmann/DML/dml_links.html):宝藏，强烈推荐
 * [Topics in Mathematics](http://archives.math.utk.edu/topics/):同样宝藏，强烈推荐："In these pages, you will find links to various WWW resources on Mathematics."
 
-##Videos
+## Videos
 
 * [Stony Brook Mathematics Video Archive](http://www.math.stonybrook.edu/Videos/)
 * [Mathematical Sciences Research Institute(MSRI)](https://www.msri.org/videos/dashboard)
@@ -240,12 +240,20 @@ Book by Dietmar A. Salamon
 * [UCCS:Department of Mathematics Video Course Archive](https://www.uccs.edu/math/vidarchive)
 * [Caltech Online Education](http://online.caltech.edu/archive):Feynman Lectures on Physics
 * [Chinese University of Hong Kong Geometry Research Group](http://www.ims.cuhk.edu.hk/geometry/)
+* [ICERM Brown Video Archive](https://icerm.brown.edu/video_archive/)
+* [ARCHIVES OF AMERICAN MATHEMATICS](https://www.cah.utexas.edu/collections/math.php)
+* [The University of Michigan Historical Mathematics Collection](https://quod.lib.umich.edu/u/umhistmath/)
+* [BIRS Workshop Lecture Videos](https://open.library.ubc.ca/cIRcle/collections/48630)
+* [IPAM’s video archive](http://www.ipam.ucla.edu/videos/?pyear=2019):推荐
 * []()
 * []()
 * []()
+* [Mathematical Physics Preprint Archive](https://web.ma.utexas.edu/mp_arc/):research papers in Mathematical Physics and related areas
+* [Mathematics Today](http://mathematicstoday.org/archives.aspx):A Peer Reviewed International Journal for Mathematical Science
+* [International Journal of Mathematical Archive](http://www.ijma.info/index.php/ijma)
 * []()
 * []()
-
+* []()
 * [The Online Books Page](https://onlinebooks.library.upenn.edu/archives.html)
 * []()
 * []()
