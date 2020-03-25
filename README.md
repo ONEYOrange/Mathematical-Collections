@@ -250,12 +250,21 @@ Book by Dietmar A. Salamon
 * [IPAM’s video archive](http://www.ipam.ucla.edu/videos/?pyear=2019):推荐
 * [mathematics_video_lectures](http://arimoto.lolipop.jp/video_lectures/2016/08/william-p-thurston-threedimens.html)
     * [Cornell](https://www.cornell.edu/video/topic/mathematics):强烈推荐
+* [Videos of CMSA lectures, seminars and interviews.](http://cmsablog.fas.harvard.edu/category/videos/)
+* [Math video links](http://users.mai.liu.se/vlatk48/links.html)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 * []()
 * []()
 * [Mathematical Physics Preprint Archive](https://web.ma.utexas.edu/mp_arc/):research papers in Mathematical Physics and related areas
 * [Mathematics Today](http://mathematicstoday.org/archives.aspx):A Peer Reviewed International Journal for Mathematical Science
 * [International Journal of Mathematical Archive](http://www.ijma.info/index.php/ijma)
-* []()
+* [Archive of related papers and books by other authors](https://web.math.rochester.edu/people/faculty/doug/papers.html):强烈推荐
 * []()
 * []()
 * [The Online Books Page](https://onlinebooks.library.upenn.edu/archives.html)
