@@ -70,7 +70,7 @@
     * [Bill Thurston Conference 2014 - Cornell University](http://pi.math.cornell.edu/~thurston/)
     * [thurston.notes](https://www.math.unl.edu/~mbrittenham2/classwk/990s08/public/thurston.notes.pdf/)
     * [Geometry and topology of three-manifolds By William Thurston](http://library.msri.org/books/gt3m/)
-    
+    * [The mathematical legacy of Bill Thurston](http://arimoto.lolipop.jp/mt4/mt-search.cgi?search=Thurston&IncludeBlogs=28):video_lectures
 
 
 
@@ -248,7 +248,8 @@ Book by Dietmar A. Salamon
 * [The University of Michigan Historical Mathematics Collection](https://quod.lib.umich.edu/u/umhistmath/)
 * [BIRS Workshop Lecture Videos](https://open.library.ubc.ca/cIRcle/collections/48630)
 * [IPAM’s video archive](http://www.ipam.ucla.edu/videos/?pyear=2019):推荐
-* []()
+* [mathematics_video_lectures](http://arimoto.lolipop.jp/video_lectures/2016/08/william-p-thurston-threedimens.html)
+    * [Cornell](https://www.cornell.edu/video/topic/mathematics):强烈推荐
 * []()
 * []()
 * [Mathematical Physics Preprint Archive](https://web.ma.utexas.edu/mp_arc/):research papers in Mathematical Physics and related areas
