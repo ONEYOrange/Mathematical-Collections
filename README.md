@@ -268,7 +268,18 @@ Book by Dietmar A. Salamon
 * []()
 * []()
 * []()
-
+* []()
+* []()
+* [Videos on hyperbolic manifolds/hyperbolization/geometrization on YouTube](http://www.math.unl.edu/~mbrittenham2/classwk/990s19/video/):Bill_Thurston,Ian_Agol，推荐
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
 
