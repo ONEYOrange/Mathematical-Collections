@@ -794,6 +794,11 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 ## 计算机
 
+
+* [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)：CS公开课汇集，强烈推荐
+
+
+
 * [Alan Turing](http://www.turingarchive.org/)
 * [Charles Babbage](http://www.charlesbabbage.net/)
 * [Donald E. Knuth](https://www-cs-faculty.stanford.edu/~knuth/)
