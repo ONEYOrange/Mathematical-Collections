@@ -1205,16 +1205,22 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [飞龙](https://github.com/wizardforcel)
 
 * [Data Structures and Algorithms](https://github.com/Developer-Y/cs-video-courses#data-structures-and-algorithms)
-    * [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/references/)    
+    * [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/references/)
+        * [Kevin Wayne:Lecture Slides for Algorithm Design](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
+        * [Robert Sedgewick](https://www.cs.princeton.edu/~rs/)
     * [Stanford CS167: Readings in Algorithms](https://cs.stanford.edu/~rishig/courses/s16.html)
-    
+    * [Harvard Computer Science E-119 Data Structures](https://sites.fas.harvard.edu/~cscie119/lectures/)
+    * [MIT 6.006: Introduction to Algorithms](https://courses.csail.mit.edu/6.006/fall11/notes.shtml)
     
     * [CMU15-859: Algorithms for Big Data, Fall 2019](http://www.cs.cmu.edu/~dwoodruf/teaching/15859-fall19/index.html#refs)
         * [Stanford CS369G: Algorithmic Techniques for Big Data,Spring 2016 ](http://web.stanford.edu/class/cs369g/index.html)
+        * [Harvard CS 229r: Algorithms for Big Data](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html)
+        * Jon Kleinberg: [Cornell Algorithms (CS 6820). ](http://www.cs.cornell.edu/courses/cs6820/2009fa/):数据挖掘大牛？
     
     
     * [Princeton COS 521 Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall18/cos521/)
         * [MIT 18.415J/6.854J Advanced Algorithms (Fall 2001)](http://math.mit.edu/~goemans/18415/18415-FALL01/18415.html)
+        * [Stanford CS 361A Advanced Data Structures and Algorithms](http://theory.stanford.edu/~rajeev/cs361.html)
 
 
 
