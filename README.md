@@ -975,30 +975,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         * [Edward J. McCluskey(2008)](http://www-crc.stanford.edu/users/ejm/McCluskey_Edward.html):For seminal contributions to the design and synthesis of digital systems over five decades, including the first algorithm for logic synthesis (the Quine-McCluskey method).
         * [Jeffrey Chuan Chu 朱傳榘(1981)](http://jeffreychuanchu.com/):For his early work in electronic computer logic design.
         * []():      
-        * []():
-        * []():
-        * []():
-        * []():    
-        * []():
-        * []():
-        * []():
-        * []():     
-        * []():
-        * []():
-        * []():
-        * []():    
-        * []():
-        * []():
-        * []():
-        * []():      
-        * []():
-        * []():
-        * []():
-        * []():    
-        * []():
-        * []():
-        * []():
-        * []():     
+  
     
     * [Google](https://research.google/people/)
         * [Jeff Dean](http://research.google.com/people/jeff)
@@ -1267,7 +1244,12 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 * [飞龙](https://github.com/wizardforcel)
 
-
+* [Data Structures and Algorithms](https://github.com/Developer-Y/cs-video-courses#data-structures-and-algorithms)
+    * [CMU15-859: Algorithms for Big Data, Fall 2019](http://www.cs.cmu.edu/~dwoodruf/teaching/15859-fall19/index.html#refs)
+        * [Stanford CS369G: Algorithmic Techniques for Big Data,Spring 2016 ](http://web.stanford.edu/class/cs369g/index.html)
+    
+    
+    * [Princeton COS 521 Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall18/cos521/)
 
 
 
