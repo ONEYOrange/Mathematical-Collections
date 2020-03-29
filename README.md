@@ -618,28 +618,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * []()
     * []()
     * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()    
+ 
     
     
     
@@ -671,11 +650,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Caucher Birkar](https://www.dpmms.cam.ac.uk/~cb496/)
     * []()
     * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
+
 
 
 
@@ -713,16 +688,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * []()
 * []()
 * []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+
 
 
 ## 动力系统
@@ -922,13 +888,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [ Keith W.Ross ](https://www.nyu.edu/projects/keithwross/):Computer Networking：A Top-Down Approach  James F.Kurose  Keith W.Ross 
     * []():
     * []():
-    * []():
-    * []():
-    * []():
-    * []():
-    * []():
-    * []():
-    * []():
+
 
 
 
@@ -1245,11 +1205,16 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [飞龙](https://github.com/wizardforcel)
 
 * [Data Structures and Algorithms](https://github.com/Developer-Y/cs-video-courses#data-structures-and-algorithms)
+    * [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/references/)    
+    * [Stanford CS167: Readings in Algorithms](https://cs.stanford.edu/~rishig/courses/s16.html)
+    
+    
     * [CMU15-859: Algorithms for Big Data, Fall 2019](http://www.cs.cmu.edu/~dwoodruf/teaching/15859-fall19/index.html#refs)
         * [Stanford CS369G: Algorithmic Techniques for Big Data,Spring 2016 ](http://web.stanford.edu/class/cs369g/index.html)
     
     
     * [Princeton COS 521 Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall18/cos521/)
+        * [MIT 18.415J/6.854J Advanced Algorithms (Fall 2001)](http://math.mit.edu/~goemans/18415/18415-FALL01/18415.html)
 
 
 
