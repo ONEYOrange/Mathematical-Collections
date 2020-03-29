@@ -1222,8 +1222,16 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         * [MIT 18.415J/6.854J Advanced Algorithms (Fall 2001)](http://math.mit.edu/~goemans/18415/18415-FALL01/18415.html)
         * [Stanford CS 361A Advanced Data Structures and Algorithms](http://theory.stanford.edu/~rajeev/cs361.html)
 
-
-
+    * [Robert E. Tarjan](https://www.cs.princeton.edu/~ret/)
+        * [Michael Goodrich](https://www.ics.uci.edu/~goodrich/teach/cs260P/notes/):Course Notes - CS 260P - Fundamentals of Algorithms with Applications
+        * [Jeffrey D. Ullman](http://infolab.stanford.edu/~ullman/)
+        * [Algorithms and Complexity Group Max-Planck-Institut für Informatik](https://www.mpi-inf.mpg.de/departments/algorithms-complexity/)
+            * [Kurt Mehlhorn](https://people.mpi-inf.mpg.de/~mehlhorn/Toolbox.html)
+        * [Bernard Chazelle](https://www.cs.princeton.edu/~chazelle/)
+        * [Ricardo Baeza-Yates](http://www.baeza.cl/)
+        * [David Mount](http://www.cs.umd.edu/~mount/)
+        * [MIT:The Algorithms Group at CSAIL](http://theory.csail.mit.edu/groups/algorithms.html):Erik Demaine。推荐
+        * []()
 
 
 ## 经济学
