@@ -1231,6 +1231,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
             * [Brian Harvey Homepage](https://people.eecs.berkeley.edu/~bh/)
             * [John DeNero: CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa19/)
                 * [John DeNero Homepage](http://denero.org/)
+        * [《计算机程序的构造和解释（SICP）》讨论的核心问题是什么？](https://www.zhihu.com/question/26549715)
         * [SICP 是不是被高估了？](https://www.zhihu.com/question/30467199/answer/196345759)
         * [有没有一些关于编译原理的书籍、博客的可以推荐？](https://www.zhihu.com/question/22966412)
             * [王垠](http://www.yinwang.org/)
