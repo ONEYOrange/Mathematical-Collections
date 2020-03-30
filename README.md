@@ -1205,17 +1205,41 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 * [飞龙](https://github.com/wizardforcel)
 
+
+* [计算机科学自学指南](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md):强烈推荐
+
+
+
+
 * [CSAPP2019](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f19/www/index.html)
+* [Lambda the Ultimate-The Programming Languages Weblog](http://lambda-the-ultimate.org/node/2):宝藏，强烈推荐
+    * [如何阅读《深入理解计算机系统》这本书？](https://www.zhihu.com/question/20402534)
     * [Video](https://www.bilibili.com/video/av31289365?spm_id_from=333.788.b_765f64657363.1)
+    * [Lab Assignments](http://csapp.cs.cmu.edu/3e/labs.html)
     * [Caltech - Introduction to Computing Systems](http://courses.cms.caltech.edu/cs24/19fa/)
         * [Video](https://www.bilibili.com/video/BV1gx411y71o)
     * [计算机程序的构造和解释(SICP)Structure and Interpretation of Computer Programs](https://github.com/DeathKing/Learning-SICP)
+        * [Structure and Interpretation of Computer Programs second edition](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
         * [非官方的HTML5版本](https://sarabander.github.io/sicp/)
         * [SICP Python 描述 中文版](https://github.com/wizardforcel/sicp-py-zh)
         * [UCB CS61A Python](http://composingprograms.com/)
         * [NUS CS1101S: Programming Methodology](https://www.comp.nus.edu.sg/~cs1101s/)
             * [JavaScript版](https://sicp.comp.nus.edu.sg/)
         * [SICP-Solutions](http://community.schemewiki.org/?SICP-Solutions)
+        * [Brian Harvey:CS61A: Structure and Interpretation of Computer Programs](http://inst.eecs.berkeley.edu/~cs61a/sp11/)
+            * [Brian Harvey Homepage](https://people.eecs.berkeley.edu/~bh/)
+            * [John DeNero: CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa19/)
+                * [John DeNero Homepage](http://denero.org/)
+        * [SICP 是不是被高估了？](https://www.zhihu.com/question/30467199/answer/196345759)
+        * [有没有一些关于编译原理的书籍、博客的可以推荐？](https://www.zhihu.com/question/22966412)
+            * [王垠](http://www.yinwang.org/)
+        * [历史边角料](https://www.zhihu.com/question/30467199/answer/490183958)
+            * [Simon Peyton Jones](https://www.microsoft.com/en-us/research/people/simonpj/):《The Implementation of Functional Programming Languages》：比SICP简单好多但是知识量毫不逊色
+                * [The Implementation of Functional Programming Languages](https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages/)
+            * FP界的大牛Philip Wadler:[A critique of Abelson and Sussman ](https://www.cs.kent.ac.uk/people/staff/dat/miranda/wadler87.pdf)
+            * 一本更有趣的书：[Paradigms of Artificial Intelligence Programming
+Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-of-artificial-intelligence-programming)
+            * [kenpusney i2p-the-book](https://i2p.kimleo.net/)：另一个替代品，GitHub主页为：https://github.com/kenpusney/i2p-the-book
 
 
 
@@ -1232,6 +1256,13 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 
 * [Data Structures and Algorithms](https://github.com/Developer-Y/cs-video-courses#data-structures-and-algorithms)
+    * [算法导论（书籍）](https://www.zhihu.com/topic/19580938/top-answers)
+        * [学习算法与数据结构，有什么比较好的 MOOC或者比较好的书籍推荐？](https://www.zhihu.com/question/34605825/answer/565671618)
+        * [该直接上《算法导论》 还是先看完 《算法 第四版》？](https://www.zhihu.com/question/29316754)
+        * [怎么学好数据结构？](https://www.zhihu.com/question/19830721/answer/667233164)
+            * [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
+    * [大家都是如何刷 LeetCode 的？](https://github.com/azl397985856/leetcode)
+        * [LeetCode](https://github.com/azl397985856/leetcode)
     * [Algorithms on GitHub](https://github.com/learn-anything/courses#algorithms):强烈推荐
         * [CMU 15-451 (Algorithms), Fall 2010](http://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/):Taught by Manuel Blum who has a Turing Award due to his contributions to algorithms.
         * [Manuel Blum](http://www.cs.cmu.edu/~mblum/)
@@ -1263,6 +1294,12 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         * [MIT:The Algorithms Group at CSAIL](http://theory.csail.mit.edu/groups/algorithms.html):Erik Demaine。推荐
         * []()
 
+* [2019 年你读了哪些觉得比较好的计算机书籍？](https://www.zhihu.com/question/361165485)
+    * OSTP[荐书：Operating Systems: Three Easy Pieces](https://zhuanlan.zhihu.com/p/49286109)
+    * [有没有好的操作系统的书？](https://www.zhihu.com/question/31863104)
+
+* [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+    * [MIT6.828:Operating Systems](https://pdos.csail.mit.edu/6.828/2018/schedule.html)
 
 ## 经济学
 
