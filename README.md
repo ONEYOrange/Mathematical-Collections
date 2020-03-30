@@ -1204,6 +1204,40 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 * [飞龙](https://github.com/wizardforcel)
 
+* [CSAPP2019](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f19/www/index.html)
+    * [Video](https://www.bilibili.com/video/av31289365?spm_id_from=333.788.b_765f64657363.1)
+
+
+
+* [Caltech - Introduction to Computing Systems](http://courses.cms.caltech.edu/cs24/19fa/)
+    * [Video](https://www.bilibili.com/video/BV1gx411y71o)
+
+* [计算机程序的构造和解释(SICP)Structure and Interpretation of Computer Programs](https://github.com/DeathKing/Learning-SICP)
+    * [非官方的HTML5版本](https://sarabander.github.io/sicp/)
+    * [SICP Python 描述 中文版](https://github.com/wizardforcel/sicp-py-zh)
+        * [UCB CS61A Python](http://composingprograms.com/)
+    * [NUS CS1101S: Programming Methodology](https://www.comp.nus.edu.sg/~cs1101s/)
+        * [JavaScript版](https://sicp.comp.nus.edu.sg/)
+    
+    * [SICP-Solutions](http://community.schemewiki.org/?SICP-Solutions)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * [Data Structures and Algorithms](https://github.com/Developer-Y/cs-video-courses#data-structures-and-algorithms)
     * [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/references/)
         * [Kevin Wayne:Lecture Slides for Algorithm Design](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
