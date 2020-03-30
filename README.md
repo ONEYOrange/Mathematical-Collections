@@ -1086,9 +1086,9 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 
 * [unsung heroes in Dutch computing history.](http://www-set.win.tue.nl/UnsungHeroes/home.html): Many text books and websites provide a short coverage of mainstream computer history. 强烈推荐 
-* [the history of computing](http://ei.cs.vt.edu/~history/)
-* [History of Computers](https://history-computer.com/)
-* [Oral History of Computer Scientist](https://cn.bing.com/search?q=Oral%20History%20of%20pdf%20archive.computerhistory.org%2Fresources%2F&qs=n&form=QBRE&sp=-1&pq=oral%20history%20of%20pdf%20archive.computerhistory.org%2Fresources%2F&sc=0-58&sk=&cvid=94A31FCB026646CAAF21BC7E26D28B6E):有关计算机学家的访谈、传记
+    * [the history of computing](http://ei.cs.vt.edu/~history/)
+    * [History of Computers](https://history-computer.com/)
+    * [Oral History of Computer Scientist](https://cn.bing.com/search?q=Oral%20History%20of%20pdf%20archive.computerhistory.org%2Fresources%2F&qs=n&form=QBRE&sp=-1&pq=oral%20history%20of%20pdf%20archive.computerhistory.org%2Fresources%2F&sc=0-58&sk=&cvid=94A31FCB026646CAAF21BC7E26D28B6E):有关计算机学家的访谈、传记
 
 
 
@@ -1147,6 +1147,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 
 * [Mooc](https://github.com/prakhar1989/awesome-courses)
+* [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
     * [美国计算机名校例如MIT ，CMU ，有哪些公认的好课并且有课程讲义的，适合国内学生自学的？](https://www.zhihu.com/question/57532048)
     * [计算机专业有哪些不错的公开课资源？](https://www.zhihu.com/question/38335108)
     * [你所读的计算机科学方向，有哪些不错的讲义（Notes）？](https://www.zhihu.com/question/38300204)
@@ -1206,23 +1207,15 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 * [CSAPP2019](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f19/www/index.html)
     * [Video](https://www.bilibili.com/video/av31289365?spm_id_from=333.788.b_765f64657363.1)
-
-
-
-* [Caltech - Introduction to Computing Systems](http://courses.cms.caltech.edu/cs24/19fa/)
-    * [Video](https://www.bilibili.com/video/BV1gx411y71o)
-
-* [计算机程序的构造和解释(SICP)Structure and Interpretation of Computer Programs](https://github.com/DeathKing/Learning-SICP)
-    * [非官方的HTML5版本](https://sarabander.github.io/sicp/)
-    * [SICP Python 描述 中文版](https://github.com/wizardforcel/sicp-py-zh)
+    * [Caltech - Introduction to Computing Systems](http://courses.cms.caltech.edu/cs24/19fa/)
+        * [Video](https://www.bilibili.com/video/BV1gx411y71o)
+    * [计算机程序的构造和解释(SICP)Structure and Interpretation of Computer Programs](https://github.com/DeathKing/Learning-SICP)
+        * [非官方的HTML5版本](https://sarabander.github.io/sicp/)
+        * [SICP Python 描述 中文版](https://github.com/wizardforcel/sicp-py-zh)
         * [UCB CS61A Python](http://composingprograms.com/)
-    * [NUS CS1101S: Programming Methodology](https://www.comp.nus.edu.sg/~cs1101s/)
-        * [JavaScript版](https://sicp.comp.nus.edu.sg/)
-    
-    * [SICP-Solutions](http://community.schemewiki.org/?SICP-Solutions)
-
-
-
+        * [NUS CS1101S: Programming Methodology](https://www.comp.nus.edu.sg/~cs1101s/)
+            * [JavaScript版](https://sicp.comp.nus.edu.sg/)
+        * [SICP-Solutions](http://community.schemewiki.org/?SICP-Solutions)
 
 
 
@@ -1239,6 +1232,9 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 
 * [Data Structures and Algorithms](https://github.com/Developer-Y/cs-video-courses#data-structures-and-algorithms)
+    * [Algorithms on GitHub](https://github.com/learn-anything/courses#algorithms):强烈推荐
+        * [CMU 15-451 (Algorithms), Fall 2010](http://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/):Taught by Manuel Blum who has a Turing Award due to his contributions to algorithms.
+        * [Manuel Blum](http://www.cs.cmu.edu/~mblum/)
     * [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/references/)
         * [Kevin Wayne:Lecture Slides for Algorithm Design](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
         * [Robert Sedgewick](https://www.cs.princeton.edu/~rs/)
