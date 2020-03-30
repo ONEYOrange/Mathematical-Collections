@@ -1120,6 +1120,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         * [Robert Harper](http://www.cs.cmu.edu/~rwh/)：Practical Foundations for Programming Language（圣经）
         * [Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/tapl/)
         * [Daniel P. Friedman](https://legacy.cs.indiana.edu/dfried_celebration.html)
+        * [Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/):Essential of Programming Language(EOPL)
     * [有哪些讲编程范式的好书或好文？](https://www.zhihu.com/question/50556311)
     * [Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/)圣经四件套：Software FoundationsTypes and Programming LanguageAdvanced Topics of Types and Programming Language（多人撰写）Basic Category Theory for Computer Scientists
     * [Erik Demaine](http://erikdemaine.org/):天才式人物
