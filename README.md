@@ -886,8 +886,8 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Peter Zaitsev](https://www.peterzaitsev.com/):
     * [Vadim Tkachenko](https://www.percona.com/about-percona/team/vadim-tkachenko):
     * [ Keith W.Ross ](https://www.nyu.edu/projects/keithwross/):Computer Networking：A Top-Down Approach  James F.Kurose  Keith W.Ross 
-    * []():
-    * []():
+    * [推荐计算机科学类的经典书籍](https://www.douban.com/note/261528651/):
+        * [Mark Allen Weiss](https://users.cs.fiu.edu/~weiss/):Data Structure & Algorithm Analysis in C (Second Edition)本书曾被评为20世纪顶尖的30部计算机著作之一,作者Mark Allen Weiss在数据结构和算法分析方面卓有建树.他的数据结构和算法分析的著作尤其畅销,并受到广泛好评.已被世界500余所大学用作教材.
 
 
 
@@ -1285,6 +1285,8 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
         * [MIT 18.415J/6.854J Advanced Algorithms (Fall 2001)](http://math.mit.edu/~goemans/18415/18415-FALL01/18415.html)
         * [Stanford CS 361A Advanced Data Structures and Algorithms](http://theory.stanford.edu/~rajeev/cs361.html)
 
+    * [Mark Allen Weiss](https://users.cs.fiu.edu/~weiss/):Data Structure & Algorithm Analysis in C (Second Edition)本书曾被评为20世纪顶尖的30部计算机著作之一,作者Mark Allen Weiss在数据结构和算法分析方面卓有建树.他的数据结构和算法分析的著作尤其畅销,并受到广泛好评.已被世界500余所大学用作教材.
+
     * [Robert E. Tarjan](https://www.cs.princeton.edu/~ret/)
         * [Michael Goodrich](https://www.ics.uci.edu/~goodrich/teach/cs260P/notes/):Course Notes - CS 260P - Fundamentals of Algorithms with Applications
         * [Jeffrey D. Ullman](http://infolab.stanford.edu/~ullman/)
@@ -1296,12 +1298,37 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
         * [MIT:The Algorithms Group at CSAIL](http://theory.csail.mit.edu/groups/algorithms.html):Erik Demaine。推荐
         * []()
 
+
+
+
+
 * [2019 年你读了哪些觉得比较好的计算机书籍？](https://www.zhihu.com/question/361165485)
     * OSTP[荐书：Operating Systems: Three Easy Pieces](https://zhuanlan.zhihu.com/p/49286109)
     * [有没有好的操作系统的书？](https://www.zhihu.com/question/31863104)
 
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
     * [MIT6.828:Operating Systems](https://pdos.csail.mit.edu/6.828/2018/schedule.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 经济学
 
