@@ -1235,7 +1235,6 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         * [SICP 是不是被高估了？](https://www.zhihu.com/question/30467199/answer/196345759)
         * [有没有一些关于编译原理的书籍、博客的可以推荐？](https://www.zhihu.com/question/22966412)
             * [王垠](http://www.yinwang.org/)
-        * [历史边角料](https://www.zhihu.com/question/30467199/answer/490183958)
             * [Simon Peyton Jones](https://www.microsoft.com/en-us/research/people/simonpj/):《The Implementation of Functional Programming Languages》：比SICP简单好多但是知识量毫不逊色
                 * [The Implementation of Functional Programming Languages](https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages/)
             * FP界的大牛Philip Wadler:[A critique of Abelson and Sussman ](https://www.cs.kent.ac.uk/people/staff/dat/miranda/wadler87.pdf)
