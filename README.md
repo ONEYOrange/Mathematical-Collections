@@ -1242,9 +1242,19 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-of-artificial-intelligence-programming)
             * [kenpusney i2p-the-book](https://i2p.kimleo.net/)：另一个替代品，GitHub主页为：https://github.com/kenpusney/i2p-the-book
 
-
-
-
+* [Computer Architecture](http://pages.cs.wisc.edu/~arch/www/index.html):WWW Computer Architecture Page 收集了有关Computer Architecture的书籍、学者以及其他资料，强烈推荐
+    * [David A. Patterson](https://people.eecs.berkeley.edu/~pattrsn/):两本书的作者：《 Computer Organization and Design 》与 《Computer Architecture A Quantitative Approach》
+    * [John L. Hennessy](http://www.stanford.edu/~hennessy):同样是上面提到的两本书的作者
+    * [UCB CS61C Spring 2015Great Ideas in Computer Architecture (Machine Structures)](http://inst.eecs.berkeley.edu/~cs61c/sp15/):
+    * [Harvard CS146 Computer Architecture Spring 2004](http://www.eecs.harvard.edu/~dbrooks/cs146-spring2004/):以上两门课都给出了较好的教材以及参考资料
+    * [Noam Nisan](https://www.cse.huji.ac.il/~noam/):《The Elements of Computer Systems: Building a Modern Computer from First Principles》(计算机系统要素——从零开始构建现代计算机)的作者
+    * [Shimon Schocken](https://www.shimonschocken.com/):上本书的同一作者
+        * 这是该书的网站[From Nand to Tetris](https://www.nand2tetris.org/):
+    * [Andrew S. Tanenbaum](https://www.cs.vu.nl/~ast/):同样著有《Structured Computer Organization》
+    * [openlib-cs](https://bpdc-acm.gitbook.io/openlib-cs/courses/csf342#websites):
+    * [Course Materials for CMPSC 312 Computer Organization and Architecture Spring 2020](https://turing.cs.hbg.psu.edu/cmpsc312/#ReadingToDo):有一些链接还是不错的
+    * [Christos Kozyrakis](https://web.stanford.edu/~kozyraki/):
+    * []():
 
 
 
