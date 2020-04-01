@@ -1271,7 +1271,10 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
 
 
 
-
+* [CMU group in Algorithms and Complexity Theory.](http://theory.cs.cmu.edu/)
+    * [Algorithms in the "Real World"](http://www.cs.cmu.edu/afs/cs/project/pscico-guyb/realworld/www/)
+        * [The Stony Brook Algorithm Repository](http://algorist.com/algorist.html)
+    * [15-750: Graduate Algorithms, Spring 2019](http://www.cs.cmu.edu/afs/cs/academic/class/15750-s19/index.html)
 * [Data Structures and Algorithms](https://github.com/Developer-Y/cs-video-courses#data-structures-and-algorithms)
     * [算法导论（书籍）](https://www.zhihu.com/topic/19580938/top-answers)
         * [学习算法与数据结构，有什么比较好的 MOOC或者比较好的书籍推荐？](https://www.zhihu.com/question/34605825/answer/565671618)
