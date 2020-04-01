@@ -1148,6 +1148,14 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 
 * [Mooc](https://github.com/prakhar1989/awesome-courses)
+    * [上海交通大学课程分享](https://github.com/CoolPhilChen/SJTU-Courses):里面还有其他高校的课程链接
+    * [计算机速成课 | Crash Course](https://github.com/1c7/Crash-Course-Computer-Science-Chinese):
+    * [BiliBili公开课目录](https://github.com/wenhan-wu/OpenCourseCatalog):
+    * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit):
+    * []():
+    * []():
+    * []():
+    * []():
 * [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
     * [美国计算机名校例如MIT ，CMU ，有哪些公认的好课并且有课程讲义的，适合国内学生自学的？](https://www.zhihu.com/question/57532048)
     * [计算机专业有哪些不错的公开课资源？](https://www.zhihu.com/question/38335108)
