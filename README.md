@@ -1264,7 +1264,7 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
     * [Uchicago CS333: Fall 2019 Graduating Computer Networking](http://people.cs.uchicago.edu/~ravenben/classes/333/index.html):推荐
         * [CS589 (Fall 2015): Advanced Computer Networks](https://www.eecs.umich.edu/courses/eecs589/)
     * [Binghamton CS 528 Computer Networks and Data Communication Fall 2007](http://www.cs.binghamton.edu/~nael/classes/cs528/)
-    * []()
+    * [Princeton Computer Science 561 Advanced Computer Networks](https://www.cs.princeton.edu/courses/archive/fall06/cos561/)
 
 
 
