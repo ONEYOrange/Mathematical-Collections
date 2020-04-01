@@ -254,13 +254,6 @@ Book by Dietmar A. Salamon
 * [Math video links](http://users.mai.liu.se/vlatk48/links.html)
 * []()
 * []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
 * [Mathematical Physics Preprint Archive](https://web.ma.utexas.edu/mp_arc/):research papers in Mathematical Physics and related areas
 * [Mathematics Today](http://mathematicstoday.org/archives.aspx):A Peer Reviewed International Journal for Mathematical Science
 * [International Journal of Mathematical Archive](http://www.ijma.info/index.php/ijma)
@@ -271,25 +264,13 @@ Book by Dietmar A. Salamon
 * []()
 * []()
 * []()
-
-
 * [Fields Live Video Archive](http://www.fields.utoronto.ca/video-archive/)
-* []()
-* []()
-* []()
-* []()
 * []()
 * []()
 * [Videos on hyperbolic manifolds/hyperbolization/geometrization on YouTube](http://www.math.unl.edu/~mbrittenham2/classwk/990s19/video/):Bill_Thurston,Ian_Agol，推荐
 * []()
 * []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+
 
 
 
@@ -1264,9 +1245,26 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
     * [Christos Kozyrakis](https://web.stanford.edu/~kozyraki/):
     * []():
 
-
-
-
+* [Web Resources for Computer Networks](https://www.cs.vu.nl/~ast/CN5/)
+    * [Columbia CSEE 4119: An Introduction to Computer Networks (Spring 2018)](https://www.cs.columbia.edu/~hgs/teaching/networks/)
+    * [MIT6.829: Computer Networks, Fall 2019 ](http://web.mit.edu/6.829/www/currentsemester/)
+    * [Yale:A Reading List in Computer Networking](https://www.cs.yale.edu/homes/yry/readings/general/)
+    * [University of Michigan CS 589, Winter 2005: Advanced Computer Networks)](https://web.eecs.umich.edu/~zmao/eecs589/)
+    * [CS 740: Reading List:Network Design and Architecture](http://pages.cs.wisc.edu/~suman/courses/740/readinglist.html)
+    * [CMU S268: Computer Networks Spring 1998 READING LIST](http://www.cs.cmu.edu/~dmaltz/reading-list.html)
+        * [15-744, Spring 2016: Computer Networks](http://www.cs.cmu.edu/~srini/15-744/S16/index.html)
+    * [Rutgers552, Fall 2019: Computer Networks](https://www.cs.rutgers.edu/~sn624/552-F19/index.html)
+    * [Dartmouth CS60 Computer Networks -- want to program the Internet? resources](https://www.cs.dartmouth.edu/~campbell/cs60/resources.html)
+        * [CS 60: Computer Networks](https://www.cs.dartmouth.edu/~sergey/cs60/syllabus.pdf)
+            * [How can an internet work and how does the Internet work](https://www.mccme.ru/computers/Shalunov-inet.pdf)
+    * [UCB CS 268: Computer Networks, Fall 2010](https://people.eecs.berkeley.edu/~istoica/classes/cs268/10/)
+        * [CS268, Spring 2019: Graduate Computer Networks](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/index.html)
+    * [CS 555 - Computer Networks - 2005 Reading List](https://www.cs.wmich.edu/~gupta/teaching/cs555/spring05/ReadingList.html)
+    * [Advanced Computer Networks cs 538 spring 2018](https://courses.engr.illinois.edu/cs538/sp2018/)
+    * [Uchicago CS333: Fall 2019 Graduating Computer Networking](http://people.cs.uchicago.edu/~ravenben/classes/333/index.html):推荐
+        * [CS589 (Fall 2015): Advanced Computer Networks](https://www.eecs.umich.edu/courses/eecs589/)
+    * [Binghamton CS 528 Computer Networks and Data Communication Fall 2007](http://www.cs.binghamton.edu/~nael/classes/cs528/)
+    * []()
 
 
 
