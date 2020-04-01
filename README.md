@@ -746,27 +746,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 
 
-* [Alan Turing](http://www.turingarchive.org/)
-* [Charles Babbage](http://www.charlesbabbage.net/)
-* [Donald E. Knuth](https://www-cs-faculty.stanford.edu/~knuth/)
-* [Peter J. Denning](http://denninginstitute.com/denning/)
 
-* [Douglas Engelbart](https://www.dougengelbart.org/):He is best known for his work on founding the field of human–computer interaction
-* [Guido van Rossum](https://gvanrossum.github.io//):the author of the Python programming language. 
-* [Dennis M. Ritchie](https://www.bell-labs.com/usr/dmr/www/):He created the C programming languag
-* [Bjarne Stroustrup](http://stroustrup.com/):most notable for the creation and development of the C++ programming language.C++之父
-* [Guido van Rossum](https://gvanrossum.github.io//):python之父
-
-* [Edsger W. Dijkstra](http://www.cs.utexas.edu/users/EWD/):“结构程序设计之父”和“先知先觉”（Oracle），他一生致力于把程序设计发展成一门科学。
-* [Andrew S.Tanenbaum](https://www.cs.vu.nl/~ast/):专长于操作系统。他最早以Minix(一个免费用于教学目的的类Unix操作系统)作者的身份以及所编写的计算机科学教科书而为人熟知。他把教学视作自己最重要的一项工作。
-* [Isaac Asimov](http://www.asimovonline.com/asimov_home_page.html)
-* [Noam Chomsky](https://linguistics.arizona.edu/user/noam-chomsky): Sometimes called "the father of modern linguistics"
-* [Brian Kernighan ](https://www.cs.princeton.edu/~bwk/):《C语言程序设计》,作者:Brian W. Kernighan/Dennis M. Ritchie
-* [Anders Hejlsberg](https://github.com/ahejlsberg):C#和TypeScript
- 
-* [当今理论计算机领域有哪些牛人？](https://www.zhihu.com/question/31563284)
-    * [Timothy M. Chan](http://tmc.web.engr.illinois.edu/):计算几何
-    * [Manuel Blum](http://www.cs.cmu.edu/~mblum/):密码系统和程序检验先驱，计算复杂性理论的主要奠基人之一
 
 * [Turing Award](https://awards.acm.org/)
     * [Marvin Minsky](http://web.media.mit.edu/~minsky/)
@@ -784,6 +764,13 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Dana Stewart Scott](http://www.cs.cmu.edu/~scott/):与迈克尔·拉宾一起师从阿隆索·邱奇(Alonzo Church);拉宾和达纳·斯科特共同发表了“有限自动机与其判定性问题”为题的论文。
     * [John Warner Backus](https://military.wikia.org/wiki/John_Backus)：发明了函数层次编程概念及实践该概念的FP语言。
     * [Robert W. Floyd](https://dl.acm.org/profile/81452611368):设计高效可靠软件的方法学
+        * [1978年的图灵奖获得者-Robert W. Floyd](https://blog.csdn.net/celestialwy/article/details/1221816)
+            * [关于软件可靠性领域的介绍](http://www.ece.cmu.edu/~koopman/des_s99/sw_reliability/)
+            * [关于程序语义学](http://www.utdallas.edu/~gupta/alps/Proj_Desc/Wang.pdf)以及Formal Methods of Software Design：http://www.cs.toronto.edu/~hehner/FMSD/
+            * [CMU编程语言领域研究实验室介绍](http://www.cs.cmu.edu/~mleone/language/projects.html)
+            * 一些形式方法(Formal Methods)领域的一些介绍文章:[Important publications in formal verification ](http://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Formal_verification):Robert Floyd的著名文章：Assigning meanings to programs列在首位。
+            * Robert从事与计算机的工作并发表了许多著名的文章，比如1967年发表的关于程序验证领域的前瞻性文章--Assigning Meanings to Programs.。Robert在程序验证方面的开创性研究对后来程序验证领域著名的Hoare Logic有很大的积极影响作用，这也是为什么我们也通常称Hoare Logic叫做Floyd-Hoare Logic。Hoare是在1969年发表其著名的 "An axiomatic basis for computer programming"[Classic Papers in Programming Languages and Logic](https://www.cs.cmu.edu/~crary/819-f09/)
+            * []()
     * [Kenneth Eugene Iverson](http://keiapl.org/):程序设计语言和数学符号
     * [Tony Hoare](https://www.cs.ox.ac.uk/people/tony.hoare/):程序设计语言的定义与设计
     * [Edgar Frank Codd](http://scihi.org/codd-relational-database-model/):关系型数据库理论;关系数据库之父
@@ -862,13 +849,6 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [Stuart Russell](http://people.eecs.berkeley.edu/~russell/):Researcher of Artificial Intelligence
 
 
-* [书单](https://www.douban.com/doulist/37472347/)
-    * [Baron Schwartz](https://www.xaprb.com/):高性能MySQL(High Performance MySQL: Optimization, Backups, and Replication); 施瓦茨 (Baron Schwartz) / 扎伊采夫 (Peter Zaitsev) / 特卡琴科 (Vadim Tkachenko) 
-    * [Peter Zaitsev](https://www.peterzaitsev.com/):
-    * [Vadim Tkachenko](https://www.percona.com/about-percona/team/vadim-tkachenko):
-    * [ Keith W.Ross ](https://www.nyu.edu/projects/keithwross/):Computer Networking：A Top-Down Approach  James F.Kurose  Keith W.Ross 
-    * [推荐计算机科学类的经典书籍](https://www.douban.com/note/261528651/):
-        * [Mark Allen Weiss](https://users.cs.fiu.edu/~weiss/):Data Structure & Algorithm Analysis in C (Second Edition)本书曾被评为20世纪顶尖的30部计算机著作之一,作者Mark Allen Weiss在数据结构和算法分析方面卓有建树.他的数据结构和算法分析的著作尤其畅销,并受到广泛好评.已被世界500余所大学用作教材.
 
 
 
@@ -1035,7 +1015,27 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         
         
         
-        
+* [Alan Turing](http://www.turingarchive.org/)
+* [Charles Babbage](http://www.charlesbabbage.net/)
+* [Donald E. Knuth](https://www-cs-faculty.stanford.edu/~knuth/)
+* [Peter J. Denning](http://denninginstitute.com/denning/)
+
+* [Douglas Engelbart](https://www.dougengelbart.org/):He is best known for his work on founding the field of human–computer interaction
+* [Guido van Rossum](https://gvanrossum.github.io//):the author of the Python programming language. 
+* [Dennis M. Ritchie](https://www.bell-labs.com/usr/dmr/www/):He created the C programming languag
+* [Bjarne Stroustrup](http://stroustrup.com/):most notable for the creation and development of the C++ programming language.C++之父
+* [Guido van Rossum](https://gvanrossum.github.io//):python之父
+
+* [Edsger W. Dijkstra](http://www.cs.utexas.edu/users/EWD/):“结构程序设计之父”和“先知先觉”（Oracle），他一生致力于把程序设计发展成一门科学。
+* [Andrew S.Tanenbaum](https://www.cs.vu.nl/~ast/):专长于操作系统。他最早以Minix(一个免费用于教学目的的类Unix操作系统)作者的身份以及所编写的计算机科学教科书而为人熟知。他把教学视作自己最重要的一项工作。
+* [Isaac Asimov](http://www.asimovonline.com/asimov_home_page.html)
+* [Noam Chomsky](https://linguistics.arizona.edu/user/noam-chomsky): Sometimes called "the father of modern linguistics"
+* [Brian Kernighan ](https://www.cs.princeton.edu/~bwk/):《C语言程序设计》,作者:Brian W. Kernighan/Dennis M. Ritchie
+* [Anders Hejlsberg](https://github.com/ahejlsberg):C#和TypeScript
+ 
+* [当今理论计算机领域有哪些牛人？](https://www.zhihu.com/question/31563284)
+    * [Timothy M. Chan](http://tmc.web.engr.illinois.edu/):计算几何
+    * [Manuel Blum](http://www.cs.cmu.edu/~mblum/):密码系统和程序检验先驱，计算复杂性理论的主要奠基人之一     
         
         
         
@@ -1080,6 +1080,30 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [LITERATURE ON PROGRAMMING LANGUAGES](http://users.csc.calpoly.edu/~akeen/languages/papers.html)：与编程语言有关的文章
 
 * [James Aspnes ](https://www.cs.yale.edu/homes/aspnes/)
+
+
+* [书单](https://www.douban.com/doulist/37472347/)
+    * [Baron Schwartz](https://www.xaprb.com/):高性能MySQL(High Performance MySQL: Optimization, Backups, and Replication); 施瓦茨 (Baron Schwartz) / 扎伊采夫 (Peter Zaitsev) / 特卡琴科 (Vadim Tkachenko) 
+    * [Peter Zaitsev](https://www.peterzaitsev.com/):
+    * [Vadim Tkachenko](https://www.percona.com/about-percona/team/vadim-tkachenko):
+    * [ Keith W.Ross ](https://www.nyu.edu/projects/keithwross/):Computer Networking：A Top-Down Approach  James F.Kurose  Keith W.Ross 
+    * [推荐计算机科学类的经典书籍](https://www.douban.com/note/261528651/):
+        * [Mark Allen Weiss](https://users.cs.fiu.edu/~weiss/):Data Structure & Algorithm Analysis in C (Second Edition)本书曾被评为20世纪顶尖的30部计算机著作之一,作者Mark Allen Weiss在数据结构和算法分析方面卓有建树.他的数据结构和算法分析的著作尤其畅销,并受到广泛好评.已被世界500余所大学用作教材.
+* [知乎](https://www.zhihu.com/)
+    * [2019 年你读了哪些觉得比较好的计算机书籍？](https://www.zhihu.com/question/361165485)
+    * [你所读的计算机科学方向，有哪些不错的讲义（Notes）？](https://www.zhihu.com/question/38300204)
+    * [计算机专业必读哪些经典书籍？](https://www.zhihu.com/question/273973062)
+    * [有没有计算机专业真的很经典的书或者教材？](https://www.zhihu.com/question/281970626)
+    * [有关计算机编程有哪些好的书籍？](https://www.zhihu.com/question/303745422)
+    * [计算机专业有哪些不错的公开课资源？](https://www.zhihu.com/question/38335108/answer/813624703)
+    * [你会如何设计大学计算机课程？](https://www.zhihu.com/question/25397768)
+    * [YouTube 上有哪些计算机方面的值得推荐的公开课？](https://www.zhihu.com/question/49071324)
+    * [在哪里能够找到国外优秀大学的计算机公开课？](https://www.zhihu.com/question/32044961)
+    * [计算机公开课推荐 2019.8](https://zhuanlan.zhihu.com/p/87900113)
+    * [计算机科学与技术（CS）专业学生该如何系统地自学？](https://www.zhihu.com/question/37321190)
+    * [计算机专业大学生应该在大学四年踏实学哪些东西?](https://www.zhihu.com/question/27368268)
+    * [计算机专业学生在大学四年内可以做些什么来丰富简历？](https://www.zhihu.com/question/64244262)
+    * [飞龙](https://github.com/wizardforcel)
 * [不同领域的圣经级书籍有哪些？](https://www.zhihu.com/question/28438145)
     * [Shriram Krishnamurthi](http://cs.brown.edu/~sk/):Programming Language: Application and Interpretation(PLAI)
     * [EOPL官方网站](http://www.eopl3.com/)：可以直接找到使用这本书的大学课程
@@ -1102,7 +1126,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         * [Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/tapl/)
         * [Daniel P. Friedman](https://legacy.cs.indiana.edu/dfried_celebration.html)
         * [Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/):Essential of Programming Language(EOPL)
-    * [有哪些讲编程范式的好书或好文？](https://www.zhihu.com/question/50556311)
+        * [有哪些讲编程范式的好书或好文？](https://www.zhihu.com/question/50556311)
     * [Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/)圣经四件套：Software FoundationsTypes and Programming LanguageAdvanced Topics of Types and Programming Language（多人撰写）Basic Category Theory for Computer Scientists
     * [Erik Demaine](http://erikdemaine.org/):天才式人物
     * [Scott Meyers](http://www.aristeia.com/):Effective C++
@@ -1127,34 +1151,24 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
             * [Jeffrey D. Ullman](http://infolab.stanford.edu/~ullman/)
 
 
-
 * [Mooc](https://github.com/prakhar1989/awesome-courses)
     * [上海交通大学课程分享](https://github.com/CoolPhilChen/SJTU-Courses):里面还有其他高校的课程链接
-    * [计算机速成课 | Crash Course](https://github.com/1c7/Crash-Course-Computer-Science-Chinese):
     * [BiliBili公开课目录](https://github.com/wenhan-wu/OpenCourseCatalog):
+        * [计算机速成课 | Crash Course](https://github.com/1c7/Crash-Course-Computer-Science-Chinese):
     * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit):
-    * []():
-    * []():
-    * []():
-    * []():
-* [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
+    * [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
     * [美国计算机名校例如MIT ，CMU ，有哪些公认的好课并且有课程讲义的，适合国内学生自学的？](https://www.zhihu.com/question/57532048)
-    * [计算机专业有哪些不错的公开课资源？](https://www.zhihu.com/question/38335108)
-    * [你所读的计算机科学方向，有哪些不错的讲义（Notes）？](https://www.zhihu.com/question/38300204)
-    * [在线教育平台上有哪些让你相见恨晚的计算机或互联网课程？](https://www.zhihu.com/question/29224038)
-    * [计算机科学与技术本科专业有哪些核心课程？应该如何安排学习顺序？各个课程推荐哪些经典教材？](https://www.zhihu.com/question/21405835)
-    * [值得留给子孙后代的计算机课程](https://zhuanlan.zhihu.com/p/39030715)
-    * [CMU 计算机选课上有什么特别好的课程推荐？](https://www.zhihu.com/question/28249230)
-    * [github:Open Source Society University](https://github.com/ossu/computer-science)
-    * [邓俊辉](https://dsa.cs.tsinghua.edu.cn/~deng/)
-    
-    * [Aho/Ullman Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html):cs109a/b of stanford
-        * [Alfred V. Aho](http://www.cs.columbia.edu/~aho/cs3261/Lectures/L1-Intro_to_CS_Theory.html)
-        * [CS109a Class Page:Introduction to Computer Science](https://web.stanford.edu/group/sutacs/sampleweb.html)
-        * [Computer Science 126 princeton](https://www.cs.princeton.edu/courses/archive/spr01/cs126/texts.html)
-        * [University of Cambridge:Foundations of Computer Science](https://www.cl.cam.ac.uk/teaching/0910/FoundsCS/)    
+        * [计算机专业有哪些不错的公开课资源？](https://www.zhihu.com/question/38335108)
+        * [你所读的计算机科学方向，有哪些不错的讲义（Notes）？](https://www.zhihu.com/question/38300204)
+        * [在线教育平台上有哪些让你相见恨晚的计算机或互联网课程？](https://www.zhihu.com/question/29224038)
+        * [计算机科学与技术本科专业有哪些核心课程？应该如何安排学习顺序？各个课程推荐哪些经典教材？](https://www.zhihu.com/question/21405835)
+        * [值得留给子孙后代的计算机课程](https://zhuanlan.zhihu.com/p/39030715)
+        * [CMU 计算机选课上有什么特别好的课程推荐？](https://www.zhihu.com/question/28249230)
+        * [github:Open Source Society University](https://github.com/ossu/computer-science)
+
     
     
+* [计算机科学自学指南](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md):强烈推荐
     * [五门CS基础课推荐](https://zhuanlan.zhihu.com/p/24774857)
         * [John DeNero](http://denero.org/):CS 61A: Structure and Interpretation of Computer Programs,Berkeley的经典CS入门课
         * [Jonathan Shewchuk](https://people.eecs.berkeley.edu/~jrs/61b/)	CS 61BData Structures
@@ -1167,7 +1181,11 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         * [CMU 15213 CSAPP](http://www.csapp.cs.cmu.edu/)
         * [CMU:15-441/641: Computer Networks (Fall 2017)](https://www.cs.cmu.edu/~prs/15-441-F17/index.html)
         * [每个程序员都应该阅读的 10 篇论文](https://zhuanlan.zhihu.com/p/25465581)
-        
+    * [Aho/Ullman Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html):cs109a/b of stanford
+        * [Alfred V. Aho](http://www.cs.columbia.edu/~aho/cs3261/Lectures/L1-Intro_to_CS_Theory.html)
+        * [CS109a Class Page:Introduction to Computer Science](https://web.stanford.edu/group/sutacs/sampleweb.html)
+        * [Computer Science 126 princeton](https://www.cs.princeton.edu/courses/archive/spr01/cs126/texts.html)
+        * [University of Cambridge:Foundations of Computer Science](https://www.cl.cam.ac.uk/teaching/0910/FoundsCS/)            
     * [全美最好的五门计算机课程](https://zhuanlan.zhihu.com/p/20071073)
         * [CMU 15-112: Fundamentals of Programming and Computer Science Summer 2019 ](https://www.cs.cmu.edu/~112-n19/index.html)
             * [David Kosbie](http://www.kosbie.net/cmu/)
@@ -1179,24 +1197,19 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     
 
 
-* [知乎](https://www.zhihu.com/)
-    * [你所读的计算机科学方向，有哪些不错的讲义（Notes）？](https://www.zhihu.com/question/38300204)
-    * [计算机专业必读哪些经典书籍？](https://www.zhihu.com/question/273973062)
-    * [有没有计算机专业真的很经典的书或者教材？](https://www.zhihu.com/question/281970626)
-    * [有关计算机编程有哪些好的书籍？](https://www.zhihu.com/question/303745422)
-    * [计算机专业有哪些不错的公开课资源？](https://www.zhihu.com/question/38335108/answer/813624703)
-    * [你会如何设计大学计算机课程？](https://www.zhihu.com/question/25397768)
-    * [YouTube 上有哪些计算机方面的值得推荐的公开课？](https://www.zhihu.com/question/49071324)
-    * [在哪里能够找到国外优秀大学的计算机公开课？](https://www.zhihu.com/question/32044961)
-    * [计算机公开课推荐 2019.8](https://zhuanlan.zhihu.com/p/87900113)
-    * [计算机科学与技术（CS）专业学生该如何系统地自学？](https://www.zhihu.com/question/37321190)
-    * [计算机专业大学生应该在大学四年踏实学哪些东西?](https://www.zhihu.com/question/27368268)
-    * [计算机专业学生在大学四年内可以做些什么来丰富简历？](https://www.zhihu.com/question/64244262)
-
-* [飞龙](https://github.com/wizardforcel)
 
 
-* [计算机科学自学指南](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md):强烈推荐
+
+
+* [UMichigan CS 615 - Design And Analysis Of Programming Languages](http://web.eecs.umich.edu/~weimerw/2007-615/):reading lists 有很多的参考资料，比如《Assigning Meanings to Programs》 (Bob Floyd)，其中给出了算法证明借助于断言和归纳法的系统表达，(来自TAOCP)。同样包含这一文章的有
+    * [TERMINATION METHODS](http://www.cs.tau.ac.il/~nachumd/term/)
+
+
+
+
+
+
+
 
 
 
@@ -1270,7 +1283,7 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
 
 
 
-
+* [邓俊辉](https://dsa.cs.tsinghua.edu.cn/~deng/)
 * [CMU group in Algorithms and Complexity Theory.](http://theory.cs.cmu.edu/)
     * [Algorithms in the "Real World"](http://www.cs.cmu.edu/afs/cs/project/pscico-guyb/realworld/www/)
         * [The Stony Brook Algorithm Repository](http://algorist.com/algorist.html)
