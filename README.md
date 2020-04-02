@@ -228,6 +228,9 @@ Book by Dietmar A. Salamon
 
 # 网路资源
 
+ * [manjunath5496](https://github.com/manjunath5496):List-series,collected,resource,强烈推荐
+
+
 ## 网站
 
 
@@ -1203,6 +1206,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 * [UMichigan CS 615 - Design And Analysis Of Programming Languages](http://web.eecs.umich.edu/~weimerw/2007-615/):reading lists 有很多的参考资料，比如《Assigning Meanings to Programs》 (Bob Floyd)，其中给出了算法证明借助于断言和归纳法的系统表达，(来自TAOCP)。同样包含这一文章的有
     * [TERMINATION METHODS](http://www.cs.tau.ac.il/~nachumd/term/)
+    * [Classic Papers in Programming Languages and Logic](https://www.cs.cmu.edu/~crary/819-f09/)
 
 
 
