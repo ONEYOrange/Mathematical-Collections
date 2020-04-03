@@ -376,6 +376,9 @@ Book by Dietmar A. Salamon
     * [童伟华](http://staff.ustc.edu.cn/~tongwh/)
     * [刘利刚](http://staff.ustc.edu.cn/~lgliu/)
     * [王新茂](http://staff.ustc.edu.cn/~xinmao/)
+    * [申伊塃](http://staff.ustc.edu.cn/~yhshen/#teaching)
+    * [张伟平](http://staff.ustc.edu.cn/~zwp/):统计
+    * [王冉](http://staff.ustc.edu.cn/~wangran/Teaching.htm):统计
 
 * [科大杰出校友](http://math.ustc.edu.cn/2018/1221/c18822a401154/page.htm)
     * [李岩岩 ](https://sites.math.rutgers.edu/~yyli/):1988年在纽约大学柯朗数学研究所获博士学位。1988-1990在普林斯顿大学工作，1990至今在罗格斯大学工作，任Distinguished Professor和非线性分析中心主任。2002年世界数学家大会做45分钟邀请报告，2012年当选首届美国数学会Fellow。研究方向为偏微分方程、几何分析。
