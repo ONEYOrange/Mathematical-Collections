@@ -370,15 +370,7 @@ Book by Dietmar A. Salamon
     * [李思](https://sili-math.github.io/)
     * []()
     * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
+
 
 
 
@@ -559,6 +551,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Doron Zeilberger](https://sites.math.rutgers.edu/~zeilberg/)组合数学理论计算机科学
 
 * [Mathematics Department of the Upenn](https://www.math.upenn.edu/)
+    * [Seminars](https://www.math.upenn.edu/events/seminars)
     * [Robert Ghrist](https://www.math.upenn.edu/~ghrist/): 有很好的微积分视频(youtube)
     * [Upenn Online Learning Initiative](https://repository.upenn.edu/discrete_calculus/)这个是可以下载的版本。
     * [Wolfgang Ziller](https://www.math.upenn.edu/~wziller/)有很好的微分几何和黎曼几何讲义
@@ -581,6 +574,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 
 * [Princeton](https://www.math.princeton.edu/):通过“site:web.math.princeton.edu/~”可搜索
+    * [Mathematics Department Seminars](https://web.math.princeton.edu/~seminar/seminar.html)
     * [Sergiu Klainerman](https://web.math.princeton.edu/~seri/homepage/serilectures.htm)PDE
     * [Nicholas Katz](http://web.math.princeton.edu/~nmk/)
     * [János Kollár](https://web.math.princeton.edu/~kollar/)Algebraic Geometry
@@ -645,6 +639,13 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 
 * [MIT](https://math.mit.edu/)
+    * [Seminars | MIT Mathematics](https://math.mit.edu/news/seminars/index.php)
+        * [MIT number theory seminar](https://math.mit.edu/nt/)
+        * [MIT Probability Seminar](https://math.mit.edu/seminars/probability/)
+        * [Physical Mathematics Seminar](https://math.mit.edu/seminars/pms/)
+        * [MIT Lie Groups Seminar](http://www-math.mit.edu/~dav/LG/)
+        * []()
+        * []()
     * [Larry Guth](http://math.mit.edu/~lguth/):分析
     * [PRIMES: Program for Research in Mathematics, Engineering and Science for High School Students](https://math.mit.edu/research/highschool/primes/index.php)
     * [GILBERT STRANG](http://math.mit.edu/~gs/)
