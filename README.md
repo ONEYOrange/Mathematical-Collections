@@ -610,6 +610,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
     
 * [Harvard](http://people.math.harvard.edu/)
+    * [COLLOQUIA & SEMINARS](https://cmsa.fas.harvard.edu/seminars-and-colloquium/)
     * [site:people.math.harvard.edu/~](https://www.baidu.com/s?wd=site%3Apeople.math.harvard.edu%2F%7E&rsv_spt=1&rsv_iqid=0x8b65d03c00126770&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&rqlang=&tn=baiduhome_pg&ch=&rsv_enter=1&rsv_dl=ib&inputT=13176)
     * [site:http://people.math.harvard.edu/](https://cn.bing.com/search?q=site%3Ahttp%3A%2F%2Fpeople.math.harvard.edu%2F&qs=n&form=QBRE&sp=-1&pq=&sc=0-0&sk=&cvid=8DA6C2ECD3DA4CE1A02446B8B25F8169)
     * [Dennis Gaitsgory](http://people.math.harvard.edu/~gaitsgde/):Geometric Representation；Linear Algebraic Groups
