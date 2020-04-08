@@ -411,7 +411,7 @@ Book by Dietmar A. Salamon
 
 ## 法德
 
-* [Alexandre Grothendieck](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/)
+* [Grothendieck Circle](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/)
     * [Grothendieck](http://www.landsburg.com/grothendieck/):Biographies,Clef de Songes ,
 Recoltes et Semailles (Grothendieck autobiography) ,Esquisse (English Translation)
 * [A website devoted to the life and works of Alexandre Grothendieck](http://www.grothendieckcircle.org/)
