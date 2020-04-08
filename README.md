@@ -237,6 +237,10 @@ Book by Dietmar A. Salamon
 * [DML: Digital Mathematics Library](https://www.math.uni-bielefeld.de/~rehmann/DML/dml_links.html):宝藏，强烈推荐
 * [MATH RESOURCES](http://www.barry.edu/learning-center/math-lab-resources.html)
     * [Topics in Mathematics](http://archives.math.utk.edu/topics/):同样宝藏，强烈推荐："In these pages, you will find links to various WWW resources on Mathematics."
+    
+    
+    
+* [清华三亚国际数学论坛](http://www.tsimf.cn/meeting/cnindex?gid=116)
 
 ## Videos
 
@@ -363,6 +367,7 @@ Book by Dietmar A. Salamon
     * [刘毅](http://scholar.pku.edu.cn/liuyi)
     * [Jiajun Wang](http://www.math.pku.edu.cn/teachers/wangjj/)
     * [安金鹏](http://www.math.pku.edu.cn/teachers/anjp/)
+    * [Qizheng Yin](http://bicmr.pku.edu.cn/~qizheng/#)
 
 
 * [T大](https://www.tsinghua.edu.cn/publish/math/index.html)
@@ -441,6 +446,7 @@ Recoltes et Semailles (Grothendieck autobiography) ,Esquisse (English Translatio
     * [Thierry Coquand](http://www.cse.chalmers.se/~coquand/):Logic in Computer Science
     * [Dennis Gaitsgory](http://people.math.harvard.edu/~gaitsgde/)
     * [Olivia Caramello](https://www.oliviacaramello.com/)
+    * [林洁](http://www.ihes.fr/~linjie/IHES/English.html)
  
  * [ENS](http://www.math.ens.fr/-People-)
      * [Zoé Chatzidakis](http://www.math.ens.fr/~chatzidakis/)
@@ -535,6 +541,12 @@ DIFFERENTIAL GEOMETRY
     * []()
     * []()
     * []()
+
+* [Philippe GILLE](http://math.univ-lyon1.fr/homes-www/gille/):代数，李代数,SGA
+    * [Conference in honour of Olivier Mathieu's 60th birthday](http://math.univ-lyon1.fr/om60/)
+    * [Lie Fu （傅列）](http://math.univ-lyon1.fr/~fu/teaching.html)
+        * [Sino-French Conference in Algebraic and Complex Geometry](http://math.univ-lyon1.fr/~fu/Activities/supporting%20files/participants_SinoFrenchAG2018.pdf)
+* Université de Bordeaux[童纪龙](https://www.math.u-bordeaux.fr/~jtong/)
 
 
 * [Alexei Pantchichkine](https://www-fourier.ujf-grenoble.fr/~panchish/GDL16/):Institut Fourier,  Université de Grenoble I
@@ -637,6 +649,9 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 * [Michigan Math](https://lsa.umich.edu/math/people.html)
     * [Igor V. Dolgachev](http://www.math.lsa.umich.edu/~idolga/)
+
+* [Aise Johan de Jong](http://math.columbia.edu/~dejong/):The Stacks Project
+
 
 
 * [MIT](https://math.mit.edu/)
