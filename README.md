@@ -303,6 +303,13 @@ Book by Dietmar A. Salamon
 ## 微盘
 
 * [泛函分析相关资料](https://vdisk.weibo.com/s/u54_FBH2JKatY)
+* [求推荐好用的网盘搜索引擎？](https://www.zhihu.com/question/38323320/answer/111908108)
+    * [盘飞飞](https://www.panfeifei.com/)
+    * [超能搜](https://www.chaonengsou.com/)
+
+
+
+
 
 ## 论坛
 
