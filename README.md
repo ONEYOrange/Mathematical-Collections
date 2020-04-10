@@ -651,6 +651,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Igor V. Dolgachev](http://www.math.lsa.umich.edu/~idolga/)
 
 * [Aise Johan de Jong](http://math.columbia.edu/~dejong/):The Stacks Project
+    * [李超](http://www.math.columbia.edu/~chaoli/)
 
 
 
