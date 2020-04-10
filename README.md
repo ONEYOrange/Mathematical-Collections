@@ -12,6 +12,7 @@
         * [Koen Thas](http://cage.ugent.be/~kthas/Fun/library/)
     
 * [Notes](#Notes) 
+    * [指引](#指引)
     * [分析](#分析)
     * [代数](#代数)
     * [几何](#几何)
@@ -58,13 +59,14 @@
 ## Interviews
 
 * [Arnold](http://www.pdmi.ras.ru/~arnsem/Arnold/)
-* [一些数学家的interviews](https://www.ocf.berkeley.edu/~lekheng/interviews/)
-* [Vladimir Voevodsky 1966-2017](https://www.math.columbia.edu/~woit/wordpress/?p=9591)主页上的Not Even Wrong还有其他的数学家的文章，以及一些数学家的博客（强烈推荐）
-
 * [Paul Erdős](http://web.cs.elte.hu/erdos/)
-
 * [Remembering Richard Guy](https://science.ucalgary.ca/mathematics-statistics/about/richard-guy):Richard Guy 于2020年3月9日去世，享年103岁
+* [Martin Gardner](http://martin-gardner.org/)
 
+
+* [一些数学家的interviews](https://www.ocf.berkeley.edu/~lekheng/interviews/)
+* [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/):该博客上时常关注有数学界的一些新闻以及数学家
+    * [Vladimir Voevodsky 1966-2017](https://www.math.columbia.edu/~woit/wordpress/?p=9591)主页上的Not Even Wrong还有其他的数学家的文章，以及一些数学家的博客（强烈推荐）
 
 
 * [I Choose Math](https://ichoosemath.com/2012/08/22/bill-thurston-math-hero/):Bill Thurston, Math Hero.有关于Thurston的一些资料
@@ -75,22 +77,23 @@
     * [The mathematical legacy of Bill Thurston](http://arimoto.lolipop.jp/mt4/mt-search.cgi?search=Thurston&IncludeBlogs=28):video_lectures
 
 
-
-* [Martin Gardner](http://martin-gardner.org/)
-
 ## Articles
 
-* [articles](http://irma.math.unistra.fr/~maudin/mathematiques.html)
+* [articles](http://irma.math.unistra.fr/~maudin/mathematiques.html)：有关于几何与数学物理的一些经典文章
 
 * [Reading materials](https://www.dartmouth.edu/~matc/MathDrama/reading.html)
+    * [Mathematics Across The Curriculum](https://math.dartmouth.edu/~matc/)
 
 * [IAS](https://www.math.ias.edu/):可以说是最优质的一个学术网站了
+    * [IAS News](https://www.ias.edu/news?view=1)
     * [School of Mathematics 75th Anniversary Celebration](https://www.math.ias.edu/75/):featured some of the world's leading mathematicians, all of whom have been Members or Visitors of the Institute.强烈推荐
 
 
 
 
 # Notes
+
+## 指引
 
 * [知乎](https://www.zhihu.com/search?type=content&q=%E6%95%B0%E5%AD%A6Notes)
     * [你所读的（基础）数学方向，有哪些不错的讲义（Notes）？](https://www.zhihu.com/question/38253477/answer/76064632)
@@ -100,10 +103,12 @@
     * [数学经典教材有什么？](https://www.zhihu.com/question/22302252)
     * [你所读的（基础）物理方向，有哪些不错的讲义（Notes）？](https://www.zhihu.com/question/54232458/answer/890818375)
     * [有哪些像小说一样的专业数学读物？](https://www.zhihu.com/question/62158566)
-
+* [Best Sets of Lecture Notes and Articles](https://math.stackexchange.com/questions/302023/best-sets-of-lecture-notes-and-articles)
+    * [What books must every math undergraduate read?](https://math.stackexchange.com/questions/94827/what-books-must-every-math-undergraduate-read?noredirect=1)
+    
 * [Chicago undergraduate mathematics bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
-
-
+* [USTC基础数学修课指南](https://www.zhangjy9610.me/USTCdata-cn.html)
+* [Resources for Intro-Level Graduate Courses](https://www.math3ma.com/blog/resources-for-intro-level-graduate-courses)
 ## 分析
 
 * [Curtis T McMullen](http://people.math.harvard.edu/~ctm/courses.html)超多的Notes,Dynamics and Geometry
@@ -128,10 +133,7 @@
     * [ Avner Friedman](https://people.math.osu.edu/friedman.158/):Foundations of Modern Analysis
     * [Lawrence Craig Evans](https://math.berkeley.edu/~evans/):Measure_Theory_and_Fine_Properties_of_Functions
     * [Sheldon Axler](http://measure.axler.net/):Measure, Integration & Real Analysis MIRA
-    * []():
-    * []():
-    * []():
-    * []():    
+  
 
 * [有哪些精悍的复变教材和经典的泛函分析？](https://www.zhihu.com/question/21596674)
 
@@ -161,10 +163,7 @@ Book by Dietmar A. Salamon
 * [Sigurdur Helgason](http://www-math.mit.edu/~helgason/):Groups and Geometric Analysis，Differential Geometry and Symmetric Spaces
 
 * [Joseph Rotman](https://faculty.math.illinois.edu/~rotman/):
-    * []():
-    * []():
-    * []():
-    * []():
+
 
 
 
