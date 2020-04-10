@@ -21,6 +21,7 @@
     
 * [网路资源](#网路资源)
     * [网站](#网站)
+    * [会议信息](#会议信息)
     * [Videos](#Videos)
     * [微盘](#微盘)
     * [论坛](#论坛)
@@ -37,6 +38,8 @@
     * [动力系统](#动力系统)
     * [数学物理](#数学物理)
     * [计算机](#计算机)
+        * [会议信息](#会议信息)
+        * [Homepage](#Homepage)
         * [网络资源](#网络资源)
         * [公开课](#公开课)
     * [经济学](#经济学)
@@ -61,13 +64,15 @@
 * [Arnold](http://www.pdmi.ras.ru/~arnsem/Arnold/)
 * [Paul Erdős](http://web.cs.elte.hu/erdos/)
 * [Remembering Richard Guy](https://science.ucalgary.ca/mathematics-statistics/about/richard-guy):Richard Guy 于2020年3月9日去世，享年103岁
-* [Martin Gardner](http://martin-gardner.org/)
+
+* [Martin Gardner](http://martin-gardner.org/):一大堆数学家的homepage
 
 
 * [一些数学家的interviews](https://www.ocf.berkeley.edu/~lekheng/interviews/)
 * [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/):该博客上时常关注有数学界的一些新闻以及数学家
     * [Vladimir Voevodsky 1966-2017](https://www.math.columbia.edu/~woit/wordpress/?p=9591)主页上的Not Even Wrong还有其他的数学家的文章，以及一些数学家的博客（强烈推荐）
 
+* [People with a homepage](https://folk.ntnu.no/oyvinso/FDList/personshomepages.php)
 
 * [I Choose Math](https://ichoosemath.com/2012/08/22/bill-thurston-math-hero/):Bill Thurston, Math Hero.有关于Thurston的一些资料
     * [GEOMETRY AND THE IMAGINATION](http://web.math.princeton.edu/conference/Thurston60th/):A conference in honor of Bill Thurston's 60th Birthday
@@ -109,6 +114,11 @@
 * [Chicago undergraduate mathematics bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
 * [USTC基础数学修课指南](https://www.zhangjy9610.me/USTCdata-cn.html)
 * [Resources for Intro-Level Graduate Courses](https://www.math3ma.com/blog/resources-for-intro-level-graduate-courses)
+* OXFORD[Undergraduate Courses](https://courses.maths.ox.ac.uk/overview/undergraduate)
+
+
+
+
 ## 分析
 
 * [Curtis T McMullen](http://people.math.harvard.edu/~ctm/courses.html)超多的Notes,Dynamics and Geometry
@@ -240,7 +250,8 @@ Book by Dietmar A. Salamon
     * [Topics in Mathematics](http://archives.math.utk.edu/topics/):同样宝藏，强烈推荐："In these pages, you will find links to various WWW resources on Mathematics."
     
     
-    
+## 会议信息
+* [中科院国际会议服务平台CSP-学术会议网站建设系统](http://csp.escience.cn/dct/page/65537/__rpcsp0x2main!65537%7C0_action/65569/__rpcsp0x2Main!65537%7C0_subjectId/38/__rpcsp0x2Main!65537%7C0_action/confViewBySubject?)
 * [清华三亚国际数学论坛](http://www.tsimf.cn/meeting/cnindex?gid=116)
 
 ## Videos
@@ -557,12 +568,15 @@ DIFFERENTIAL GEOMETRY
     
     
 ## 美国
+
+
 * [Mathematics Department of the Rutgers](https://sites.math.rutgers.edu/)
     * [Yi-Zhi Huang](https://sites.math.rutgers.edu/~yzhuang/)老师是做数学物理的，他的
 Research Interests(from his homepage): I am mainly interested in the mathematical foundation of quantum field theory and its applications in algebra, topology, geometry, condensed matter physics and string theory. In the next few years, I will mostly work on the constructions and study of nonlinear sigma models and its applications in differential geometry and elliptic cohomology, the moduli space of two-dimensional conformal field theories and the applications of two-dimensional conformal field theories to quantum hall systems and topological quantum computation.以及Huang的两位学生：
         * [Liang Kong's Blog](https://kongliang.wordpress.com/)
         * [Fei Qi's homepage](https://sites.math.rutgers.edu/~fq15/)
     * [Doron Zeilberger](https://sites.math.rutgers.edu/~zeilberg/)组合数学理论计算机科学
+
 
 * [Mathematics Department of the Upenn](https://www.math.upenn.edu/)
     * [Seminars](https://www.math.upenn.edu/events/seminars)
@@ -571,20 +585,15 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Wolfgang Ziller](https://www.math.upenn.edu/~wziller/)有很好的微分几何和黎曼几何讲义
     * [CHING-LI CHAI](https://www.math.upenn.edu/~chai/)Algebra
 
+
 * [UCB](https://math.berkeley.edu/)
     * [Lawrence Craig Evans](https://math.berkeley.edu/~evans/): 上面有很好的PDE notes
 
-* [James A. Yorke](http://yorke.umd.edu/)
 
 * [Stanford](https://mathematics.stanford.edu/)：site:math.stanford.edu/~
     * [Ravi Vakil](http://math.stanford.edu/~vakil/)是The Rising Sea: Foundations Of Algebraic Geometry Notes的作者，以及Great articles and books的推荐
     * [上面的知乎讨论：哪些数学书让你相见恨晚？](https://www.zhihu.com/question/366915371/answer/978815409)
     * [Akshay Venkatesh](http://math.stanford.edu/~akshay/):number theory and various related topics
-
-* [David Mumford ](http://www.dam.brown.edu/people/mumford/)
-
-* [Anatole Katok](http://www.personal.psu.edu/axk29/)Dynamical Systems
-* [Rodolfo Gutiérrez-Romo](https://webusers.imj-prg.fr/~rodolfo.gutierrez/)geometry and dynamical systems
 
 
 * [Princeton](https://www.math.princeton.edu/):通过“site:web.math.princeton.edu/~”可搜索
@@ -616,12 +625,6 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [California Institute of Technology](http://pma.divisions.caltech.edu/research-and-academics/mathematics)
     * [Matilde Marcolli](http://www.its.caltech.edu/~matilde/):非交换几何、分形几何
 
-
-* [Alexandru Buium](https://www.math.unm.edu/~buium/)
-
-* [John Baez](http://math.ucr.edu/home/baez/alg_top/alg_top_web.pdf)
-
-
     
 * [Harvard](http://people.math.harvard.edu/)
     * [COLLOQUIA & SEMINARS](https://cmsa.fas.harvard.edu/seminars-and-colloquium/)
@@ -634,23 +637,20 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Noam D. Elkies](http://people.math.harvard.edu/~elkies/):Chess and Mathematics, Mathematical Problem Solving ，解析数论，高等数学
     * [Sebastien Vasey](http://people.math.harvard.edu/~sebv/):代数，范畴论，模型论
     * [Shlomo Sternberg](http://people.math.harvard.edu/~shlomo/)
-    * []()
-    * []()
-    * []()
-    * []()
- 
-    
-    
-    
+
+
 * [NYU Courant](https://www.math.nyu.edu/dynamic/)
     * [Jonathan Goodman](https://www.math.nyu.edu/faculty/goodman/index.html)
+
 
 * [uchicago](https://mathematics.uchicago.edu/)
     * [J.P. May](http://www.math.uchicago.edu/~may/)
     * [Everyday Mathematics ](http://everydaymath.uchicago.edu/)
 
+
 * [Michigan Math](https://lsa.umich.edu/math/people.html)
     * [Igor V. Dolgachev](http://www.math.lsa.umich.edu/~idolga/)
+
 
 * [Aise Johan de Jong](http://math.columbia.edu/~dejong/):The Stacks Project
     * [李超](http://www.math.columbia.edu/~chaoli/)
@@ -683,12 +683,20 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * []()
 
 
-
-
 * [Cornell Math Club](http://pi.math.cornell.edu/~mathclub/index.html)    
    
+* [David Mumford ](http://www.dam.brown.edu/people/mumford/)
+* [James A. Yorke](http://yorke.umd.edu/)
+* [Anatole Katok](http://www.personal.psu.edu/axk29/)Dynamical Systems
+* [Rodolfo Gutiérrez-Romo](https://webusers.imj-prg.fr/~rodolfo.gutierrez/)geometry and dynamical systems
+* [Alexandru Buium](https://www.math.unm.edu/~buium/)
+* [John Baez](http://math.ucr.edu/home/baez/alg_top/alg_top_web.pdf)
+
+
+
 
 ## 土地奖
+
 
 * [突破奖](https://breakthroughprize.org/)
     * [Larry Guth](http://math.mit.edu/~lguth/):辛几何、黎曼几何、调和分析以及组合几何
@@ -796,7 +804,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 
 
-
+### 图灵奖
 
 * [Turing Award](https://awards.acm.org/)
     * [Marvin Minsky](http://web.media.mit.edu/~minsky/)
@@ -875,6 +883,10 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Yann LeCun](https://wikipedia.tw.wjbk.site/baike-%E6%9D%A8%E7%AB%8B%E6%98%86):光学字符识别和计算机视觉上使用卷积神经网络 (CNN)，他也被称为卷积网络之父。
         * [Yann Le Cun](http://yann.lecun.com/)
 
+
+### Homepage
+
+
 * [杨强](http://www.cse.ust.hk/~qyang/)：“迁移学习”（transfer learning），“联邦学习”
 * [邢波](http://www.cs.cmu.edu/~epxing/):机器学习、计算生物学和统计方法;其三位博士生导师理查德·卡普（计算机学家,偏重理论），迈克尔·乔丹(计算机学家,偏重概率统计)，Stuart J. Russell（很好的计算机学家、哲学家）
 * [朱松纯](http://www.stat.ucla.edu/~sczhu/):Computer Vision, Statistical Modeling & Computing, Machine Learning, Cognition, Natural Language and Dialogue, AI, Robot Autonomy.师从著名数学家戴维·芒福德。
@@ -897,20 +909,6 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Demis Hassabis](http://demishassabis.com/):DeepMind 创始人
 
 * [Stuart Russell](http://people.eecs.berkeley.edu/~russell/):Researcher of Artificial Intelligence
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1045,25 +1043,9 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         * [Terry Winograd](http://hci.stanford.edu/winograd/):主要从事人工智能与心灵哲学领域的研究。开发了知名的自然语言理解程序SHRDLU
         * [Seymour Aubrey Papert](http://papert.org/):人工智能发展的其中一位先驱。他对智力的观点主要来自让·皮亚杰的影响。他在1968年从LISP语言的基础里创立Logo编程语言。
         * [Michael J. Freedman](https://www.cs.princeton.edu/~mfreed/):Research interests:   distributed systems, networking, security   
-        * []()
-        * []()
-        * []()
-        * []()         
+       
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+
         
 * [Alan Turing](http://www.turingarchive.org/)
 * [Charles Babbage](http://www.charlesbabbage.net/)
@@ -1120,6 +1102,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [the history of computing](http://ei.cs.vt.edu/~history/)
     * [History of Computers](https://history-computer.com/)
     * [Oral History of Computer Scientist](https://cn.bing.com/search?q=Oral%20History%20of%20pdf%20archive.computerhistory.org%2Fresources%2F&qs=n&form=QBRE&sp=-1&pq=oral%20history%20of%20pdf%20archive.computerhistory.org%2Fresources%2F&sc=0-58&sk=&cvid=94A31FCB026646CAAF21BC7E26D28B6E):有关计算机学家的访谈、传记
+
 
 ### 网络资源
 
