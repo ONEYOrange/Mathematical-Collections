@@ -36,6 +36,8 @@
     * [动力系统](#动力系统)
     * [数学物理](#数学物理)
     * [计算机](#计算机)
+        * [网络资源](#网络资源)
+        * [公开课](#公开课)
     * [经济学](#经济学)
 
 
@@ -1120,7 +1122,10 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [History of Computers](https://history-computer.com/)
     * [Oral History of Computer Scientist](https://cn.bing.com/search?q=Oral%20History%20of%20pdf%20archive.computerhistory.org%2Fresources%2F&qs=n&form=QBRE&sp=-1&pq=oral%20history%20of%20pdf%20archive.computerhistory.org%2Fresources%2F&sc=0-58&sk=&cvid=94A31FCB026646CAAF21BC7E26D28B6E):有关计算机学家的访谈、传记
 
+### 网络资源
 
+* [GitHub](https://github.com/topics/awesome)
+    * [GitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
 
 
 
@@ -1199,6 +1204,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
             * [Ravi Sethi](http://www2.cs.arizona.edu/~rsethi/)
             * [Jeffrey D. Ullman](http://infolab.stanford.edu/~ullman/)
 
+### 公开课
 
 * [Mooc](https://github.com/prakhar1989/awesome-courses)
     * [上海交通大学课程分享](https://github.com/CoolPhilChen/SJTU-Courses):里面还有其他高校的课程链接
@@ -1214,6 +1220,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
         * [值得留给子孙后代的计算机课程](https://zhuanlan.zhihu.com/p/39030715)
         * [CMU 计算机选课上有什么特别好的课程推荐？](https://www.zhihu.com/question/28249230)
         * [github:Open Source Society University](https://github.com/ossu/computer-science)
+
 
     
     
