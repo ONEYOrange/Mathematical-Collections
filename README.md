@@ -1115,6 +1115,14 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 * [GitHub](https://github.com/topics/awesome)
     * [GitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
+    * [GitHubDaily ](https://github.com/GitHubDaily/GitHubDaily)
+    * [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)分享 GitHub 上有趣、入门级的开源项目 
+    * [Trending](https://github.com/trending):See what the GitHub community is most excited about today.
+    * [Github Users Global Ranking.](https://wangchujiang.com/github-rank/)
+    * [Git Awards](http://git-awards.com/)Discover your ranking on GitHub
+    * [Github Trending](https://github-trending.com/):寻找最好的Github项目
+    * [papers-we-love](https://github.com/papers-we-love/papers-we-love)
+    * [Github星聚弃疗榜](https://github.com/zhaoolee/StarsAndClown)
 
 
 
