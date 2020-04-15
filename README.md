@@ -295,6 +295,7 @@ Book by Dietmar A. Salamon
 
 * Online:[Math seminars ](https://mathseminars.org/)
     * [Online Math Seminars by Ao Sun](http://math.mit.edu/~aosun/online_seminars.html)
+    * [Mathematics Seminars List by Jaume de Dios](https://jaume.dedios.cat/math-seminars/)
     
 
 * [Mathematics Department of the Upenn](https://www.math.upenn.edu/)
