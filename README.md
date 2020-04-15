@@ -21,8 +21,8 @@
     
 * [网路资源](#网路资源)
     * [网站](#网站)
-    * [会议信息](#会议信息)
     * [Videos](#Videos)
+    * [Seminars/Conferences](#Seminars/Conferences)  
     * [微盘](#微盘)
     * [论坛](#论坛)
 
@@ -32,12 +32,14 @@
     * [法德](#法德)
     * [美国](#美国)
     * [土地奖](#土地奖)
-    
-    
-* [Conferences](#Conferences)
+
+  
+
+
+* [分支](#分支)
     * [动力系统](#动力系统)
     * [数学物理](#数学物理)
-    * [计算机](#计算机)
+    * [计算机科学](#计算机科学)
         * [图灵奖](#图灵奖)
         * [Homepage](#Homepage)
         * [网络资源](#网络资源)
@@ -249,10 +251,6 @@ Book by Dietmar A. Salamon
 * [MATH RESOURCES](http://www.barry.edu/learning-center/math-lab-resources.html)
     * [Topics in Mathematics](http://archives.math.utk.edu/topics/):同样宝藏，强烈推荐："In these pages, you will find links to various WWW resources on Mathematics."
     
-    
-## 会议信息
-* [中科院国际会议服务平台CSP-学术会议网站建设系统](http://csp.escience.cn/dct/page/65537/__rpcsp0x2main!65537%7C0_action/65569/__rpcsp0x2Main!65537%7C0_subjectId/38/__rpcsp0x2Main!65537%7C0_action/confViewBySubject?)
-* [清华三亚国际数学论坛](http://www.tsimf.cn/meeting/cnindex?gid=116)
 
 ## Videos
 
@@ -292,9 +290,34 @@ Book by Dietmar A. Salamon
 
 
 
+## Seminars/Conferences
+
+
+* Online:[Math seminars ](https://mathseminars.org/)
+    * [Online Math Seminars by Ao Sun](http://math.mit.edu/~aosun/online_seminars.html)
+    
+
+* [Mathematics Department of the Upenn](https://www.math.upenn.edu/)
+    * [Seminars](https://www.math.upenn.edu/events/seminars)
+* [Princeton](https://www.math.princeton.edu/):通过“site:web.math.princeton.edu/~”可搜索
+    * [Mathematics Department Seminars](https://web.math.princeton.edu/~seminar/seminar.html)
+* [Harvard](http://people.math.harvard.edu/)
+    * [COLLOQUIA & SEMINARS](https://cmsa.fas.harvard.edu/seminars-and-colloquium/)
+* [MIT](https://math.mit.edu/)
+    * [Seminars | MIT Mathematics](https://math.mit.edu/news/seminars/index.php)
+        * [MIT number theory seminar](https://math.mit.edu/nt/)
+        * [MIT Probability Seminar](https://math.mit.edu/seminars/probability/)
+        * [Physical Mathematics Seminar](https://math.mit.edu/seminars/pms/)
+        * [MIT Lie Groups Seminar](http://www-math.mit.edu/~dav/LG/)
 
 
 
+
+* [Conferences future, present, and past.](https://homepages.warwick.ac.uk/~masgar/conferences.html)
+* [Geometric Group Theory](http://web.math.ucsb.edu/~jon.mccammond/geogrouptheory/conferences.html)
+* [Conference Listings: Mathematics](https://conference-service.com/conferences/mathematics.html)
+* [中科院国际会议服务平台CSP-学术会议网站建设系统](http://csp.escience.cn/dct/page/65537/__rpcsp0x2main!65537%7C0_action/65569/__rpcsp0x2Main!65537%7C0_subjectId/38/__rpcsp0x2Main!65537%7C0_action/confViewBySubject?)
+* [清华三亚国际数学论坛](http://www.tsimf.cn/meeting/cnindex?gid=116)
 
 
 
@@ -721,20 +744,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 
 
-
-
-
-
-# Conferences
-
-* [Conferences future, present, and past.](https://homepages.warwick.ac.uk/~masgar/conferences.html)
-* [Geometric Group Theory](http://web.math.ucsb.edu/~jon.mccammond/geogrouptheory/conferences.html)
-* [Conference Listings: Mathematics](https://conference-service.com/conferences/mathematics.html)
-* [中科院国际会议服务平台CSP](http://csp.escience.cn/dct/page/65537/__rpcsp0x2Main!65537%7C0_action/confListMainView?)
-* []()
-* []()
-* []()
-
+# 分支
 
 
 ## 动力系统
@@ -804,7 +814,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 
 
-## 计算机
+## 计算机科学
 
 
 * [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)：CS公开课汇集，强烈推荐
