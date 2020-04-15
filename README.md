@@ -301,6 +301,7 @@ Book by Dietmar A. Salamon
     * [Seminars](https://www.math.upenn.edu/events/seminars)
 * [Princeton](https://www.math.princeton.edu/):通过“site:web.math.princeton.edu/~”可搜索
     * [Mathematics Department Seminars](https://web.math.princeton.edu/~seminar/seminar.html)
+    * [Seminars | Math](https://www.math.princeton.edu/events/seminars)
 * [Harvard](http://people.math.harvard.edu/)
     * [COLLOQUIA & SEMINARS](https://cmsa.fas.harvard.edu/seminars-and-colloquium/)
 * [MIT](https://math.mit.edu/)
@@ -309,8 +310,9 @@ Book by Dietmar A. Salamon
         * [MIT Probability Seminar](https://math.mit.edu/seminars/probability/)
         * [Physical Mathematics Seminar](https://math.mit.edu/seminars/pms/)
         * [MIT Lie Groups Seminar](http://www-math.mit.edu/~dav/LG/)
-
-
+* [Stanford](https://mathematics.stanford.edu/)
+    * [Math Department Seminars](https://mathematics.stanford.edu/events/math-department-seminars)
+* [PIMS Seminars](https://www.pims.math.ca/scientific/seminars):seminars offered by Mathematics Departments at PIMS' member universities, and hosted or supported by PIMS. 
 
 
 * [Conferences future, present, and past.](https://homepages.warwick.ac.uk/~masgar/conferences.html)
