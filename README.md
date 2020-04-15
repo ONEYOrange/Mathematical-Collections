@@ -22,7 +22,7 @@
 * [网路资源](#网路资源)
     * [网站](#网站)
     * [Videos](#Videos)
-    * [Seminars/Conferences](#Seminars/Conferences)  
+    * [Seminars & Conferences](#Seminars & Conferences)  
     * [微盘](#微盘)
     * [论坛](#论坛)
 
@@ -290,7 +290,7 @@ Book by Dietmar A. Salamon
 
 
 
-## Seminars/Conferences
+## Seminars & Conferences
 
 
 * Online:[Math seminars ](https://mathseminars.org/)
