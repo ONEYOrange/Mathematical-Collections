@@ -314,7 +314,8 @@ Book by Dietmar A. Salamon
 * [Stanford](https://mathematics.stanford.edu/)
     * [Math Department Seminars](https://mathematics.stanford.edu/events/math-department-seminars)
 * [PIMS Seminars](https://www.pims.math.ca/scientific/seminars):seminars offered by Mathematics Departments at PIMS' member universities, and hosted or supported by PIMS. 
-
+* [Oxford Mathematics](https://www.maths.ox.ac.uk/events/list)
+    * [Departmental Seminars](https://www.maths.ox.ac.uk/events/list)
 
 * [Conferences future, present, and past.](https://homepages.warwick.ac.uk/~masgar/conferences.html)
 * [Geometric Group Theory](http://web.math.ucsb.edu/~jon.mccammond/geogrouptheory/conferences.html)
