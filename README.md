@@ -114,6 +114,7 @@
     * [What books must every math undergraduate read?](https://math.stackexchange.com/questions/94827/what-books-must-every-math-undergraduate-read?noredirect=1)
     
 * [Chicago undergraduate mathematics bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
+* [The Napkin project by Evan Chen (陳誼廷) ](https://web.evanchen.cc/napkin.html):aimed at making higher math accessible to high school students. 
 * [USTC基础数学修课指南](https://www.zhangjy9610.me/USTCdata-cn.html)
 * [Resources for Intro-Level Graduate Courses](https://www.math3ma.com/blog/resources-for-intro-level-graduate-courses)
 * OXFORD[Undergraduate Courses](https://courses.maths.ox.ac.uk/overview/undergraduate)
