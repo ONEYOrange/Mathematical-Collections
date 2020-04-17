@@ -810,7 +810,8 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [John_Von_Neumann](http://www.gravitywarpdrive.com/Philadelphia-Experiment-and-Montauk/Dr_John_Von_Neumann.htm)
 
 
-
+* Stanford Encyclopedia of Philosophy[Quantum Field Theory](https://plato.stanford.edu/entries/quantum-field-theory/)
+    * 97年IAS的QFT Seminars(大师云集):[Quantum Field Theory program at IAS: Spring Term](https://www.math.ias.edu/QFT/spring/index.html)
 
 
 * [UPenn:String-Math](https://www.math.upenn.edu/StringMath2011/)
