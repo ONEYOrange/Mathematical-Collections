@@ -297,7 +297,7 @@ Book by Dietmar A. Salamon
 * Online:[Math seminars ](https://mathseminars.org/)
     * [Online Math Seminars by Ao Sun](http://math.mit.edu/~aosun/online_seminars.html)
     * [Mathematics Seminars List by Jaume de Dios](https://jaume.dedios.cat/math-seminars/)
-    
+* [SINGACOM](http://www.singacom.uva.es/EN/): SINGACOM is a research group with head at the Deparment of Algebra, Mathematical Analysis, Geometry and Topology (Science Faculty, University of Valladolid), however it includes research people from other Deparments of the University of Valladolid and other Universities.In this web you will find information on our activities and our research themes.   
 
 * [Mathematics Department of the Upenn](https://www.math.upenn.edu/)
     * [Seminars](https://www.math.upenn.edu/events/seminars)
