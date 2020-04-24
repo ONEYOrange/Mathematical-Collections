@@ -1141,7 +1141,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Github星聚弃疗榜](https://github.com/zhaoolee/StarsAndClown)
     * [Github 中国和全球用户排名](https://github.com/jaywcjlove/github-rank)
 
-
+* Department of Computer Science and Technology[Project suggestions](https://www.cst.cam.ac.uk/teaching/masters/projects/suggestions)
 
 * [Kevin Duh](http://cs.jhu.edu/~kevinduh/teaching.html):Research Career Tips很值得一看
 
