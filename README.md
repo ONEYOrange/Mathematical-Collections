@@ -271,6 +271,11 @@ Book by Dietmar A. Salamon
 * [Videos of CMSA lectures, seminars and interviews.](http://cmsablog.fas.harvard.edu/category/videos/)
 * [Math video links](http://users.mai.liu.se/vlatk48/links.html)
 * [中科院开放资源平台](http://oa.las.ac.cn/oainone/service/browseall/read1?ptype=CE&workid=CE201805041000023SX):上面可以看到中科院数学所的数学所讲座
+* [Harvard Mathematics Department Faculty Colloquium](http://abel.harvard.edu/fc/index.html):  Since fall 2005, "Basic Notions Seminars" are also called "Faculty Colloquia".  
+    * [Harvard Mathematics Department Trivial Notions Archive](http://abel.harvard.edu/trivialnotions/index.html)
+    * [Basic Notions Seminar Series](https://www.ictp.it/research/math/basic-notions-seminar.aspx)
+    * [ICTP Mathematics Basic Notions Seminar](https://www.youtube.com/playlist?list=PLLq_gUfXAnknYZ7B6oTI9zT4i0tMhUzZK)
+* []()
 * []()
 * [Mathematical Physics Preprint Archive](https://web.ma.utexas.edu/mp_arc/):research papers in Mathematical Physics and related areas
 * [Mathematics Today](http://mathematicstoday.org/archives.aspx):A Peer Reviewed International Journal for Mathematical Science
