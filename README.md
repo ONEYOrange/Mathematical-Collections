@@ -914,6 +914,8 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 ### Homepage
 
+* [Microsoft academic](https://academic.microsoft.com/home):网站提供了基于引用给出的研究者排名、会议、期刊等信息。
+
 
 * [杨强](http://www.cse.ust.hk/~qyang/)：“迁移学习”（transfer learning），“联邦学习”
 * [邢波](http://www.cs.cmu.edu/~epxing/):机器学习、计算生物学和统计方法;其三位博士生导师理查德·卡普（计算机学家,偏重理论），迈克尔·乔丹(计算机学家,偏重概率统计)，Stuart J. Russell（很好的计算机学家、哲学家）
@@ -1419,16 +1421,46 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
 
 
 
+* [web.archive.org/](https://web.archive.org/web/20190214122341/https://databasetheory.org/dbcolumn)
+    * [A website on the Theoretical Foundations of Data Management](https://web.archive.org/web/20190130053548/https://databasetheory.org/)：推荐优先阅读
+* [CMU DATABASE GROUP](https://db.cs.cmu.edu/)
+    * [CMU 15-721 Database Management Systems](http://www.cs.cmu.edu/~natassa/courses/15-721/)：强烈推荐
+        * [Advanced Topics in Database Systems Performance Spring 2001](http://www.cs.cmu.edu/~natassa/courses/15-823/S01/lectures/5_CC.pdf)
+    * [Dan Suciu](https://homes.cs.washington.edu/~suciu/)    
+        * [Washington CSE544: Principles of DBMS](https://courses.cs.washington.edu/courses/cse544/15wi/content/Readinglist.html)
+        * [cse544](https://courses.cs.washington.edu/courses/cse544/09wi/lecture-notes/lecture6/lecture6.html)
+        * [cse544/09au](https://courses.cs.washington.edu/courses/cse544/09au/lecture-notes/lecture5/lecture5.html)
+    * [Hosagrahar V. Jagadish](https://web.eecs.umich.edu/~jag/)
+        * [Umich EECS 584: Advanced Database Systems, Fall 2011](https://web.eecs.umich.edu/~michjc/eecs584/schedule.html)
+        * [Lecture "Multimedia Databases"](http://www.ifis.cs.tu-bs.de/teaching/ss-16/mmdb)
+    * Index of Bibliography Topics[University of Waterloo Database System ](https://cs.uwaterloo.ca/~kmsalem/lib/)
+* [Who are some of the most famous database researchers?](https://www.quora.com/Who-are-some-of-the-most-famous-database-researchers)
+    * [Héctor García-Molina](http://infolab.stanford.edu/people/hector.html)
+    * [Jennifer Widom](https://cs.stanford.edu/people/widom/)
+        * [Update on Stanford's Databases MOOC](https://cs.stanford.edu/people/widom/DB-mooc.html)
+        * [CS102: Working With Data - Tools and Techniques](https://web.stanford.edu/class/cs102/)
+        * [CS 345, Winter 2014: Topics in Database Management Systems](https://web.stanford.edu/class/cs345d-01/）
+    * [Michael Stonebraker](https://www.csail.mit.edu/person/michael-stonebraker)
+        * MIT[Data Systems Group](https://www.csail.mit.edu/research/data-systems-group)
+        * Michael Stonebraker[MIT 6-830-database-systems-fall-2010](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/)
 
+* [David J. DeWitt](http://pages.cs.wisc.edu/~dewitt/)
+    * [David J. DeWitt]((http://pages.cs.wisc.edu/~pubs/faculty-info/dewitt.html)
+        * [MapReduce: A major step backwards By David DeWitt](https://homes.cs.washington.edu/~billhowe/mapreduce_a_major_step_backwards.html)
+    * [Jeffrey F. Naughton](http://pages.cs.wisc.edu/~naughton/)
+        * [DBMS Research:First 50 Years,Next 50 Years ](http://lazowska.cs.washington.edu/naughtonicde.pdf)
+    * [Raghu Ramakrishnan](http://pages.cs.wisc.edu/~raghu/raghu.teaching.html)
+        * [openAccess](http://pages.cs.wisc.edu/~dbbook/openAccess/thirdEdition/slides/slides3ed.html)
+    * [CS 764, Fall 2019: Topics in Database Management Systems](http://pages.cs.wisc.edu/~cs764-1/)
+    * [CS 744 Big Data Systems - UW Madison, Fall 2018](http://pages.cs.wisc.edu/~shivaram/cs744-readings/):readings 有诸如mapreduce等的论文资料。
+* UCB [Michael J. Franklin](https://people.eecs.berkeley.edu/~franklin/)
+    * [Joseph M. Hellerstein](https://dsf.berkeley.edu/jmh/index.html)
+        * [CS186 (Fa '17): Intro to Database Systems](https://sites.google.com/site/cs186fall17/)
+    * UMD [CMSC724: Database Management Systems](https://www.cs.umd.edu/class/spring2012/cmsc724/index.html)
+    * [CMSC724: Database Management Systems](http://www.cs.umd.edu/~amol/724-spring2011/schedule.html)
 
-* [CS 744 Big Data Systems - UW Madison, Fall 2018](http://pages.cs.wisc.edu/~shivaram/cs744-readings/):readings 有诸如mapreduce等的论文资料。
 * [CS 251: Data Analysis and Visualization](http://www.cs.colby.edu/courses/S17/cs251/index.php):主页上有数据集的链接，省去了找的麻烦。
-
-
-
-
-
-
+* Purdue[CS 54100: Database Systems](https://www.cs.purdue.edu/homes/clifton/cs541/)
 
 
 
