@@ -1421,8 +1421,8 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
 
 
 
-
-
+* [CS 744 Big Data Systems - UW Madison, Fall 2018](http://pages.cs.wisc.edu/~shivaram/cs744-readings/):readings 有诸如mapreduce等的论文资料。
+* [CS 251: Data Analysis and Visualization](http://www.cs.colby.edu/courses/S17/cs251/index.php):主页上有数据集的链接，省去了找的麻烦。
 
 
 
