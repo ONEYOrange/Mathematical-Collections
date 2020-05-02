@@ -1300,9 +1300,11 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Caltech - Introduction to Computing Systems](http://courses.cms.caltech.edu/cs24/19fa/)
         * [Video](https://www.bilibili.com/video/BV1gx411y71o)
     * [计算机程序的构造和解释(SICP)Structure and Interpretation of Computer Programs](https://github.com/DeathKing/Learning-SICP)
+        * 北大的[裘宗燕](http://www.math.pku.edu.cn/teachers/qiuzy/)主页上有很多有关于程序语言设计的课程资料，强烈推荐。
         * [Structure and Interpretation of Computer Programs second edition](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
         * [非官方的HTML5版本](https://sarabander.github.io/sicp/)
-        * [SICP Python 描述 中文版](https://github.com/wizardforcel/sicp-py-zh)
+        * [DeathKing/Learning-SICP](https://github.com/DeathKing/Learning-SICP):MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
+        * 基于UCB CS61a SICP Python的[SICP Python 描述 中文版](https://github.com/wizardforcel/sicp-py-zh)
         * [UCB CS61A Python](http://composingprograms.com/)
         * [NUS CS1101S: Programming Methodology](https://www.comp.nus.edu.sg/~cs1101s/)
             * [JavaScript版](https://sicp.comp.nus.edu.sg/)
