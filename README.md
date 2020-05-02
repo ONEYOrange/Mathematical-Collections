@@ -1444,7 +1444,9 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
         * [CS 345, Winter 2014: Topics in Database Management Systems](https://web.stanford.edu/class/cs345d-01/）
     * [Michael Stonebraker](https://www.csail.mit.edu/person/michael-stonebraker)
         * MIT[Data Systems Group](https://www.csail.mit.edu/research/data-systems-group)
-        * Michael Stonebraker[MIT 6-830-database-systems-fall-2010](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/)
+        * [Readings in Database Systems Fourth Edition](http://www.redbook.io/archive/)the web supplement to Readings in Database Systems, 4th Edition.强烈推荐
+            * [Readings in Database Systems, 5th Edition by Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker, editors](http://www.redbook.io/)
+        * [MIT 6-830-database-systems-fall-2010](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/)
 
 * [David J. DeWitt](http://pages.cs.wisc.edu/~dewitt/)
     * [David J. DeWitt]((http://pages.cs.wisc.edu/~pubs/faculty-info/dewitt.html)
