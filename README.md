@@ -377,6 +377,7 @@ Book by Dietmar A. Salamon
 ## 俄罗斯
 
 * [数学学术宗谱](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=17512)
+    * [MathNet.ru-People](http://www.mathnet.ru/php/person.phtml?option_lang=eng):结合这两个，可以找到数学家的主页。
 * [Mir Books](https://mirtitles.org/)
     * [Soviet Russian mathematics books](https://math.stackexchange.com/questions/856980/soviet-russian-mathematics-books#)
 
