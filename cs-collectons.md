@@ -11,6 +11,7 @@ cs-collectons
     * [Homepage](#Homepage)
     * [网络资源](#网络资源)
     * [公开课](#公开课)
+* 竞赛(#竞赛)
    
 <!-- END_TOC -->
 
@@ -656,3 +657,23 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
 
 * [CS 251: Data Analysis and Visualization](http://www.cs.colby.edu/courses/S17/cs251/index.php):主页上有数据集的链接，省去了找的麻烦。
 * Purdue[CS 54100: Database Systems](https://www.cs.purdue.edu/homes/clifton/cs541/)
+
+
+# 竞赛
+
+* [Kaggle](https://www.kaggle.com/)
+* [KDD Cup ](https://www.kdd.org/kdd-cup)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
