@@ -5,8 +5,7 @@ cs-collectons
 # 目录
  
 <!-- START_TOC -->
-* [目录](#目录)
-    
+* [目录](#目录)    
 * [计算机科学](#计算机科学)
     * [图灵奖](#图灵奖)
     * [Homepage](#Homepage)
