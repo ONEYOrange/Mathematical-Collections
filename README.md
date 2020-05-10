@@ -377,6 +377,8 @@ Book by Dietmar A. Salamon
 ## 俄罗斯
 
 * [数学学术宗谱](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=17512)
+* [Mir Books](https://mirtitles.org/)
+    * [Soviet Russian mathematics books](https://math.stackexchange.com/questions/856980/soviet-russian-mathematics-books#)
 
 * [Kolmogorov](http://www.kolmogorov.com/)
 
@@ -397,19 +399,27 @@ Book by Dietmar A. Salamon
 
 
 * [Igor Rostislavovich Shafarevic](http://www.mi-ras.ru/~shafarev/)
-
     * [Igor V. Dolgachev](http://www.math.lsa.umich.edu/~idolga/): Shafarevich的学生，他主页上有很不错的关于代数几何、物理学的note
     * [Yuriy Drozd](https://www.imath.kiev.ua/~drozd/)
 
+* [Misha Gromov](https://www.ihes.fr/~gromov/)
+    * [gromov pdf file](https://cims.nyu.edu/~gromov/)
 
+* [Eugene B. Dynkin](http://pi.math.cornell.edu/~ebd/)
 
-
-
+* [Andrei Okounkov](https://web.math.princeton.edu/~okounkov/)
+    * [Andrei Okounkov's web page](http://www.math.columbia.edu/~okounkov/)
+    
+* [Vladimir Berkovich](http://www.wisdom.weizmann.ac.il/~vova/)  
+* [Novikov, Sergei Petrovich](http://www.mi-ras.ru/~snovikov/index.html)
+* [ Alexey Gorodentsev](http://gorod.bogomolov-lab.ru/index.html)
+    
 
 * [朗道理论物理研究所](http://www.itp.ac.ru/en/staff-scientists/)
     * 沃尔夫奖（1997）、阿贝尔奖得主（2004）[Yakov Grigorevich Sinai](https://wikipedia.tw.wjbk.site/baike-%E9%9B%85%E7%A7%91%E5%A4%AB%C2%B7%E8%A5%BF%E5%A5%88)，研究领域是动力系统、数学物理以及遍历论
 * [Sobolev Institute of Mathematics](http://math.nsc.ru/en/map.html)里面有纪念的Memorial pages
     * [S. L. Sobolev](http://www.math.nsc.ru/persons/sob/engl.html)
+        * [Sergei L'vovich Sobolev](http://www.math.nsc.ru/LBRT/u2/sob/s0en.html)
     * [L. V. Kantorovich](http://math.nsc.ru/persons/Kanten.html)
 
 ## 国内
