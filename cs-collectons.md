@@ -11,7 +11,7 @@ cs-collectons
     * [Homepage](#Homepage)
     * [网络资源](#网络资源)
     * [公开课](#公开课)
-* 竞赛(#竞赛)
+* [竞赛](#竞赛)
    
 <!-- END_TOC -->
 
