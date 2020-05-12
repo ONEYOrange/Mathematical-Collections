@@ -12,6 +12,7 @@ cs-collectons
     * [网络资源](#网络资源)
     * [公开课](#公开课)
 * [竞赛](#竞赛)
+* [数据科学](#数据科学)
    
 <!-- END_TOC -->
 
@@ -664,7 +665,14 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
 * [Kaggle](https://www.kaggle.com/)
 * [KDD Cup ](https://www.kdd.org/kdd-cup)
 
+# 数据科学
 
+## Python
+
+* [pandas](https://pandas.pydata.org/)
+     * [Wes McKinney](https://wesmckinney.com/)
+     * [知乎：Python for Data Analysis](https://zhuanlan.zhihu.com/p/90273631)
+     * []()
 
 
 
