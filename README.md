@@ -118,7 +118,9 @@
 * [USTC基础数学修课指南](https://www.zhangjy9610.me/USTCdata-cn.html)
 * [Resources for Intro-Level Graduate Courses](https://www.math3ma.com/blog/resources-for-intro-level-graduate-courses)
 * OXFORD[Undergraduate Courses](https://courses.maths.ox.ac.uk/overview/undergraduate)
-
+* [有哪些数学方面的网络百科全书？](https://www.zhihu.com/question/292261212)
+   * wolfram[The Web's Most Extensive Mathematics Resource](https://mathworld.wolfram.com/)
+   *  苏联出版的10卷本数学百科全书的英译在线版[Encyclopedia of Mathematics](https://www.encyclopediaofmath.org/index.php/Main_Page)
 
 
 
