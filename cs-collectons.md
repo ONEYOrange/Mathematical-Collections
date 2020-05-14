@@ -14,7 +14,7 @@ cs-collectons
 * [竞赛](#竞赛)
 * [数据科学](#数据科学)
     * [Python](#Python)
-    * [Data visualization](#Data visualization)
+    * [Datavisualization](#Datavisualization)
    
 <!-- END_TOC -->
 
@@ -681,7 +681,7 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
      * [知乎：Python for Data Analysis](https://zhuanlan.zhihu.com/p/90273631)
      * []()
 
-## Data visualization
+## Datavisualization
 
 * [Data visualization](https://en.wikipedia.org/wiki/Data_visualization)
     * [William S. Cleveland](https://www.stat.purdue.edu/~wsc/)：《Visualizing Data》
