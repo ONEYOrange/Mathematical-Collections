@@ -13,6 +13,8 @@ cs-collectons
     * [公开课](#公开课)
 * [竞赛](#竞赛)
 * [数据科学](#数据科学)
+    * [Python](#Python)
+    * [Data visualization](#Data visualization)
    
 <!-- END_TOC -->
 
@@ -674,10 +676,24 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
      * [知乎：Python for Data Analysis](https://zhuanlan.zhihu.com/p/90273631)
      * []()
 
+## Data visualization
 
-
-
-
+* [Data visualization](https://en.wikipedia.org/wiki/Data_visualization)
+    * [William S. Cleveland](https://www.stat.purdue.edu/~wsc/)：《Visualizing Data》
+    * [Kieran Healy](https://kieranhealy.org/):《Data Visualization: A Practical Introduction.》
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+* Stanford[CS 448B Visualization (Winter 2020)](https://magrawala.github.io/cs448b-wi20/)
+* Washington[CSE442: Data Visualization](https://courses.cs.washington.edu/courses/cse442/)
+    * [Interactive Data Visualization for the Web, 2nd Edition](https://explore.safaribooksonline.com/book/databases/business-intelligence/9781491921296)
+    * [CSE512](https://courses.cs.washington.edu/courses/cse512/14wi/)
+* [CS765 - Data Visualization - Fall 2019](https://graphics.cs.wisc.edu/WP/vis19/schedule/)
+* [CS 7450 - Information Visualization](https://www.cc.gatech.edu/~stasko/7450/index.html)
+* Harvard[CS171 Visualization - Fall 2019](https://www.cs171.org/2019/resources/)
 
 
 
