@@ -642,6 +642,9 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
         * [Readings in Database Systems Fourth Edition](http://www.redbook.io/archive/)the web supplement to Readings in Database Systems, 4th Edition.强烈推荐
             * [Readings in Database Systems, 5th Edition by Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker, editors](http://www.redbook.io/)
         * [MIT 6-830-database-systems-fall-2010](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/)
+        * [《Architecture of a Database System》（中文版）](http://dblab.xmu.edu.cn/post/architecture-of-a-database-system/)
+        * []()
+        * []()
 
 * [David J. DeWitt](http://pages.cs.wisc.edu/~dewitt/)
     * [David J. DeWitt]((http://pages.cs.wisc.edu/~pubs/faculty-info/dewitt.html)
