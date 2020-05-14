@@ -130,6 +130,7 @@
 
 * [William G. Faris](https://www.math.arizona.edu/~faris/):Articles,Books,Notes。其中Book Reviews非常值得一看。
     * [Southwest Center for Arithmetic Geometry](http://swc.math.arizona.edu/aws/2002/):关于算术几何的短期课程，上面有一些包括Pierre Deligne: “Periods for the Fundamental Group”的资料
+    * The Southwest Center for Arithmetic Geometry[Arizona Winter School 2017: Perfectoid Spaces](http://swc.math.arizona.edu/aws/2017/)
 
 * [Karen K. Uhlenbeck](https://web.ma.utexas.edu/users/uhlen/):PDE
 
@@ -763,10 +764,20 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 
 * [Maryam Mirzakhani](https://www.agnesscott.edu/lriddle/women/mirzakhani.htm):连结拓朴、几何和动力系统
-
-
-
-
+* [谁有希望获得 2018 菲尔兹奖?](https://www.zhihu.com/question/37714688)
+    * [2020年欧洲数学学会奖(EMS-Prize)公布，有哪些值得关注的数学新星？](https://www.zhihu.com/question/394842038)
+        * [7th European Congress of Mathematics Laureates](http://www.7ecm.de/prizes/laureates.html)
+        * [10 EMS Prizes, the Felix Klein Prize and the Otto Neugebauer Prize for 2020 announced](https://www.8ecm.si/news/69)
+        * [Simion Filip](https://math.uchicago.edu/~sfilip/)Dynamics and Rigidity
+        * [Phan Thành Nam](http://www.mathematik.uni-muenchen.de/~nam/)
+    * [2018世界数学家大会报告名单公布，能介绍一小时报告的主要工作吗？](https://www.zhihu.com/question/61154650)
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+py
 # 分支
 
 
