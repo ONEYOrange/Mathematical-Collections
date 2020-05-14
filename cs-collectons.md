@@ -670,7 +670,8 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
 # 数据科学
 
 ## Python
-
+* The Architecture of Open Source Applications(AOAS)[500 Lines or Less](https://book.douban.com/subject/26836475/):专注于 500 行或更少代码的小型项目
+    * [The Architecture of Open Source Applications](http://aosabook.org/en/):研究那些优秀的开源项目，从中吸取精华的实践经验。
 * [pandas](https://pandas.pydata.org/)
      * [Wes McKinney](https://wesmckinney.com/)
      * [知乎：Python for Data Analysis](https://zhuanlan.zhihu.com/p/90273631)
