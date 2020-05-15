@@ -620,6 +620,7 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
 
 * [web.archive.org/](https://web.archive.org/web/20190214122341/https://databasetheory.org/dbcolumn)
     * [A website on the Theoretical Foundations of Data Management](https://web.archive.org/web/20190130053548/https://databasetheory.org/)：推荐优先阅读
+* Google[Publication database](https://research.google/pubs/?area=distributed-systems-and-parallel-computing)
 * [CMU DATABASE GROUP](https://db.cs.cmu.edu/)
     * [CMU 15-721 Database Management Systems](http://www.cs.cmu.edu/~natassa/courses/15-721/)：强烈推荐
         * [Advanced Topics in Database Systems Performance Spring 2001](http://www.cs.cmu.edu/~natassa/courses/15-823/S01/lectures/5_CC.pdf)
