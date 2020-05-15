@@ -680,6 +680,12 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
      * [Wes McKinney](https://wesmckinney.com/)
      * [知乎：Python for Data Analysis](https://zhuanlan.zhihu.com/p/90273631)
      * []()
+* 正则表达式教程[learn-regex](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
+* [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
+* 爬虫[awesome-spider](https://github.com/facert/awesome-spider)
+    * [awesome-crawler](https://github.com/BruceDone/awesome-crawler)
+
+
 
 ## Datavisualization
 
