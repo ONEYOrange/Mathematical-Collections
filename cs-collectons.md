@@ -11,6 +11,7 @@ cs-collectons
     * [Homepage](#Homepage)
     * [网络资源](#网络资源)
     * [公开课](#公开课)
+        * [数据库](#数据库)
 * [竞赛](#竞赛)
 * [数据科学](#数据科学)
     * [Python](#Python)
@@ -616,7 +617,24 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
     * [MIT6.828:Operating Systems](https://pdos.csail.mit.edu/6.828/2018/schedule.html)
 
 
+### 数据库
 
+* [2019 年你读了哪些觉得比较好的计算机书籍？](https://www.zhihu.com/question/361165485)
+    * [PingCAP University](https://university.pingcap.com/)
+        * [Talent Plan ](https://university.pingcap.com/talent-plan/)
+    * [数据库有没有类似现代操作系统的好书？](https://www.zhihu.com/question/52498996/answer/130780246)
+        * [CMU 15-721](https://15721.courses.cs.cmu.edu/spring2016/schedule.html):可以学到如何实现一个高性能的OLAP&OLTP内存数据库
+        * [全书：Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom: Database systems - the complete book (2. ed.)](http://infolab.stanford.edu/~ullman/dscb.html)
+            * [	Database Systems: The Complete Book](http://infolab.stanford.edu/~ullman/dscb.html)
+        * [奶牛书：Raghu Ramakrishnan, Johannes Gehrke: Database management systems (3. ed.)](https://book.douban.com/subject/2252163/)
+            * BOOK-page[Database Management Systems by Raghu Ramakrishnan and Johannes Gehrke](http://pages.cs.wisc.edu/~dbbook/)
+            * [Raghu Ramakrishnan](http://pages.cs.wisc.edu/~raghu/)
+        * [The Alice Book: Foundations of Database Serge Abiteboul, Richard Hull, Victor Vianu](http://webdam.inria.fr/Alice/)
+        * [帆船书：Abraham Silberschatz, Henry F. Korth, S. Sudarshan: Database System Concepts, 6th Edition](https://book.douban.com/subject/30345517/)
+        * [M. Tamer Özsu, Patrick Valduriez: Principles of Distributed Database Systems](https://book.douban.com/subject/26851605/)中文翻译称为《分布式系统原理与范型》https://book.douban.com/subject/1187371/
+            * [M. Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/)
+        * [Jim Gray, Andreas Reuter: Transaction Processing: Concepts and Techniques](https://book.douban.com/subject/3651015/)
+            * [Transaction Processing Concepts and Techniques Western Institute of Computer Science](http://jimgray.azurewebsites.net/WICS_99_TP/):http://jimgray.azurewebsites.net/WICS_96_TP/
 
 * [web.archive.org/](https://web.archive.org/web/20190214122341/https://databasetheory.org/dbcolumn)
     * [A website on the Theoretical Foundations of Data Management](https://web.archive.org/web/20190130053548/https://databasetheory.org/)：推荐优先阅读
