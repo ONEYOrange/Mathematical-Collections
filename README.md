@@ -631,7 +631,7 @@ DIFFERENTIAL GEOMETRY
     * [Yi-Zhi Huang](https://sites.math.rutgers.edu/~yzhuang/)老师是做数学物理的，他的
 Research Interests(from his homepage): I am mainly interested in the mathematical foundation of quantum field theory and its applications in algebra, topology, geometry, condensed matter physics and string theory. In the next few years, I will mostly work on the constructions and study of nonlinear sigma models and its applications in differential geometry and elliptic cohomology, the moduli space of two-dimensional conformal field theories and the applications of two-dimensional conformal field theories to quantum hall systems and topological quantum computation.以及Huang的两位学生：
         * [Liang Kong's Blog](https://kongliang.wordpress.com/)
-        * [Fei Qi's homepage](https://sites.math.rutgers.edu/~fq15/)
+        * [Fei Qi's homepage](https://gauss.math.yale.edu/~fq28/)
     * [Doron Zeilberger](https://sites.math.rutgers.edu/~zeilberg/)组合数学理论计算机科学
 
 
