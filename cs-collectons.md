@@ -25,7 +25,8 @@ cs-collectons
 
 
 * [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)：CS公开课汇集，强烈推荐
-
+* [Computer Pioneers](https://history.computer.org/pioneers/)
+    * [Computer inventors and pioneers](https://www.computerhope.com/people/)
 
 
 ## 图灵奖
