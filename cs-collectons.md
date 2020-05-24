@@ -696,6 +696,9 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
 * The Architecture of Open Source Applications(AOAS)[500 Lines or Less](https://book.douban.com/subject/26836475/):专注于 500 行或更少代码的小型项目
     * Stanford[Database System Implementation CS346 Spring 2015](https://web.stanford.edu/class/cs346/2015/)
     * [The Architecture of Open Source Applications](http://aosabook.org/en/):研究那些优秀的开源项目，从中吸取精华的实践经验。
+* 豆瓣9.0[Problem Solving with Algorithms and Data Structures Using Python](https://book.douban.com/subject/3098386/)
+    * [免费的网页版 可以在浏览器内编辑并运行python代码 ](https://runestone.academy/runestone/books/published/pythonds/index.html)
+    * Examples and work from Problem Solving with Algorithms and Data Structures Using Python[ErikRHanson](https://github.com/ErikRHanson/Problem-Solving-with-Algorithms-and-Data-Structures-Using-Python)
 * [pandas](https://pandas.pydata.org/)
      * [Wes McKinney](https://wesmckinney.com/)
      * [知乎：Python for Data Analysis](https://zhuanlan.zhihu.com/p/90273631)
