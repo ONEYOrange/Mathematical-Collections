@@ -65,6 +65,7 @@
 ## Interviews
 
 * [Arnold](http://www.pdmi.ras.ru/~arnsem/Arnold/)
+    * [On teaching mathematics by V.I. Arnold](https://www.uni-muenster.de/Physik.TP/~munsteg/arnold.html)
 * [Paul Erdős](http://web.cs.elte.hu/erdos/)
 * [Remembering Richard Guy](https://science.ucalgary.ca/mathematics-statistics/about/richard-guy):Richard Guy 于2020年3月9日去世，享年103岁
 
