@@ -683,7 +683,7 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
 
 * [CS 251: Data Analysis and Visualization](http://www.cs.colby.edu/courses/S17/cs251/index.php):主页上有数据集的链接，省去了找的麻烦。
 * Purdue[CS 54100: Database Systems](https://www.cs.purdue.edu/homes/clifton/cs541/)
-
+* [What every developer should know about SQL performance](https://use-the-index-luke.com/sql/preface)
 
 # 竞赛
 
