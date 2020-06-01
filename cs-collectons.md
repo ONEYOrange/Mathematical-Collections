@@ -345,6 +345,11 @@ cs-collectons
     * [papers-we-love](https://github.com/papers-we-love/papers-we-love)
     * [Github星聚弃疗榜](https://github.com/zhaoolee/StarsAndClown)
     * [Github 中国和全球用户排名](https://github.com/jaywcjlove/github-rank)
+    * [coding-interview-university](https://github.com/jwasham/coding-interview-university)
+        * [Interview = 简历指南 + LeetCode + Kaggle](https://github.com/apachecn/Interview)
+        * [interviews](https://github.com/kdn251/interviews)
+        * [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+        * [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
 
 * Department of Computer Science and Technology[Project suggestions](https://www.cst.cam.ac.uk/teaching/masters/projects/suggestions)
 
@@ -577,12 +582,18 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
         * [程序员应该如何学习算法？](https://www.zhihu.com/question/19981544/answer/596772712)
             * [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/#book)
        
-    * [大家都是如何刷 LeetCode 的？](https://github.com/azl397985856/leetcode)
-        * [LeetCode](https://github.com/azl397985856/leetcode)
-    * [Algorithms on GitHub](https://github.com/learn-anything/courses#algorithms):强烈推荐
+    * [大家都是如何刷 LeetCode 的？](https://www.zhihu.com/question/280279208)
+        * [LeetCode](https://github.com/azl397985856/leetcode)leetcode题解，记录自己的leetcode解题之路。
+        
+   
+   * [Algorithms on GitHub](https://github.com/learn-anything/courses#algorithms):强烈推荐
         * [CMU 15-451 (Algorithms), Fall 2010](http://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/):Taught by Manuel Blum who has a Turing Award due to his contributions to algorithms.
         * [Manuel Blum](http://www.cs.cmu.edu/~mblum/)
         * [fucking-algorithm](https://github.com/labuladong/fucking-algorithm):强烈推荐
+        * [VisuAlgo](https://visualgo.net/en)
+        * [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+        * [AlgoWiki](https://github.com/vicky002/AlgoWiki)
+    
     * [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/references/)
         * [Kevin Wayne:Lecture Slides for Algorithm Design](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
         * [Robert Sedgewick](https://www.cs.princeton.edu/~rs/)
