@@ -11,6 +11,7 @@ cs-collectons
     * [Homepage](#Homepage)
     * [网络资源](#网络资源)
     * [公开课](#公开课)
+        * [Algorithm](#Algorithm)
         * [数据库](#数据库)
 * [竞赛](#竞赛)
 * [数据科学](#数据科学)
@@ -558,7 +559,7 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
 
 
 
-
+### Algorithm
 
 * [邓俊辉](https://dsa.cs.tsinghua.edu.cn/~deng/)
 * [CMU group in Algorithms and Complexity Theory.](http://theory.cs.cmu.edu/)
@@ -569,13 +570,19 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
     * [算法导论（书籍）](https://www.zhihu.com/topic/19580938/top-answers)
         * [学习算法与数据结构，有什么比较好的 MOOC或者比较好的书籍推荐？](https://www.zhihu.com/question/34605825/answer/565671618)
         * [该直接上《算法导论》 还是先看完 《算法 第四版》？](https://www.zhihu.com/question/29316754)
+            * [Algorithms Illuminated](http://algorithmsilluminated.org/)
+            * [算法设计手册](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
         * [怎么学好数据结构？](https://www.zhihu.com/question/19830721/answer/667233164)
             * [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
+        * [程序员应该如何学习算法？](https://www.zhihu.com/question/19981544/answer/596772712)
+            * [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/#book)
+       
     * [大家都是如何刷 LeetCode 的？](https://github.com/azl397985856/leetcode)
         * [LeetCode](https://github.com/azl397985856/leetcode)
     * [Algorithms on GitHub](https://github.com/learn-anything/courses#algorithms):强烈推荐
         * [CMU 15-451 (Algorithms), Fall 2010](http://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/):Taught by Manuel Blum who has a Turing Award due to his contributions to algorithms.
         * [Manuel Blum](http://www.cs.cmu.edu/~mblum/)
+        * [fucking-algorithm](https://github.com/labuladong/fucking-algorithm):强烈推荐
     * [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/references/)
         * [Kevin Wayne:Lecture Slides for Algorithm Design](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
         * [Robert Sedgewick](https://www.cs.princeton.edu/~rs/)
