@@ -717,6 +717,7 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
 * 豆瓣9.0[Problem Solving with Algorithms and Data Structures Using Python](https://book.douban.com/subject/3098386/)
     * [免费的网页版 可以在浏览器内编辑并运行python代码 ](https://runestone.academy/runestone/books/published/pythonds/index.html)
     * Examples and work from Problem Solving with Algorithms and Data Structures Using Python[ErikRHanson](https://github.com/ErikRHanson/Problem-Solving-with-Algorithms-and-Data-Structures-Using-Python)
+    * [PDF格式](https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf)
 * [pandas](https://pandas.pydata.org/)
      * [Wes McKinney](https://wesmckinney.com/)
      * [知乎：Python for Data Analysis](https://zhuanlan.zhihu.com/p/90273631)
@@ -725,7 +726,7 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
 * [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
 * 爬虫[awesome-spider](https://github.com/facert/awesome-spider)
     * [awesome-crawler](https://github.com/BruceDone/awesome-crawler)
-
+* [Data Science Tutorials](https://datatofish.com/python-tutorials/):Python,R数据分析教程
 
 
 ## Datavisualization
