@@ -716,6 +716,7 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
     * [The Architecture of Open Source Applications](http://aosabook.org/en/):研究那些优秀的开源项目，从中吸取精华的实践经验。
 * 豆瓣9.0[Problem Solving with Algorithms and Data Structures Using Python](https://book.douban.com/subject/3098386/)
     * [免费的网页版 可以在浏览器内编辑并运行python代码 ](https://runestone.academy/runestone/books/published/pythonds/index.html)
+    * [Problem Solving with Algorithms and Data Structures using C++](http://cs.berea.edu/cppds/Introduction/toctree.html)
     * Examples and work from Problem Solving with Algorithms and Data Structures Using Python[ErikRHanson](https://github.com/ErikRHanson/Problem-Solving-with-Algorithms-and-Data-Structures-Using-Python)
     * [PDF格式](https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf)
 * [pandas](https://pandas.pydata.org/)
