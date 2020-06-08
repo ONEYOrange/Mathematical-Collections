@@ -17,7 +17,7 @@ cs-collectons
 * [数据科学](#数据科学)
     * [Python](#Python)
     * [Datavisualization](#Datavisualization)
-   
+* [实战](#实战)   
 <!-- END_TOC -->
 
 
@@ -749,9 +749,10 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
 * [CS 7450 - Information Visualization](https://www.cc.gatech.edu/~stasko/7450/index.html)
 * Harvard[CS171 Visualization - Fall 2019](https://www.cs171.org/2019/resources/)
 
+# 实战
 
+## 系统设计
 
-
-
-
+* 系统设计入门[The System Design Primer](https://github.com/donnemartin/system-design-primer)
+    * B站公开课：构建动态网站[哈佛大学可扩展性讲座](https://www.bilibili.com/video/BV1fp411o7wg?p=10)
 
