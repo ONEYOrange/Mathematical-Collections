@@ -15,9 +15,11 @@ cs-collectons
         * [数据库](#数据库)
 * [竞赛](#竞赛)
 * [数据科学](#数据科学)
+    * [Java](#Java)
     * [Python](#Python)
     * [Datavisualization](#Datavisualization)
-* [实战](#实战)   
+* [实战](#实战)
+    * [系统设计](#系统设计)
 <!-- END_TOC -->
 
 
@@ -709,6 +711,26 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
 * [KDD Cup ](https://www.kdd.org/kdd-cup)
 
 # 数据科学
+
+
+## Java
+
+* 「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识[JavaGuide](https://github.com/Snailclimb/JavaGuide)
+    * [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
+    * 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识[advanced-java](https://github.com/doocs/advanced-java)
+    * [awesome-java](https://github.com/akullpp/awesome-java)
+    * [All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java)
+    * Java面试+Java学习指南: 一份涵盖大部分Java程序员所需要掌握的核心知识。[JavaFamily](https://github.com/AobingJava/JavaFamily)
+    * To Be Top Javaer - Java工程师成神之路[toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer)
+
+
+
+
+
+
+
+
+
 
 ## Python
 * The Architecture of Open Source Applications(AOAS)[500 Lines or Less](https://book.douban.com/subject/26836475/):专注于 500 行或更少代码的小型项目
