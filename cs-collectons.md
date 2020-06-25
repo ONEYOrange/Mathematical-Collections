@@ -352,6 +352,7 @@ cs-collectons
         * [interviews](https://github.com/kdn251/interviews)
         * [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
         * [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
+        * [note-of-interview:互联网面试笔记](https://github.com/zhengjianglong915/note-of-interview)
 
 * Department of Computer Science and Technology[Project suggestions](https://www.cst.cam.ac.uk/teaching/masters/projects/suggestions)
 
