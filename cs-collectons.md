@@ -593,9 +593,10 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
         * [CMU 15-451 (Algorithms), Fall 2010](http://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/):Taught by Manuel Blum who has a Turing Award due to his contributions to algorithms.
         * [Manuel Blum](http://www.cs.cmu.edu/~mblum/)
         * [fucking-algorithm](https://github.com/labuladong/fucking-algorithm):强烈推荐
-        * [VisuAlgo](https://visualgo.net/en)
+        * 可视化[VisuAlgo](https://visualgo.net/en)
         * [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
         * [AlgoWiki](https://github.com/vicky002/AlgoWiki)
+        * [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/)
     
     * [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/references/)
         * [Kevin Wayne:Lecture Slides for Algorithm Design](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
