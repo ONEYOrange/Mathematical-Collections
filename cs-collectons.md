@@ -5,16 +5,24 @@ cs-collectons
 # 目录
  
 <!-- START_TOC -->
-* [目录](#目录)    
-* [计算机科学](#计算机科学)
-    * [图灵奖](#图灵奖)
+* [目录](#目录)
+* [个人推荐](#个人推荐)
+    * [计算机导论](#计算机导论)
+    * [编程语言](#编程语言)
+    * [数据结构与算法](#数据结构与算法)
+    * [计算机架构与计算机系统](#计算机架构与计算机系统)
+    * [计算机网络与安全](#计算机网络与安全)
+    * [数据库](#数据库)
+    * [数据科学](#数据科学)
+* [CS](#CS)
+    * [TuringAward](#TuringAward)
     * [Homepage](#Homepage)
     * [网络资源](#网络资源)
     * [公开课](#公开课)
         * [Algorithm](#Algorithm)
-        * [数据库](#数据库)
+        * [DataBase](#DataBase)
 * [竞赛](#竞赛)
-* [数据科学](#数据科学)
+* [DataScience](#DataScience)
     * [Java](#Java)
     * [Python](#Python)
     * [Datavisualization](#Datavisualization)
@@ -23,8 +31,52 @@ cs-collectons
 <!-- END_TOC -->
 
 
+# 个人推荐
 
-# 计算机科学
+
+## 计算机导论
+
+* 公开课[计算概论与程序设计基础-北大-李戈](https://www.bilibili.com/video/BV1U74118767)
+* 公开课[Crash Course Computer Science-YouTube](https://www.bilibili.com/video/BV1EW411u7th)
+
+
+
+
+
+
+
+
+
+## 编程语言
+
+
+## 数据结构与算法
+
+
+
+## 计算机架构与计算机系统
+
+
+
+## 计算机网络与安全
+
+
+
+## 数据库
+
+
+
+## 数据科学
+
+
+
+
+
+
+
+
+
+# CS
 
 
 * [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)：CS公开课汇集，强烈推荐
@@ -32,7 +84,7 @@ cs-collectons
     * [Computer inventors and pioneers](https://www.computerhope.com/people/)
 
 
-## 图灵奖
+## TuringAward
 
 * [Turing Award](https://awards.acm.org/)
     * [Marvin Minsky](http://web.media.mit.edu/~minsky/)
@@ -300,16 +352,6 @@ cs-collectons
     * [Manuel Blum](http://www.cs.cmu.edu/~mblum/):密码系统和程序检验先驱，计算复杂性理论的主要奠基人之一     
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
 * [计算机图形学](http://en.wikipedia.org/wiki/Computer_graphics)
     * [Alvy Ray Smith](http://alvyray.com/):计算机图形学的先驱
     * [Jim Blinn](http://alvyray.com/):计算机图形学的先驱
@@ -322,10 +364,6 @@ cs-collectons
 
     
 * [Per Brinch Hansen](http://brinch-hansen.net/):在并行计算（Concurrent computing）理论及操作系统核心的发展上，有重要地位。
-
-
-
-
 
 
 * [unsung heroes in Dutch computing history.](http://www-set.win.tue.nl/UnsungHeroes/home.html): Many text books and websites provide a short coverage of mainstream computer history. 强烈推荐 
@@ -640,7 +678,7 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
     * [MIT6.828:Operating Systems](https://pdos.csail.mit.edu/6.828/2018/schedule.html)
 
 
-### 数据库
+### DataBase
 
 * [2019 年你读了哪些觉得比较好的计算机书籍？](https://www.zhihu.com/question/361165485)
     * [PingCAP University](https://university.pingcap.com/)
@@ -712,7 +750,7 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
 * [Kaggle](https://www.kaggle.com/)
 * [KDD Cup ](https://www.kdd.org/kdd-cup)
 
-# 数据科学
+# DataScience
 
 
 ## Java
