@@ -36,8 +36,8 @@ cs-collectons
 
 ## 计算机导论
 
-* 公开课[计算概论与程序设计基础-北大-李戈](https://www.bilibili.com/video/BV1U74118767)
-* 公开课[Crash Course Computer Science-YouTube](https://www.bilibili.com/video/BV1EW411u7th)
+* 公开课[计算概论与程序设计基础-北大-李戈-Bilibili](https://www.bilibili.com/video/BV1U74118767)
+* 公开课[Crash Course Computer Science-YouTube-Bilibili](https://www.bilibili.com/video/BV1EW411u7th)
 
 
 
