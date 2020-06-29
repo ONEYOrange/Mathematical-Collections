@@ -9,6 +9,7 @@ cs-collectons
 * [个人推荐](#个人推荐)
     * [计算机导论](#计算机导论)
     * [编程语言](#编程语言)
+        * [Python](*Python)
     * [数据结构与算法](#数据结构与算法)
     * [计算机架构与计算机系统](#计算机架构与计算机系统)
     * [计算机网络与安全](#计算机网络与安全)
@@ -48,6 +49,12 @@ cs-collectons
 
 
 ## 编程语言
+
+### Python
+* [Full Stack Python](https://www.fullstackpython.com/)
+    * [Best Python Resources](https://www.fullstackpython.com/best-python-resources.html)
+        * [Python Guide Documentation-(中文版)Python最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
+
 
 
 ## 数据结构与算法
