@@ -53,7 +53,8 @@ cs-collectons
 ### Python
 * [Full Stack Python](https://www.fullstackpython.com/)
     * [Best Python Resources](https://www.fullstackpython.com/best-python-resources.html)
-        * [Python Guide Documentation-(中文版)Python最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
+        * [easy-python](https://easy-python.readthedocs.io/en/latest/)
+            * [Python Guide Documentation-(中文版)Python最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
 
 
 
