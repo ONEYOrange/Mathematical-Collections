@@ -106,7 +106,7 @@
 
 * [Proceedings of Symposia in Pure Mathematics](http://www.ams.org/publications/ebooks/pspum-coll):GTM52中	Robin Hartshorne介绍的一套论文集，按照Hartshorne所说的，是为了外行人介绍一些知识而写成的关于各自领域的一些文章
     * [Fractal Geometry and Applications: A Jubilee of Benoît Mandelbrot](https://users.math.yale.edu/~bbm3/web_pdfs/jubileetext.pdf):例如分形几何
-    * [CORE:he world’s largest collection of open access research papers](https://core.ac.uk/):以及一个论文搜集、下载网站；下载方法：https://core.ac.uk/download/pdf/“数字标识”.pdf即可
+    * [CORE:he world’s largest collection of open access research papers](https://core.ac.uk/):一个论文搜集、下载网站；下载方法：https://core.ac.uk/download/pdf/“数字标识”.pdf即可
 
 
 
