@@ -104,6 +104,12 @@
 
 ## 指引
 
+* [Proceedings of Symposia in Pure Mathematics](http://www.ams.org/publications/ebooks/pspum-coll):GTM52中	Robin Hartshorne介绍的一套论文集，按照Hartshorne所说的，是为了外行人介绍一些知识而写成的关于各自领域的一些文章
+    * [Fractal Geometry and Applications: A Jubilee of Benoît Mandelbrot](https://users.math.yale.edu/~bbm3/web_pdfs/jubileetext.pdf):例如分形几何
+    * [CORE:he world’s largest collection of open access research papers](https://core.ac.uk/):以及一个论文搜集、下载网站；下载方法：https://core.ac.uk/download/pdf/“数字标识”.pdf即可
+
+
+
 * [知乎](https://www.zhihu.com/search?type=content&q=%E6%95%B0%E5%AD%A6Notes)
     * [你所读的（基础）数学方向，有哪些不错的讲义（Notes）？](https://www.zhihu.com/question/38253477/answer/76064632)
     * [你所读的数学方向，有哪些短小精干的讲义或者教材？](https://www.zhihu.com/question/51099975/answer/124215584)
@@ -244,6 +250,9 @@ Book by Dietmar A. Salamon
 * [目前世界上研究代数拓扑方向的一流数学家都有哪些？都在哪里？](https://www.zhihu.com/question/46648873/answer/362821964)
     * [J. Peter May](http://math.uchicago.edu/~may/)AT
 * [Akhil Mathew](http://math.uchicago.edu/~amathew/notes.html)
+
+
+
 
 # 网路资源
 
@@ -679,6 +688,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     
 * [Yale](https://math.yale.edu/)
     * [ Alexander Goncharov](https://users.math.yale.edu/users/goncharov/)
+    * [Benoit B. MANDELBROT](https://users.math.yale.edu/~bbm3/):分形
     
 * [California Institute of Technology](http://pma.divisions.caltech.edu/research-and-academics/mathematics)
     * [Matilde Marcolli](http://www.its.caltech.edu/~matilde/):非交换几何、分形几何
