@@ -244,7 +244,7 @@ Book by Dietmar A. Salamon
     * [Help understanding Algebraic Geometry](https://math.stackexchange.com/questions/269384/help-understanding-algebraic-geometry/269446#269446)
 
 * [Robin Hartshorne](https://math.berkeley.edu/people/faculty/robin-c-hartshorne)
-
+* [The Stacks project](https://stacks.math.columbia.edu/):an open source textbook and reference work on algebraic geometry反正是个字典
 
 * [Caucher Birkar](https://www.dpmms.cam.ac.uk/~cb496/)Fields Medal(2016)
 
@@ -255,7 +255,8 @@ Book by Dietmar A. Salamon
 ## 概率与统计
 
 * [Rick Durrett](https://services.math.duke.edu/~rtd/PTE/pte.html):经典书籍《Probability: Theory and Examples. 5th Edition》的作者
-
+* [Noga Alon](https://www.tau.ac.il/~nogaa/):《Noga Alon》
+* [Olav Kallenberg](http://webhome.auburn.edu/~kalleoh/):字典级别《Foundations of Modern Probability 》
 
 
 # 网路资源
@@ -269,7 +270,7 @@ Book by Dietmar A. Salamon
 * [DML: Digital Mathematics Library](https://www.math.uni-bielefeld.de/~rehmann/DML/dml_links.html):宝藏，强烈推荐
 * [MATH RESOURCES](http://www.barry.edu/learning-center/math-lab-resources.html)
     * [Topics in Mathematics](http://archives.math.utk.edu/topics/):同样宝藏，强烈推荐："In these pages, you will find links to various WWW resources on Mathematics."
-    
+* [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/) :数学家学术系谱
 
 ## Videos
 
