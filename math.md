@@ -18,6 +18,7 @@
     * [几何](#几何)
     * [拓扑](#拓扑)
     * [代数几何](#代数几何)
+    * [概率与统计](#概率与统计)
     
 * [网路资源](#网路资源)
     * [网站](#网站)
@@ -251,6 +252,9 @@ Book by Dietmar A. Salamon
     * [J. Peter May](http://math.uchicago.edu/~may/)AT
 * [Akhil Mathew](http://math.uchicago.edu/~amathew/notes.html)
 
+## 概率与统计
+
+* [Rick Durrett](https://services.math.duke.edu/~rtd/PTE/pte.html):经典书籍《Probability: Theory and Examples. 5th Edition》的作者
 
 
 
