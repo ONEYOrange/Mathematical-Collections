@@ -511,6 +511,8 @@ Book by Dietmar A. Salamon
     * [Grothendieck](http://www.landsburg.com/grothendieck/):Biographies,Clef de Songes ,Recoltes et Semailles (Grothendieck autobiography) ,Esquisse (English Translation)
 * [A website devoted to the life and works of Alexandre Grothendieck](http://www.grothendieckcircle.org/)
 * [Association des collaborateurs de Nicolas Bourbaki](https://www.bourbaki.fr/)
+    * [Séminaire Bourbaki](http://www.numdam.org/item/SB/)
+    * [ENS:Séminaire N. Bourbaki](http://www.bourbaki.ens.fr/seminaires/2019/index.html)
     * [Archives de l'Association des Collaborateurs de Nicolas Bourbaki](http://sites.mathdoc.fr/archives-bourbaki/)
     * [Where is Seminaire Bourbaki on-line?](https://mathoverflow.net/questions/260474/where-is-seminaire-bourbaki-on-line)
     * [Bourbaki Archives](https://www.math.columbia.edu/~woit/wordpress/?p=2334)
