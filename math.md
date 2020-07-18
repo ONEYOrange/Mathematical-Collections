@@ -510,10 +510,11 @@ Book by Dietmar A. Salamon
 * [Grothendieck Circle](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/)
     * [Grothendieck](http://www.landsburg.com/grothendieck/):Biographies,Clef de Songes ,Recoltes et Semailles (Grothendieck autobiography) ,Esquisse (English Translation)
 * [A website devoted to the life and works of Alexandre Grothendieck](http://www.grothendieckcircle.org/)
-* [Archives de l'Association des Collaborateurs de Nicolas Bourbaki](http://sites.mathdoc.fr/archives-bourbaki/)
-* [Where is Seminaire Bourbaki on-line?](https://mathoverflow.net/questions/260474/where-is-seminaire-bourbaki-on-line)
+* [Association des collaborateurs de Nicolas Bourbaki](https://www.bourbaki.fr/)
+    * [Archives de l'Association des Collaborateurs de Nicolas Bourbaki](http://sites.mathdoc.fr/archives-bourbaki/)
+    * [Where is Seminaire Bourbaki on-line?](https://mathoverflow.net/questions/260474/where-is-seminaire-bourbaki-on-line)
     * [Bourbaki Archives](https://www.math.columbia.edu/~woit/wordpress/?p=2334)
-
+* [Séminaire Poincaré](http://bourbaphy.fr/)
 
 
 * [Cours de Master Paris-Saclay](https://bibliotheque.math.u-psud.fr/liens-externes/cours-videos-et-blogs/cours-de-master-paris-saclay/):有很多的资料，包括法文原版的书籍、Blogs、Vidéos et cours en ligne等等，强烈推荐
