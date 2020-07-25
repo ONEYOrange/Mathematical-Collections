@@ -257,7 +257,7 @@ Book by Dietmar A. Salamon
 
 * [目前世界上研究代数拓扑方向的一流数学家都有哪些？都在哪里？](https://www.zhihu.com/question/46648873/answer/362821964)
     * [J. Peter May](http://math.uchicago.edu/~may/)AT
-* [Akhil Mathew](http://math.uchicago.edu/~amathew/notes.html)
+* [Akhil Mathew](http://math.uchicago.edu/~amathew/notes.html)：有很好的notes，强烈推荐
 
 ## 概率与统计
 
