@@ -722,7 +722,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [Curtis T McMullen	](http://people.math.harvard.edu/~ctm/)：强烈推荐
     * [Noam D. Elkies](http://people.math.harvard.edu/~elkies/):Chess and Mathematics, Mathematical Problem Solving ，解析数论，高等数学
     * [Sebastien Vasey](http://people.math.harvard.edu/~sebv/):代数，范畴论，模型论
-    * [Shlomo Sternberg](http://people.math.harvard.edu/~shlomo/)
+    * [Shlomo Sternberg](http://people.math.harvard.edu/~shlomo/)：和	Lynn H. Loomis一起写的《Advanced Calculus, Revised Edition》是很不错的
 
 
 * [NYU Courant](https://www.math.nyu.edu/dynamic/)
