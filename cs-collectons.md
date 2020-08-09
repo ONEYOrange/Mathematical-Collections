@@ -15,6 +15,7 @@ cs-collectons
     * [计算机网络与安全](#计算机网络与安全)
     * [数据库](#数据库)
     * [数据科学](#数据科学)
+* [InformationTheory](#InformationTheory)
 * [CS](#CS)
     * [TuringAward](#TuringAward)
     * [Homepage](#Homepage)
@@ -80,7 +81,11 @@ cs-collectons
 
 
 
+# InformationTheory
 
+* [Princeton: Information Theory b-log](https://blogs.princeton.edu/blogit/)
+* [Information Theory in Computer Science (Harvard CS 229r, Spring 2019)](http://people.seas.harvard.edu/~madhusudan/courses/Spring2019/)
+* [CMU 15-859: Information Theory and its applications in theory of computation, Spring 2013](http://www.cs.cmu.edu/~venkatg/teaching/ITCS-spr2013/)
 
 
 
