@@ -50,6 +50,8 @@ cs-collectons
 
 
 ## 编程语言
+* [UMLChina讲座](http://www.umlchina.com/Chat/Newindex1.htm)：计算机领域一些演讲
+* [Bertrand Meyer](http://se.ethz.ch/~meyer/)
 
 ### Python
 * [Full Stack Python](https://www.fullstackpython.com/)
