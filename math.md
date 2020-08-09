@@ -324,6 +324,7 @@ Book by Dietmar A. Salamon
 
 ## Summerschool
 
+* [Algebraic Geometry Activities in China](http://www.alggeom.org/):国内代数几何的会议研讨会信息
 * [2020年中国科学院”代数与数论“暑期学校](http://2020ssant.csp.escience.cn/dct/page/1):(已经停办)
 * [中国科学院数学与系统科学研究院——“代数与数论”暑期学校主页](http://www.math.ac.cn/xshd/hyyzt/201902/t20190201_475367.html)
 
