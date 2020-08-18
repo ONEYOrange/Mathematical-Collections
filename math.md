@@ -266,6 +266,8 @@ Book by Dietmar A. Salamon
     * [Michael Hopkins](http://people.math.harvard.edu/~mjh/)
         * [Akhil Mathew](http://math.uchicago.edu/~amathew/notes.html)：有很好的notes，强烈推荐
         * [algebraic topology Lectures delivered by Michael Hopkins Notes by Eva Belmont and Akhil Mathew](https://math.northwestern.edu/~ebelmont/231br-notes.pdf):大神Michael Hopkins
+        * [Harvard Math 231br - Advanced Algebraic Topology Taught by Eric Peterson Notes by Dongryul Kim](https://dongryul-kim.github.io/harvard_notes/Math231br/Notes_Math231br.pdf)：它的个人主页上还有在Harvard本科期间的课程notes，可以参考
+
     * [Peter Teichner](https://math.berkeley.edu/people/faculty/peter-teichner):topological quantum field theory
     * [Douglas Ravenel](https://web.math.rochester.edu/people/faculty/doug/):同样推荐他的网页和notes
 * [algebraic topology problem list, maintained by Mark Hovey.](http://www-users.math.umn.edu/~tlawson/hovey/big.html)：有关代数拓扑的一些问题，推荐观看
