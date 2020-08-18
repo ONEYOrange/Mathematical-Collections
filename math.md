@@ -258,7 +258,23 @@ Book by Dietmar A. Salamon
 
 * [目前世界上研究代数拓扑方向的一流数学家都有哪些？都在哪里？](https://www.zhihu.com/question/46648873/answer/362821964)
     * [J. Peter May](http://math.uchicago.edu/~may/)AT
-* [Akhil Mathew](http://math.uchicago.edu/~amathew/notes.html)：有很好的notes，强烈推荐
+    * [Haynes R. Miller](http://www-math.mit.edu/~hrm/):stable homotopy theory的翹楚
+        * [2020 MIT 18.906](https://ocw.mit.edu/courses/mathematics/18-906-algebraic-topology-ii-spring-2020/references/):有丰富的References，强烈推荐
+        * [MIT 18.906: Algebraic Topology II](http://math.mit.edu/~hrm/18.906/)跟下面的链接都有notes
+        * [MIT 18.905](https://ocw.mit.edu/courses/mathematics/18-905-algebraic-topology-i-fall-2016/lecture-notes/)
+        * [Sanath Devalapurkar](https://sanathdevalapurkar.github.io/)
+    * [Michael Hopkins](http://people.math.harvard.edu/~mjh/)
+        * [Akhil Mathew](http://math.uchicago.edu/~amathew/notes.html)：有很好的notes，强烈推荐
+        * [algebraic topology Lectures delivered by Michael Hopkins Notes by Eva Belmont and Akhil Mathew](https://math.northwestern.edu/~ebelmont/231br-notes.pdf):大神Michael Hopkins
+    * [Peter Teichner](https://math.berkeley.edu/people/faculty/peter-teichner):topological quantum field theory
+    * [Douglas Ravenel](https://web.math.rochester.edu/people/faculty/doug/):同样推荐他的网页和notes
+* [algebraic topology problem list, maintained by Mark Hovey.](http://www-users.math.umn.edu/~tlawson/hovey/big.html)：有关代数拓扑的一些问题，推荐观看
+
+* [AG的一些notes](https://people.maths.ox.ac.uk/ritter/algebraic-topology/References.pdf)
+    * [Ulrike Tillmann](https://people.maths.ox.ac.uk/tillmann/AlgTop.html):Algebraic Topology 2013
+    * [Topology notes](http://faculty.tcu.edu/gfriedman/notes/):强烈推荐其中提到的Notes on Algebraic Topology by Saunders MacLane
+
+
 
 ## 概率与统计
 
@@ -354,6 +370,7 @@ Book by Dietmar A. Salamon
 * Online:[Math seminars ](https://mathseminars.org/)
     * [Online Math Seminars by Ao Sun](http://math.mit.edu/~aosun/online_seminars.html)
     * [Mathematics Seminars List by Jaume de Dios](https://jaume.dedios.cat/math-seminars/)
+* [MathMeetings.net](https://mathmeetings.net/)
 * [SINGACOM](http://www.singacom.uva.es/EN/): SINGACOM is a research group with head at the Deparment of Algebra, Mathematical Analysis, Geometry and Topology (Science Faculty, University of Valladolid), however it includes research people from other Deparments of the University of Valladolid and other Universities.In this web you will find information on our activities and our research themes.   
 
 * [Mathematics Department of the Upenn](https://www.math.upenn.edu/)
