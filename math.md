@@ -215,6 +215,8 @@ Book by Dietmar A. Salamon
     * [Urs Lang](https://people.math.ethz.ch/~lang/): Analysis and Geometry
 
 * [Differential topology versus differential geometry](https://math.stackexchange.com/questions/1350670/differential-topology-versus-differential-geometry)
+    * [Will Merry](https://www.merry.io/courses/differential-geometry/)
+    * [Differential geometry textbook recommendations and historically interesting works](http://www.topology.org/tex/conc/differential_geometry_books.html)
     * [Teaching myself differential topology and differential geometry](https://math.stackexchange.com/questions/13575/teaching-myself-differential-topology-and-differential-geometry/22583?r=SearchResults#22583)
     * [Recommending books for introductory differential geometry (duplicate)(https://math.stackexchange.com/questions/264331/recommending-books-for-introductory-differential-geometry?noredirect=1)
     * [Introductory texts on manifolds](https://math.stackexchange.com/questions/46482/introductory-texts-on-manifolds?noredirect=1)
