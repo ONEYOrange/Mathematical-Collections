@@ -894,7 +894,9 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 ## AlgebraicGeometry
 
-
+* [Richard Borcherds](https://math.berkeley.edu/~reb/papers/index.html)
+    * [推荐下你认为的比较好的数学类公开课？](https://www.zhihu.com/question/39162415)这里是课程的[youtube地址](https://www.youtube.com/channel/UCIyDqfi_cbkp-RU20aBF-MQ/)
+    * [Zvi Rosen:UCB256A Algebraic Geometry Notes](https://www.math.upenn.edu/~zvihr/courses/AGNotes.pdf)
 
 
 
