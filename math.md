@@ -846,6 +846,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [The Fields Medalists, chronologically listed](https://www.mathunion.org/imu-awards/fields-medal)
     * 1990[Vladimir Drinfeld](http://math.uchicago.edu/~drinfeld/)
     * 1990[Vaughan F.R. Jones](https://math.berkeley.edu/~vfr/)
+    * 2014[Martin Hairer](http://www.hairer.org/)
 
 * [突破奖](https://breakthroughprize.org/)
     * [Larry Guth](http://math.mit.edu/~lguth/):辛几何、黎曼几何、调和分析以及组合几何
