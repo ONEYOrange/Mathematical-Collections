@@ -40,6 +40,6 @@ __biz=MzIzMjQyNzQ5MA==&mid=2247501459&idx=1&sn=8d34ad576501ee2e700a4daabec9336b&
 * 豆瓣[物理组资源汇总](https://www.douban.com/group/topic/12655115/)
     * 豆瓣[物理网络资源搜集](https://www.douban.com/group/topic/4411375/)
 
-
+* UCSB[KITP Public Lectures](http://online.itp.ucsb.edu/plecture/freedman/)公开讲座
 
 
