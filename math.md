@@ -730,6 +730,11 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 * [UCB](https://math.berkeley.edu/)
     * [All Faculty](https://math.berkeley.edu/people/faculty)
     * [Lawrence Craig Evans](https://math.berkeley.edu/~evans/): 上面有很好的PDE notes
+    * [Richard E. Borcherds](https://math.berkeley.edu/~reb/)
+        * [怪物与月光：浅谈1998年Fields Medal得主Richard Borcherds 的数学工作](https://mp.weixin.qq.com/s/OdpuEqm9Rhof0hDLGMX1uA)
+        * [东大数学讲究XB：无穷维李代数与有限群——顶点算子代数与月光模](https://mp.weixin.qq.com/s/juYIQ2fdzssouXEGaKODrw)
+    * [Vaughan F.R. Jones](https://math.berkeley.edu/~vfr/)
+        * [菲尔兹奖得主Vanghan Jones离世](https://mp.weixin.qq.com/s/zDlpz3ZtVeXmelfPzGjd2A):Jones教授的研究方向为算子代数，由于在子因子理论方面的工作和定义了Jones多项式，于1990年获得菲尔兹奖。他在冯·诺伊曼代数及纽结多项式理论研究方面贡献突出，其中以他名字命名的Jones多项式已被广泛应用在几何拓扑、纽结理论、统计物理、量子场论等诸多领域，并开创了许多新的研究方向。
 
 
 * [Stanford](https://mathematics.stanford.edu/)：site:math.stanford.edu/~
