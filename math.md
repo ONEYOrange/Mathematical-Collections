@@ -731,6 +731,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
     * [All Faculty](https://math.berkeley.edu/people/faculty)
     * [Lawrence Craig Evans](https://math.berkeley.edu/~evans/): 上面有很好的PDE notes
     * [Richard E. Borcherds](https://math.berkeley.edu/~reb/)
+        * youtube:[Richard E. BORCHERDS](https://www.youtube.com/channel/UCIyDqfi_cbkp-RU20aBF-MQ/)
         * [怪物与月光：浅谈1998年Fields Medal得主Richard Borcherds 的数学工作](https://mp.weixin.qq.com/s/OdpuEqm9Rhof0hDLGMX1uA)
         * [东大数学讲究XB：无穷维李代数与有限群——顶点算子代数与月光模](https://mp.weixin.qq.com/s/juYIQ2fdzssouXEGaKODrw)
     * [Vaughan F.R. Jones](https://math.berkeley.edu/~vfr/)
