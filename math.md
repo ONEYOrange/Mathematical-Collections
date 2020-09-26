@@ -946,7 +946,7 @@ Research Interests(from his homepage): I am mainly interested in the mathematica
 
 * [Artur Avila](http://w3.impa.br/~avila/):Fields Medal (2014)
 
-
+* [History of Numerical Analysis and Scientific Computing](http://history.siam.org/)
 
 
 ## 数学物理
