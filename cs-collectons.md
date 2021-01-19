@@ -638,7 +638,7 @@ Case Studies in Common Lisp](https://norvig.github.io/paip-lisp/#/?id=paradigms-
             * [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
         * [程序员应该如何学习算法？](https://www.zhihu.com/question/19981544/answer/596772712)
             * [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/#book)
- * [演算法笔记](http://www.csie.ntnu.edu.tw/~u91029/)      
+ * [演算法笔记](http://web.ntnu.edu.tw/~algo/)      
     * [大家都是如何刷 LeetCode 的？](https://www.zhihu.com/question/280279208)
         * [LeetCode](https://github.com/azl397985856/leetcode)leetcode题解，记录自己的leetcode解题之路。
         
